@@ -1,38 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Tic-Tac-Toe Client</title>
-	<link rel="stylesheet" href="../static/styles.css">
-	<script src="../static/globals.js" defer></script>
-	<script src="../static/codebig.js" defer></script>
-	<script src="../static/addcode.js" defer></script>
-	<script src="../static/server.js" defer></script>
-	<script src="../static/start.js" defer></script>
+  <meta charset="utf-8">
+  <title>Flask Game Server</title>
+  <link rel="stylesheet" href="/static/styles.css">
 </head>
-
 <body>
-	<div class="container">
-		<h1>Tic-Tac-Toe Game</h1>
+  <h1>Game Server UI</h1>
 
-		<div id="game-info">
-			<h2>Game Status</h2>
-			<p id="status-message"></p>
-			<div id="moves-area"></div>
-		</div>
+  <section>
+    <h2>Start Game</h2>
+    <form id="start-form">
+      <label>Game Name:</label>
+      <input type="text" id="gamename" value="tictactoe">
+      <label>Players (JSON array):</label>
+      <textarea id="players">["Alice", "Bob"]</textarea>
+      <label>Options (JSON):</label>
+      <textarea id="options">{}</textarea>
+      <button type="button" onclick="startGame()">Start Game</button>
+    </form>
+  </section>
 
-		<button id="fetch-state-button">
-			Fetch Game State
-		</button>
-	</div>
+  <section>
+    <h2>Game Actions</h2>
+    <label>Game ID:</label>
+    <input type="text" id="gameid">
+    <label>Move (JSON):</label>
+    <textarea id="move"></textarea>
+    <button onclick="makeMove()">Make Move</button>
+    <button onclick="getGameState()">Get Game State</button>
+    <button onclick="saveGame()">Save Game</button>
+    <button onclick="loadGame()">Load Game</button>
+    <button onclick="deleteGame()">Delete Game</button>
+  </section>
 
-	<!-- <script src="../static/globals.js"></script>
-	<script src="../static/codebig.js"></script>
+  <pre id="output"></pre>
 
-	<script src="../static/server.js"></script>
-	<script src="../static/start.js"></script> -->
+  <script src="/static/ai.js"></script>
 </body>
-
 </html>

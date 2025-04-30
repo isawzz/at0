@@ -1,7 +1,14 @@
 from flask import Flask, jsonify, render_template, request, send_from_directory
-
-from flask import Flask, render_template, request, send_from_directory
 from flask_cors import CORS
+import uuid
+import os
+import json
+from importlib import import_module
+
+GAMES_DIR = 'games'
+SAVED_GAMES_DIR = 'saved_games'
+
+os.makedirs(SAVED_GAMES_DIR, exist_ok=True)
 
 # Create an instance of the Flask class
 app = Flask(__name__, static_folder='static')
@@ -34,61 +41,6 @@ from ttt import (
     check_win,
     check_draw
 )
-@app.route('/game_state', methods=['GET'])
-def get_game_state():
-    """Returns the current game state as JSON."""
-    # Access game state directly from the imported variables
-    state = {
-        'board': board.tolist(), # Convert NumPy array to a list for JSON
-        'current_player': current_player,
-        'possible_moves': get_possible_moves(board),
-        'game_over': game_over,
-        'winner': winner # 1 for X, 2 for O, 0 for Draw, None otherwise
-    }
-    return jsonify(state)
-
-@app.route('/make_move', methods=['POST'])
-def handle_move():
-    """Receives a move from the client and updates the game state."""
-    global current_player, game_over, winner # Need global to modify these imported variables
-
-    if game_over:
-        return jsonify({'error': 'Game is already over. Start a new game.'}), 400
-
-    # Get move data from the client (expecting JSON like {'row': 0, 'col': 1})
-    move_data = request.get_json()
-    if not move_data or 'row' not in move_data or 'col' not in move_data:
-        return jsonify({'error': 'Invalid move data. Please provide row and col.'}), 400
-
-    row = move_data['row']
-    col = move_data['col']
-    player_making_move = current_player # Assume the correct player is making the move
-
-    # Attempt to make the move using the imported function
-    if make_move(board, row, col, player_making_move):
-        # Check for win or draw after the move using imported functions
-        if check_win(board, player_making_move):
-            game_over = True
-            winner = player_making_move
-        elif check_draw(board):
-            game_over = True
-            winner = 0 # 0 indicates a draw
-        else:
-            # Switch player if the game is not over
-            current_player = 3 - current_player # Switches between 1 and 2
-
-        # Return the updated game state
-        state = {
-            'board': board.tolist(),
-            'current_player': current_player,
-            'possible_moves': get_possible_moves(board),
-            'game_over': game_over,
-            'winner': winner
-        }
-        return jsonify(state)
-    else:
-        # Return an error if the move was invalid
-        return jsonify({'error': 'Invalid move. Cell is not empty or out of bounds.'}), 400
 
 @app.route('/restart', methods=['POST'])
 def restart_game():
@@ -105,6 +57,91 @@ def restart_game():
     }
     return jsonify(state)
 
+# --- Helper Functions ---
+def get_game_path(game_id):
+    return os.path.join(SAVED_GAMES_DIR, f'{game_id}.json')
+
+def save_game_state(game_id, data):
+    with open(get_game_path(game_id), 'w') as f:
+        json.dump(data, f)
+
+def load_game_state(game_id):
+    with open(get_game_path(game_id)) as f:
+        return json.load(f)
+
+# --- Routes ---
+
+@app.route('/start_game', methods=['POST'])
+def start_game():
+    data = request.json
+    game_name = data['gamename']
+    players = data['players']
+    options = data.get('options', {})
+
+    game_module = import_module(f'{GAMES_DIR}.{game_name}')
+    game = game_module.Game(players, options)
+    game_id = str(uuid.uuid4())
+
+    state = game.serialize()
+    save_game_state(game_id, {
+        'gamename': game_name,
+        'players': players,
+        'options': options,
+        'state': state
+    })
+
+    return jsonify({'gameid': game_id})
+
+@app.route('/load_game/<game_id>', methods=['GET'])
+def load_game(game_id):
+    try:
+        return jsonify(load_game_state(game_id))
+    except FileNotFoundError:
+        return jsonify({'error': 'Game not found'}), 404
+
+@app.route('/save_game/<game_id>', methods=['POST'])
+def save_game(game_id):
+    data = request.json
+    save_game_state(game_id, data)
+    return jsonify({'status': 'saved'})
+
+@app.route('/delete_game/<game_id>', methods=['DELETE'])
+def delete_game(game_id):
+    try:
+        os.remove(get_game_path(game_id))
+        return jsonify({'status': 'deleted'})
+    except FileNotFoundError:
+        return jsonify({'error': 'Game not found'}), 404
+
+@app.route('/game_state/<game_id>', methods=['GET'])
+def game_state(game_id):
+    try:
+        data = load_game_state(game_id)
+        game_module = import_module(f'{GAMES_DIR}.{data["gamename"]}')
+        game = game_module.Game(data['players'], data['options'])
+        game.deserialize(data['state'])
+
+        return jsonify(game.get_state())
+    except FileNotFoundError:
+        return jsonify({'error': 'Game not found'}), 404
+
+@app.route('/make_move/<game_id>', methods=['POST'])
+def make_move(game_id):
+    try:
+        move = request.json['move']
+        data = load_game_state(game_id)
+        game_module = import_module(f'{GAMES_DIR}.{data["gamename"]}')
+        game = game_module.Game(data['players'], data['options'])
+        game.deserialize(data['state'])
+
+        result = game.make_move(move)
+
+        data['state'] = game.serialize()
+        save_game_state(game_id, data)
+
+        return jsonify(result)
+    except FileNotFoundError:
+        return jsonify({'error': 'Game not found'}), 404
 
 # This block ensures the development server runs only when the script is executed directly
 # It will not run when imported into another script (like passenger_wsgi.py)
