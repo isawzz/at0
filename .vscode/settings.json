@@ -25,6 +25,11 @@
   "workbench.panel.defaultLocation": "right",
   "workbench.panel.opensMaximized": "never",
   "workbench.editor.enablePreview": false,
+	"search.exclude": {
+		"_versions": true,
+		"**/node_modules": true,
+		"**/folder_to_exclude": true
+	},
 	"files.exclude": {
 		"node_modules": true,
 		"package-lock*": true,

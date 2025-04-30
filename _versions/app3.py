@@ -1,5 +1,16 @@
 from flask import Flask, jsonify, render_template, request, send_from_directory
 
+from ttt import (
+    board,
+    current_player,
+    game_over,
+    winner,
+    initialize_board,
+    get_possible_moves,
+    make_move,
+    check_win,
+    check_draw
+)
 from flask import Flask, render_template, request, send_from_directory
 from flask_cors import CORS
 
@@ -23,17 +34,6 @@ def rootsimPath(path):
 	res = send_from_directory('', path)
 	return send_from_directory('', path)
 
-from ttt import (
-    board,
-    current_player,
-    game_over,
-    winner,
-    initialize_board,
-    get_possible_moves,
-    make_move,
-    check_win,
-    check_draw
-)
 @app.route('/game_state', methods=['GET'])
 def get_game_state():
     """Returns the current game state as JSON."""

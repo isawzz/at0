@@ -1,0 +1,75 @@
+body {
+	font-family: sans-serif;
+	line-height: 1.6;
+	margin: 20px;
+	background-color: #f4f4f4;
+	color: #333;
+}
+
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	text-align: center;
+	color: #0056b3;
+}
+
+#game-info {
+	margin-top: 20px;
+	border-top: 1px solid #eee;
+	padding-top: 15px;
+}
+
+#game-info h2 {
+	color: #555;
+}
+
+#possible-moves-list {
+	list-style: none;
+	padding: 0;
+}
+
+#possible-moves-list li {
+	background-color: #e9e9e9;
+	margin-bottom: 5px;
+	padding: 10px;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+#possible-moves-list li:hover {
+	background-color: #dcdcdc;
+}
+
+.game-over-message {
+	font-weight: bold;
+	color: #d9534f;
+}
+
+.winner-message {
+	font-weight: bold;
+	color: #5cb85c;
+}
+
+.draw-message {
+	font-weight: bold;
+	color: #f0ad4e;
+}
+
+#fetch-state-button {
+	display: block;
+	margin: 20px auto;
+	padding: 10px 20px;
+	background-color: #007bff;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
