@@ -74,6 +74,8 @@ def load_game_state(game_id):
 @app.route('/start_game', methods=['POST'])
 def start_game():
     data = request.json
+    print(data)
+    return jsonify(data)
     game_name = data['gamename']
     players = data['players']
     options = data.get('options', {})
