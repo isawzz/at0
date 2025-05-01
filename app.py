@@ -22,7 +22,8 @@ def rootsim():
 
 @app.route('/')
 def index():
-	return send_from_directory('templates', 'index.html')
+    return render_template('index.html')
+	#return send_from_directory('templates', 'index.html')
     # return 'hello, you are right here!'
 
 @app.route('/<path:path>')
