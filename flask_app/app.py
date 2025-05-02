@@ -12,22 +12,34 @@ os.makedirs(SAVED_GAMES_DIR, exist_ok=True)
 app = Flask(__name__)
 CORS(app)  # Allow access from external frontend (e.g., public_html)
 
-#region --- Helper functions ---
+# region --- Helper functions ---
 
 from itertools import product
 
-def unfold_cartesian_product(dicts):
-    if not dicts:
-        return tuple()
-    keys = dicts[0].keys()
-    result = {key: set() for key in keys}
-    for d in dicts:
-        for key in keys:
-            result[key].add(d[key])
-    return tuple([sorted(result[key]) for key in keys])
 
-def fold_cartesian_product(keys, values_lists):
-    return [dict(zip(keys, values)) for values in product(*values_lists)]
+def cartesian_contract(dict_list):
+    """
+    Given a list of dictionaries with identical keys, return:
+    (keys, list of value lists for each key)
+    """
+    if not dict_list:
+        return [], []
+
+    keys = list(dict_list[0].keys())
+    values_lists = [[] for _ in keys]
+
+    for d in dict_list:
+        for i, key in enumerate(keys):
+            if d[key] not in values_lists[i]:
+                values_lists[i].append(d[key])
+
+    return keys, values_lists
+
+
+def cartesian_expand(keys, values_lists):
+    product_list = [dict(zip(keys, combo)) for combo in product(*values_lists)]
+    return product_list
+
 
 def get_game_path(game_id):
     return os.path.join(SAVED_GAMES_DIR, f"{game_id}.json")
@@ -41,30 +53,38 @@ def save_game_state(game_id, data):
 def load_game_state(game_id):
     with open(get_game_path(game_id)) as f:
         return json.load(f)
-#endregion
 
-#region --- API Routes ---
+
+# endregion
+
+
+# region --- API Routes ---
 @app.route("/", methods=["GET"])
 def testapp():
-    print('testing...')
+    print("testing...")
     return jsonify({"gameid": "Hello!"})
+
 
 @app.route("/help", methods=["GET"])
 def helpme():
-    print('hello! you have arrived! the game is: select_a_game')
+    print("hello! you have arrived! the game is: select_a_game")
     return jsonify({"possible_moves": "Hello!"})
+
 
 @app.route("/test_folding", methods=["GET"])
 def test_folding():
-    data = [{'x': 'a', 'y': 1}, {'x': 'a', 'y': 2}, {'x': 'b', 'y': 1}, {'x': 'b', 'y': 2}]
-    keys = ['x', 'y']
+    data = [
+        {"x": "a", "y": 1},
+        {"x": "a", "y": 2},
+        {"x": "b", "y": 1},
+        {"x": "b", "y": 2},
+    ]
+    keys, compact = cartesian_contract(data)
+    expanded = cartesian_expand(keys, compact)
+    return jsonify(
+        {"possible_moves": {"compact": (keys, compact), "expanded": expanded}}
+    )
 
-    # Unfold:
-    unfolded = unfold_cartesian_product(data)  # (['a', 'b'], [1, 2])
-
-    # Fold:
-    folded = fold_cartesian_product(keys, unfolded)
-    return jsonify({"possible_moves": {"fold":folded,"unfold":unfolded}})
 
 @app.route("/start_game", methods=["POST"])
 def start_game():
