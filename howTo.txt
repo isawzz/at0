@@ -1,6 +1,14 @@
 
 source /home3/moxitoon/virtualenv/at0/3.11/bin/activate && cd /home3/moxitoon/at0
 
+___ make a python venv
+1. goto project dir
+2. python3 -m venv venv
+3. venv\Scripts\activate
+4. pip install flask flask-socketio eventlet
+5. pip freeze > requirements.txt
+
+
 _______ socket.io
 disconnect Event Parameters
 reason can be one of:

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Flask SocketIO Example</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			margin: 20px;
+		}
+
+		#messages {
+			border: 1px solid #ccc;
+			padding: 10px;
+			height: 200px;
+			overflow-y: scroll;
+			margin-bottom: 10px;
+		}
+
+		.message {
+			margin-bottom: 5px;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Simple SocketIO Chat</h1>
+	<div id="messages">
+	</div>
+	<input type="text" id="messageInput" placeholder="Enter message">
+	<button onclick="sendMessage()">Send</button>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+	<script>
+		// Connect to the Socket.IO server
+		// By default, it connects to the server that served this page
+		var socket = io();
+
+		// Event handler for 'connect' event
+		socket.on('connect', function () {
+			console.log('Connected to server');
+		});
+
+		// Event handler for 'disconnect' event
+		socket.on('disconnect', function () {
+			console.log('Disconnected from server');
+		});
+
+		// Event handler for 'status' event from the server
+		socket.on('status', function (data) {
+			console.log('Status from server: ' + data.msg);
+			addMessage('Server Status: ' + data.msg);
+		});
+
+		// Event handler for 'message' event from the server
+		socket.on('message', function (data) {
+			console.log('Message from server: ' + data);
+			addMessage('Message: ' + data);
+		});
+
+		// Function to send a message to the server
+		function sendMessage() {
+			var input = document.getElementById('messageInput');
+			var message = input.value;
+			if (message) {
+				// Emit a 'message' event to the server
+				socket.emit('message', message);
+				input.value = ''; // Clear the input field
+			}
+		}
+
+		// Function to add a message to the messages div
+		function addMessage(text) {
+			var messagesDiv = document.getElementById('messages');
+			var messageElement = document.createElement('div');
+			messageElement.classList.add('message');
+			messageElement.textContent = text;
+			messagesDiv.appendChild(messageElement);
+			// Scroll to the bottom
+			messagesDiv.scrollTop = messagesDiv.scrollHeight;
+		}
+
+		// Send a test custom event after connecting
+		socket.on('connect', function () {
+			socket.emit('my_event', { data: 'Client connected!' });
+		});
+
+		// Handle response from 'my_event'
+		socket.on('my_response', function (json) {
+			console.log('Received response for my_event: ' + JSON.stringify(json));
+			addMessage('Server Response: ' + JSON.stringify(json));
+		});
+
+	</script>
+</body>
+
+</html>

@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import os, json, uuid
+import os, sys, json, uuid, random, string
+from itertools import product
 from importlib import import_module
 
 # Directories
@@ -14,9 +15,6 @@ CORS(app)  # Allow access from external frontend (e.g., public_html)
 
 # region --- Helper functions ---
 
-from itertools import product
-
-
 def cartesian_per_row(data):
     results = []
     for row in data:
@@ -24,7 +22,6 @@ def cartesian_per_row(data):
         values = list(row.values())
         results.append([keys, values])
     return results
-
 
 def cartesian_contract(dict_list):
     """
@@ -44,28 +41,36 @@ def cartesian_contract(dict_list):
 
     return keys, values_lists
 
-
 def cartesian_expand(keys, values_lists):
     product_list = [dict(zip(keys, combo)) for combo in product(*values_lists)]
     return product_list
 
+def delete_all_files(directory):
+    for filename in os.listdir(directory):
+        file_path = os.path.join(directory, filename)
+        try:
+            if os.path.isfile(file_path):
+                os.remove(file_path)
+        except Exception as e:
+            print(f"Error deleting {file_path}: {e}")
+
+def generate_id(s: str, n: int) -> str:
+  if not isinstance(n, int) or n <= 0:
+    raise ValueError("Number of digits 'n' must be a positive integer.")
+  return f"{s}_{''.join(random.choices(string.digits, k=n))}"
 
 def get_game_path(game_id):
     return os.path.join(SAVED_GAMES_DIR, f"{game_id}.json")
-
 
 def save_game_state(game_id, data):
     with open(get_game_path(game_id), "w") as f:
         json.dump(data, f)
 
-
 def load_game_state(game_id):
     with open(get_game_path(game_id)) as f:
         return json.load(f)
 
-
 # endregion
-
 
 # region --- API Routes ---
 @app.route("/", methods=["GET"])
@@ -104,7 +109,7 @@ def start_game():
 
     game_module = import_module(f"{GAMES_DIR}.{game_name}")
     game = game_module.Game(players, options)
-    game_id = str(uuid.uuid4())
+    game_id = generate_id(game_name, 8)  # str(uuid.uuid4())
 
     save_game_state(
         game_id,
@@ -173,6 +178,10 @@ def delete_game(game_id):
     except FileNotFoundError:
         return jsonify({"error": "Game not found"}), 404
 
+@app.route("/delete_games", methods=["DELETE"])
+def delete_games():
+    delete_all_files(SAVED_GAMES_DIR)
+    return jsonify({"status": "deleted"})
 
 @app.route("/get_tables", methods=["GET"])
 def get_tables():
