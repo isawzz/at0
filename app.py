@@ -31,32 +31,32 @@ def rootsimPath(path):
 	res = send_from_directory('', path)
 	return send_from_directory('', path)
 
-from ttt import (
-    board,
-    current_player,
-    game_over,
-    winner,
-    initialize_board,
-    get_possible_moves,
-    make_move,
-    check_win,
-    check_draw
-)
+# from ttt import (
+#     board,
+#     current_player,
+#     game_over,
+#     winner,
+#     initialize_board,
+#     get_possible_moves,
+#     make_move,
+#     check_win,
+#     check_draw
+# )
 
-@app.route('/restart', methods=['POST'])
-def restart_game():
-    """Restarts the game."""
-    # Use the imported initialize_board function
-    initialize_board()
-    # Access updated game state directly from the imported variables
-    state = {
-        'board': board.tolist(),
-        'current_player': current_player,
-        'possible_moves': get_possible_moves(board),
-        'game_over': game_over,
-        'winner': winner
-    }
-    return jsonify(state)
+# @app.route('/restart', methods=['POST'])
+# def restart_game():
+#     """Restarts the game."""
+#     # Use the imported initialize_board function
+#     initialize_board()
+#     # Access updated game state directly from the imported variables
+#     state = {
+#         'board': board.tolist(),
+#         'current_player': current_player,
+#         'possible_moves': get_possible_moves(board),
+#         'game_over': game_over,
+#         'winner': winner
+#     }
+#     return jsonify(state)
 
 # --- Helper Functions ---
 def get_game_path(game_id):

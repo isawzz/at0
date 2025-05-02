@@ -1,3 +1,4 @@
+
 class Game:
     def __init__(self, players, options=None):
         self.players = players
