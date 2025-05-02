@@ -17,6 +17,15 @@ CORS(app)  # Allow access from external frontend (e.g., public_html)
 from itertools import product
 
 
+def cartesian_per_row(data):
+    results = []
+    for row in data:
+        keys = list(row.keys())
+        values = list(row.values())
+        results.append([keys, values])
+    return results
+
+
 def cartesian_contract(dict_list):
     """
     Given a list of dictionaries with identical keys, return:
