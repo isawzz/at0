@@ -1,0 +1,7 @@
+2025-05-03 07:55:07,379 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 07:55:07,391 - werkzeug - INFO -  * Debugger PIN: 339-796-100
+2025-05-03 07:55:15,308 - werkzeug - INFO -  * Restarting with stat
+2025-05-03 07:55:16,016 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 07:55:16,025 - werkzeug - INFO -  * Debugger PIN: 339-796-100
+2025-05-03 07:57:54,724 - werkzeug - INFO -  * Detected change in 'C:\\xampp\\htdocs\\at0\\flask2\\app.py', reloading
+2025-05-03 07:57:54,873 - werkzeug - INFO -  * Restarting with stat

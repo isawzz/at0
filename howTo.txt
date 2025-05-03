@@ -17,3 +17,17 @@ app.py
 	def index():
     return render_template("index.html")
 
+___ !!!start app.py from cd flask2;python app.py (sonst findet games dir nicht!!!)
+
+
+
+
+
+
+
+
+
+
+
+
+
