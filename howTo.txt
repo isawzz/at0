@@ -8,5 +8,12 @@ ___ make a python venv
 4. pip install flask flask-socketio eventlet
 5. pip freeze > requirements.txt
 
-
+___ flask dir structure
+templates
+...all front end test stuff
+app.py
+	app = Flask(__name__, static_folder='templates')
+	@app.route("/")
+	def index():
+    return render_template("index.html")
 

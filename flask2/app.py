@@ -3,7 +3,7 @@ from flask_socketio import SocketIO, emit
 import os, json, uuid
 from importlib import import_module
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='templates')
 app.config["SECRET_KEY"] = "secret!"
 socketio = SocketIO(app, cors_allowed_origins="*")
 

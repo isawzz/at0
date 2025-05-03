@@ -6,5 +6,7 @@
   "exclude": [
     "**/*.css",
     "**/*.html",
+    "**/_*.js",
+    "_history/",
   ]
 }

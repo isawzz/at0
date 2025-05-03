@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<title>Game Server UI</title>
+	<link rel="stylesheet" href="../templates/styles.css">
+	<link rel="icon" href="../templates/airplane.png" />
+</head>
+
+<body>
+	<h1>Game Interface</h1>
+
+	<section>
+		<h2>Start a Game</h2>
+		<label for="gameSelect">Game:</label>
+		<select id="gameSelect"></select>
+		<button onclick="startSelectedGame()">Start</button>
+	</section>
+
+	<section>
+		<h2>Make a Move</h2>
+		<label for="gameIdInput">Game ID:</label>
+		<input type="text" id="gameIdInput" placeholder="Enter game ID" />
+		<label for="moveInput">Move (JSON):</label>
+		<input type="text" id="moveInput" placeholder='{"x":0,"y":1}' />
+		<button onclick="makeSelectedMove()">Submit Move</button>
+	</section>
+
+	<section>
+		<h2>Game State</h2>
+		<label for="stateGameId">Game ID:</label>
+		<input type="text" id="stateGameId" />
+		<button onclick="fetchGameState()">Get State</button>
+		<pre id="gameState"></pre>
+	</section>
+
+	<section>
+		<h2>Global Chat</h2>
+		<div id="chatBox" style="border:1px solid #ccc; height:150px; overflow-y:scroll; padding:5px;"></div>
+		<input type="text" id="chatInput" placeholder="Say something..." />
+		<button onclick="sendChat()">Send</button>
+	</section>
+
+	<script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+	<script src="../templates/client.js"></script>
+	<!-- <script src="../templates/ai.js"></script>
+	<script src="../templates/start.js"></script> -->
+	<script>
+
+	</script>
+</body>
+
+</html>
