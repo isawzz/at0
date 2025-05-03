@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>SocketIO Broadcast</title>
+	<script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+</head>
+
+<body>
+	<h2>Broadcast Chat</h2>
+	<input id="msg" placeholder="Type a message..." />
+	<button onclick="sendMessage()">Send</button>
+	<ul id="chat"></ul>
+
+	<script>
+		const socket = io();
+
+		socket.on("message", function (msg) {
+			const li = document.createElement("li");
+			li.textContent = msg;
+			document.getElementById("chat").appendChild(li);
+		});
+
+		function sendMessage() {
+			const msg = document.getElementById("msg").value;
+			socket.send(msg);
+			document.getElementById("msg").value = "";
+		}
+	</script>
+</body>
+
+</html>
