@@ -1,0 +1,14563 @@
+1st_place_medal:
+- sport
+- symbol
+2nd_place_medal:
+- sport
+- symbol
+3d_hammer:
+- tool
+3d_meeple:
+- game
+3d_stairs:
+- object
+3rd_place_medal:
+- sport
+- symbol
+VP:
+- object
+a_button_blood_type:
+- symbol
+aardvark:
+- animal
+aaron:
+- user
+ab_button_blood_type:
+- symbol
+abacus:
+- math
+abbot_meeple:
+- game
+abraham_lincoln:
+- user
+abstract_001:
+- symbol
+abstract_002:
+- symbol
+abstract_003:
+- symbol
+abstract_004:
+- symbol
+abstract_005:
+- symbol
+abstract_006:
+- symbol
+abstract_007:
+- symbol
+abstract_008:
+- symbol
+abstract_009:
+- symbol
+abstract_010:
+- symbol
+abstract_011:
+- symbol
+abstract_012:
+- symbol
+abstract_013:
+- symbol
+abstract_014:
+- symbol
+abstract_015:
+- symbol
+abstract_016:
+- symbol
+abstract_017:
+- symbol
+abstract_018:
+- symbol
+abstract_019:
+- symbol
+abstract_020:
+- symbol
+abstract_021:
+- symbol
+abstract_022:
+- symbol
+abstract_023:
+- symbol
+abstract_024:
+- symbol
+abstract_025:
+- symbol
+abstract_026:
+- symbol
+abstract_027:
+- symbol
+abstract_028:
+- symbol
+abstract_029:
+- symbol
+abstract_030:
+- symbol
+abstract_031:
+- symbol
+abstract_032:
+- symbol
+abstract_033:
+- symbol
+abstract_034:
+- symbol
+abstract_035:
+- symbol
+abstract_036:
+- symbol
+abstract_037:
+- symbol
+abstract_038:
+- symbol
+abstract_039:
+- symbol
+abstract_040:
+- symbol
+abstract_041:
+- symbol
+abstract_042:
+- symbol
+abstract_043:
+- symbol
+abstract_044:
+- symbol
+abstract_045:
+- symbol
+abstract_046:
+- symbol
+abstract_047:
+- symbol
+abstract_048:
+- symbol
+abstract_049:
+- symbol
+abstract_050:
+- symbol
+abstract_051:
+- symbol
+abstract_052:
+- symbol
+abstract_053:
+- symbol
+abstract_054:
+- symbol
+abstract_055:
+- symbol
+abstract_056:
+- symbol
+abstract_057:
+- symbol
+abstract_058:
+- symbol
+abstract_059:
+- symbol
+abstract_060:
+- symbol
+abstract_061:
+- symbol
+abstract_062:
+- symbol
+abstract_063:
+- symbol
+abstract_064:
+- symbol
+abstract_065:
+- symbol
+abstract_066:
+- symbol
+abstract_067:
+- symbol
+abstract_068:
+- symbol
+abstract_069:
+- symbol
+abstract_070:
+- symbol
+abstract_071:
+- symbol
+abstract_072:
+- symbol
+abstract_073:
+- symbol
+abstract_074:
+- symbol
+abstract_075:
+- symbol
+abstract_076:
+- symbol
+abstract_077:
+- symbol
+abstract_078:
+- symbol
+abstract_079:
+- symbol
+abstract_080:
+- symbol
+abstract_081:
+- symbol
+abstract_082:
+- symbol
+abstract_083:
+- symbol
+abstract_084:
+- symbol
+abstract_085:
+- symbol
+abstract_086:
+- symbol
+abstract_087:
+- symbol
+abstract_088:
+- symbol
+abstract_089:
+- symbol
+abstract_090:
+- symbol
+abstract_091:
+- symbol
+abstract_092:
+- symbol
+abstract_093:
+- symbol
+abstract_094:
+- symbol
+abstract_095:
+- symbol
+abstract_096:
+- symbol
+abstract_097:
+- symbol
+abstract_098:
+- symbol
+abstract_099:
+- symbol
+abstract_100:
+- symbol
+abstract_101:
+- symbol
+abstract_102:
+- symbol
+abstract_103:
+- symbol
+abstract_104:
+- symbol
+abstract_105:
+- symbol
+abstract_106:
+- symbol
+abstract_107:
+- symbol
+abstract_108:
+- symbol
+abstract_109:
+- symbol
+abstract_110:
+- symbol
+abstract_111:
+- symbol
+abstract_112:
+- symbol
+abstract_113:
+- symbol
+abstract_114:
+- symbol
+abstract_115:
+- symbol
+abstract_116:
+- symbol
+abstract_117:
+- symbol
+abstract_118:
+- symbol
+abstract_119:
+- symbol
+abstract_120:
+- symbol
+abstract_121:
+- symbol
+abu_bakr:
+- object
+accordion:
+- music
+ace:
+- card
+achievement:
+- symbol
+achilles_heel:
+- object
+acid:
+- object
+acid_blob:
+- object
+acid_tube:
+- object
+acorn:
+- plant
+acoustic_megaphone:
+- object
+acrobatic:
+- object
+acute:
+- object
+ad:
+- object
+address_book:
+- object
+address_card:
+- card
+adhesive_bandage:
+- object
+adjust:
+- object
+admission_tickets:
+- object
+advisor:
+- role
+aeneid:
+- object
+aerial_signal:
+- object
+aerial_tramway:
+- object
+aerodynamic_harpoon:
+- object
+aerosol:
+- object
+afia:
+- object
+africa:
+- object
+african_tortoise:
+- object
+afterburn:
+- object
+agave:
+- plant
+ages:
+- object
+air_balloon:
+- object
+air_force:
+- object
+air_freshener:
+- object
+air_zigzag:
+- object
+airplane:
+- object
+airplane_arrival:
+- object
+airplane_departure:
+- object
+airport1:
+- location
+airport10:
+- location
+airport2:
+- location
+airport3:
+- location
+airport4:
+- location
+airport5:
+- location
+airport6:
+- location
+airport7:
+- location
+airport8:
+- location
+airport9:
+- location
+airtight_hatch:
+- object
+ak47:
+- object
+ak47u:
+- object
+akhet:
+- object
+alarm_clock:
+- object
+alembic:
+- object
+aleph:
+- object
+alfred_nobel:
+- user
+algae:
+- plant
+algeria:
+- object
+alhambra:
+- object
+alhazen:
+- object
+alien:
+- object
+alien_bug:
+- object
+alien_egg:
+- object
+alien_fire:
+- object
+alien_monster:
+- object
+alien_skull:
+- object
+alien_stare:
+- object
+align_center:
+- object
+align_justify:
+- object
+align_left:
+- object
+align_right:
+- object
+all_for_one:
+- object
+all_seeing_eye:
+- object
+allergies:
+- object
+allied_star:
+- object
+alligator:
+- object
+alligator_clip:
+- object
+ally:
+- object
+almond:
+- plant
+almost_equal_to:
+- object
+alpaca:
+- object
+alpha:
+- object
+alpha_wavy:
+- object
+amanda:
+- art
+- user
+amanda10_11:
+- art
+amanda10_12:
+- art
+amanda10_13:
+- art
+amanda10_21:
+- art
+amanda10_22:
+- art
+amanda10_23:
+- art
+amanda10_31:
+- art
+amanda10_32:
+- art
+amanda10_33:
+- art
+amanda11_11:
+- art
+amanda11_12:
+- art
+amanda11_13:
+- art
+amanda11_21:
+- art
+amanda11_22:
+- art
+amanda11_23:
+- art
+amanda11_31:
+- art
+amanda11_32:
+- art
+amanda11_33:
+- art
+amanda12_11:
+- art
+amanda12_12:
+- art
+amanda12_13:
+- art
+amanda12_21:
+- art
+amanda12_22:
+- art
+amanda12_23:
+- art
+amanda12_31:
+- art
+amanda12_32:
+- art
+amanda12_33:
+- art
+amanda13_11:
+- art
+amanda13_12:
+- art
+amanda13_13:
+- art
+amanda13_21:
+- art
+amanda13_22:
+- art
+amanda13_23:
+- art
+amanda13_31:
+- art
+amanda13_32:
+- art
+amanda13_33:
+- art
+amanda14_11:
+- art
+amanda14_12:
+- art
+amanda14_13:
+- art
+amanda14_21:
+- art
+amanda14_22:
+- art
+amanda14_23:
+- art
+amanda14_31:
+- art
+amanda14_32:
+- art
+amanda14_33:
+- art
+amanda15_11:
+- art
+amanda15_12:
+- art
+amanda15_13:
+- art
+amanda15_21:
+- art
+amanda15_22:
+- art
+amanda15_23:
+- art
+amanda15_31:
+- art
+amanda15_32:
+- art
+amanda2_11:
+- art
+amanda2_12:
+- art
+amanda2_13:
+- art
+amanda2_21:
+- art
+amanda2_22:
+- art
+amanda2_23:
+- art
+amanda2_31:
+- art
+amanda2_32:
+- art
+amanda2_33:
+- art
+amanda3_11:
+- art
+amanda3_12:
+- art
+amanda3_13:
+- art
+amanda3_21:
+- art
+amanda3_22:
+- art
+amanda3_23:
+- art
+amanda3_31:
+- art
+amanda3_32:
+- art
+amanda3_33:
+- art
+amanda4_11:
+- art
+amanda4_12:
+- art
+amanda4_13:
+- art
+amanda4_21:
+- art
+amanda4_22:
+- art
+amanda4_23:
+- art
+amanda4_41:
+- art
+amanda4_42:
+- art
+amanda4_43:
+- art
+amanda5_11:
+- art
+amanda5_12:
+- art
+amanda5_13:
+- art
+amanda5_21:
+- art
+amanda5_22:
+- art
+amanda5_23:
+- art
+amanda5_31:
+- art
+amanda5_32:
+- art
+amanda5_33:
+- art
+amanda6_11:
+- art
+amanda6_12:
+- art
+amanda6_13:
+- art
+amanda6_21:
+- art
+amanda6_22:
+- art
+amanda6_23:
+- art
+amanda6_31:
+- art
+amanda6_32:
+- art
+amanda6_33:
+- art
+amanda7_11:
+- art
+amanda7_12:
+- art
+amanda7_13:
+- art
+amanda7_21:
+- art
+amanda7_22:
+- art
+amanda7_23:
+- art
+amanda7_31:
+- art
+amanda7_32:
+- art
+amanda7_33:
+- art
+amanda8_11:
+- art
+amanda8_12:
+- art
+amanda8_13:
+- art
+amanda8_21:
+- art
+amanda8_22:
+- art
+amanda8_23:
+- art
+amanda8_31:
+- art
+amanda8_32:
+- art
+amanda8_33:
+- art
+amanda9_11:
+- art
+amanda9_12:
+- art
+amanda9_13:
+- art
+amanda9_21:
+- art
+amanda9_22:
+- art
+amanda9_23:
+- art
+amanda9_31:
+- art
+amanda9_32:
+- art
+amanda9_33:
+- art
+amber_mosquito:
+- object
+ambulance:
+- object
+american_bobtail:
+- object
+american_civil_war:
+- object
+american_football:
+- sport
+american_football_ball:
+- sport
+american_football_helmet:
+- sport
+american_shield:
+- object
+american_sign_language_interpreting:
+- symbol
+amethyst:
+- object
+ammo_box:
+- object
+ammonite:
+- object
+ammonite_fossil:
+- object
+amphora:
+- object
+ample_dress:
+- clothing
+amplitude:
+- object
+amputation:
+- object
+anarchy:
+- object
+anatomical_heart:
+- object
+anatomy:
+- object
+anchor:
+- object
+anchor_circle_check:
+- object
+anchor_circle_exclamation:
+- object
+anchor_circle_xmark:
+- object
+anchor_lock:
+- object
+ancient_ruins:
+- object
+ancient_screw:
+- object
+ancient_sword:
+- object
+android_mask:
+- object
+andromeda_chain:
+- object
+angel_outfit:
+- object
+angel_wings:
+- object
+anger_symbol:
+- object
+angkor_wat:
+- object
+angle:
+- object
+angle_double_down:
+- object
+angle_double_left:
+- object
+angle_double_right:
+- object
+angle_double_up:
+- object
+angle_down:
+- object
+angle_left:
+- object
+angle_right:
+- object
+angle_up:
+- object
+angler_fish:
+- object
+angles_down:
+- object
+angles_left:
+- object
+angles_right:
+- object
+angles_up:
+- object
+anglo_afghan_war:
+- object
+angola:
+- object
+angry:
+- emotion
+angry_eyes:
+- emotion
+angry_face:
+- emotion
+angry_face_with_horns:
+- emotion
+anguished_face:
+- emotion
+angular_spider:
+- object
+animal_hide:
+- object
+animal_skull:
+- object
+ankh:
+- object
+anna:
+- user
+anna_komnene:
+- user
+annabel:
+- user
+annexation:
+- object
+ant:
+- object
+antarctica:
+- object
+antenna_bars:
+- object
+anthem:
+- object
+antibody:
+- object
+anticlockwise_circle_arrow:
+- object
+anticlockwise_rotation:
+- object
+anticlockwise_semicircle_arrow:
+- object
+antikythera_mechanism:
+- object
+ants:
+- object
+anubis:
+- object
+anvil:
+- object
+anvil_impact:
+- object
+anxious_face_with_sweat:
+- emotion
+apc:
+- object
+apex:
+- object
+apex2:
+- object
+apollo_capsule:
+- object
+apothecary:
+- object
+apple_alt:
+- object
+apple_core:
+- object
+apple_maggot:
+- object
+apple_seeds:
+- object
+apple_whole:
+- object
+approximately_but_not_actually_equal_to:
+- object
+approximately_equal_to:
+- object
+approximately_equal_to_or_the_image_of:
+- object
+aquarium:
+- object
+aquarius:
+- object
+aqueduct:
+- object
+arabic_door:
+- object
+arc_triomphe:
+- object
+archer:
+- object
+archery_target:
+- object
+archimedes:
+- object
+architect:
+- object
+architect_mask:
+- object
+archive:
+- object
+archive_research:
+- object
+archway:
+- object
+arcing_bolt:
+- object
+arctic_fox:
+- animal
+arena:
+- object
+aries:
+- object
+arm:
+- object
+arm_bandage:
+- object
+arm_sling:
+- object
+armadillo:
+- object
+armadillo_tail:
+- object
+armenia:
+- object
+armor_downgrade:
+- object
+armor_punch:
+- object
+armor_upgrade:
+- object
+armor_vest:
+- object
+armored_boomerang:
+- object
+armored_pants:
+- clothing
+armoured_shell:
+- object
+arrest:
+- object
+arrow_alt_circle_down:
+- object
+arrow_alt_circle_left:
+- object
+arrow_alt_circle_right:
+- object
+arrow_alt_circle_up:
+- object
+arrow_circle_down:
+- object
+arrow_circle_left:
+- object
+arrow_circle_right:
+- object
+arrow_circle_up:
+- object
+arrow_cluster:
+- object
+arrow_cursor:
+- object
+arrow_down:
+- object
+arrow_down_1_9:
+- object
+arrow_down_9_1:
+- object
+arrow_down_a_z:
+- object
+arrow_down_long:
+- object
+arrow_down_short_wide:
+- object
+arrow_down_up_across_line:
+- object
+arrow_down_up_lock:
+- object
+arrow_down_wide_short:
+- object
+arrow_down_z_a:
+- object
+arrow_dunk:
+- object
+arrow_flights:
+- object
+arrow_left:
+- object
+arrow_left_long:
+- object
+arrow_pointer:
+- object
+arrow_right:
+- object
+arrow_right_arrow_left:
+- object
+arrow_right_from_bracket:
+- object
+arrow_right_long:
+- object
+arrow_right_to_bracket:
+- object
+arrow_right_to_city:
+- location
+arrow_rotate_left:
+- object
+arrow_rotate_right:
+- object
+arrow_scope:
+- object
+arrow_trend_down:
+- object
+arrow_trend_up:
+- object
+arrow_turn_down:
+- object
+arrow_turn_up:
+- object
+arrow_up:
+- object
+arrow_up_1_9:
+- object
+arrow_up_9_1:
+- object
+arrow_up_a_z:
+- object
+arrow_up_from_bracket:
+- object
+arrow_up_from_ground_water:
+- object
+arrow_up_from_water_pump:
+- object
+arrow_up_long:
+- object
+arrow_up_right_dots:
+- object
+arrow_up_right_from_square:
+- object
+arrow_up_short_wide:
+- object
+arrow_up_wide_short:
+- object
+arrow_up_z_a:
+- object
+arrow_wings:
+- object
+arrowed:
+- object
+arrowhead:
+- object
+arrows_alt:
+- object
+arrows_alt_h:
+- object
+arrows_alt_v:
+- object
+arrows_down_to_line:
+- object
+arrows_down_to_people:
+- object
+arrows_left_right:
+- object
+arrows_left_right_to_line:
+- object
+arrows_rotate:
+- object
+arrows_shield:
+- object
+arrows_spin:
+- object
+arrows_split_up_and_left:
+- object
+arrows_to_circle:
+- object
+arrows_to_dot:
+- object
+arrows_to_eye:
+- object
+arrows_turn_right:
+- object
+arrows_turn_to_dots:
+- object
+arrows_up_down:
+- object
+arrows_up_down_left_right:
+- object
+arrows_up_to_line:
+- object
+arson:
+- object
+articulated_lorry:
+- object
+artificial_hive:
+- object
+artificial_intelligence:
+- object
+artillery_shell:
+- object
+artist:
+- object
+artist_palette:
+- object
+ascending_block:
+- object
+asian_lantern:
+- object
+asparagus:
+- object
+aspergillum:
+- object
+assassin:
+- object
+assassin_pocket:
+- object
+assistive_listening_systems:
+- object
+asterisk:
+- object
+asterisk_operator:
+- object
+asteroid:
+- object
+astonished_face:
+- emotion
+astronaut:
+- object
+astronaut_helmet:
+- object
+asymptotically_equal_to:
+- object
+at:
+- object
+at_sea:
+- object
+atlas:
+- object
+atm_sign:
+- symbol
+atom:
+- object
+atom_core:
+- object
+atom_symbol:
+- object
+atomic_slashes:
+- object
+attached_shield:
+- object
+aubergine:
+- object
+audio_cassette:
+- object
+audio_description:
+- object
+augustus:
+- object
+aura:
+- object
+aurora_borealis:
+- object
+austral_sign:
+- symbol
+australia:
+- object
+auto_repair:
+- object
+auto_rickshaw:
+- object
+autogun:
+- object
+automatic_sas:
+- object
+automobile:
+- object
+avocado:
+- object
+avoidance:
+- object
+award:
+- symbol
+awareness:
+- object
+axe:
+- tool
+axe_in_log:
+- tool
+axe_in_stump:
+- tool
+axe_swing:
+- tool
+axe_sword:
+- tool
+aztec_empire:
+- object
+b_button_blood_type:
+- symbol
+baby:
+- person
+baby_angel:
+- person
+baby_bottle:
+- food
+- person
+baby_carriage:
+- person
+baby_chick:
+- person
+baby_face:
+- emotion
+- person
+baby_symbol:
+- person
+babyfoot_players:
+- object
+babylonia:
+- object
+back_arrow:
+- object
+back_forth:
+- object
+back_pain:
+- object
+backbone_shell:
+- object
+backgammon:
+- object
+backhand_index_pointing_down:
+- gesture
+backhand_index_pointing_left:
+- gesture
+backhand_index_pointing_right:
+- gesture
+backhand_index_pointing_up:
+- gesture
+backpack:
+- object
+backslash:
+- object
+backspace:
+- object
+backstab:
+- object
+backup:
+- object
+backward:
+- object
+backward_fast:
+- object
+backward_step:
+- object
+backward_time:
+- object
+bacon:
+- object
+bacteria:
+- object
+bacterium:
+- object
+bad_breath:
+- object
+badger:
+- animal
+badminton:
+- sport
+bag_shopping:
+- object
+bagel:
+- object
+baggage_claim:
+- object
+baguette_bread:
+- food
+bahai:
+- object
+baht_sign:
+- symbol
+balaclava:
+- object
+balance_scale:
+- object
+balance_scale_left:
+- object
+balance_scale_right:
+- object
+bald:
+- object
+balkan_wars:
+- object
+balkenkreuz:
+- object
+ball_court:
+- object
+ball_glow:
+- object
+ball_heart:
+- object
+ball_pyramid:
+- object
+ballerina_shoes:
+- clothing
+ballet_shoes:
+- clothing
+ballista:
+- object
+balloon:
+- object
+balloon_dog:
+- animal
+balloon_uni:
+- object
+balloons:
+- object
+ballot_box_check:
+- object
+ballot_box_with_ballot:
+- object
+bamboo:
+- object
+bamboo_fountain:
+- object
+bamboo_weevil:
+- object
+ban:
+- object
+ban_smoking:
+- object
+banana:
+- object
+banana_bunch:
+- object
+banana_peel:
+- object
+banana_peeled:
+- object
+band_aid:
+- object
+bandage:
+- object
+bandage_roll:
+- object
+bandaged:
+- object
+bandit:
+- object
+banging_gavel:
+- object
+bangladeshi_taka_sign:
+- symbol
+banjo:
+- object
+bank:
+- object
+banknote:
+- object
+bar_chart:
+- object
+barbarian:
+- object
+barbecue:
+- object
+barbed_arrow:
+- object
+barbed_coil:
+- object
+barbed_nails:
+- object
+barbed_spear:
+- object
+barbed_star:
+- object
+barbed_sun:
+- nature
+barbed_wire:
+- object
+barber_pole:
+- object
+barbute:
+- object
+barcode:
+- object
+barefoot:
+- object
+barn:
+- object
+barn_owl:
+- animal
+barn_spider:
+- object
+barracks:
+- object
+barracks_tent:
+- building
+barrel:
+- object
+barricade:
+- object
+barrier:
+- object
+bars:
+- object
+bars_progress:
+- object
+bars_staggered:
+- object
+baseball:
+- object
+baseball_ball:
+- object
+baseball_bat:
+- animal
+baseball_bat_ball:
+- animal
+baseball_glove:
+- object
+basket:
+- object
+basket_shopping:
+- object
+basketball:
+- sport
+basketball_ball:
+- sport
+basketball_basket:
+- sport
+basketball_jersey:
+- sport
+bastet:
+- object
+bat:
+- animal
+bat_2:
+- animal
+bat_blade:
+- animal
+bat_mask:
+- animal
+bat_wing:
+- animal
+bath:
+- object
+bathtub:
+- object
+baton:
+- object
+battered_axe:
+- tool
+batteries:
+- object
+battery:
+- object
+battery_0:
+- object
+battery_100:
+- object
+battery_25:
+- object
+battery_50:
+- object
+battery_75:
+- object
+battery_empty:
+- object
+battery_full:
+- object
+battery_half:
+- object
+battery_minus:
+- object
+battery_pack:
+- object
+battery_pack_alt:
+- object
+battery_plus:
+- object
+battery_quarter:
+- object
+battery_three_quarters:
+- object
+battle:
+- object
+battle_axe:
+- tool
+battle_gear:
+- object
+battle_mech:
+- object
+battle_of_agincourt:
+- object
+battle_of_ain_jalut:
+- object
+battle_of_austerlitz:
+- object
+battle_of_balaclava:
+- object
+battle_of_borodino:
+- object
+battle_of_cajamarca:
+- object
+battle_of_cannae:
+- object
+battle_of_hastings:
+- object
+battle_of_issus:
+- object
+battle_of_kadesh:
+- object
+battle_of_manzikert:
+- object
+battle_of_noryang:
+- object
+battle_of_poitiers:
+- object
+battle_of_poltava:
+- object
+battle_of_tannenberg:
+- object
+battle_of_thermopylae:
+- object
+battle_of_trafalgar:
+- object
+battle_of_tsushima:
+- object
+battle_of_waterloo:
+- object
+battle_tank:
+- object
+battleship:
+- object
+batwing_emblem:
+- object
+bayonet:
+- object
+beach_ball:
+- object
+beach_bucket:
+- object
+beach_with_umbrella:
+- object
+beam:
+- object
+beam_satellite:
+- object
+beam_wake:
+- object
+beaming_face_with_smiling_eyes:
+- emotion
+beams_aura:
+- object
+beans:
+- object
+beanstalk:
+- object
+bear:
+- object
+bear_face:
+- emotion
+bear_head:
+- object
+beard:
+- object
+beast_eye:
+- object
+beating_heart:
+- object
+beaver:
+- animal
+because:
+- object
+bed:
+- object
+bed_lamp:
+- object
+bed_pulse:
+- object
+bee:
+- object
+beech:
+- object
+beehive:
+- object
+beer:
+- food
+beer_bottle:
+- food
+beer_mug:
+- food
+beer_mug_empty:
+- food
+beer_stein:
+- food
+beet:
+- object
+beetle:
+- object
+beetle_shell:
+- object
+behold:
+- object
+belgium:
+- object
+bell:
+- object
+bell_concierge:
+- object
+bell_pepper:
+- object
+bell_shield:
+- object
+bell_slash:
+- object
+bell_with_slash:
+- object
+bellhop_bell:
+- object
+belt:
+- object
+belt_armor:
+- object
+belt_buckles:
+- object
+bengal_cat:
+- animal
+benjamin_disraeli:
+- object
+bento_box:
+- object
+berries_bowl:
+- object
+berry_bush:
+- plant
+bestial_fangs:
+- object
+beta:
+- object
+beveled_star:
+- object
+beverage_box:
+- object
+bezier_curve:
+- object
+bible:
+- object
+biceps:
+- object
+bicycle:
+- object
+big_ben:
+- object
+big_diamond_ring:
+- object
+big_egg:
+- object
+big_gear:
+- object
+big_wave:
+- gesture
+biking:
+- object
+bikini:
+- object
+billed_cap:
+- object
+billy:
+- object
+bindle:
+- object
+binoculars:
+- object
+biohazard:
+- object
+biplane:
+- object
+bird:
+- object
+bird_claw:
+- object
+bird_house:
+- building
+bird_limb:
+- object
+bird_mask:
+- object
+bird_twitter:
+- object
+birgit:
+- object
+birthday_cake:
+- event
+- food
+bishop_black:
+- object
+bishop_white:
+- object
+bison:
+- animal
+bitcoin_sign:
+- symbol
+biting_lip:
+- object
+black_bar:
+- object
+black_belt:
+- object
+black_bird:
+- object
+black_book:
+- object
+black_bridge:
+- object
+black_cat:
+- animal
+black_circle:
+- object
+black_club_suit:
+- object
+black_diamond_suit:
+- object
+black_flag:
+- symbol
+black_four_pointed_star:
+- object
+black_hand_shield:
+- gesture
+black_heart:
+- object
+black_heart_suit:
+- object
+black_hole_bolas:
+- object
+black_knight_helm:
+- object
+black_large_square:
+- object
+black_medium_small_square:
+- object
+black_medium_square:
+- object
+black_nib:
+- object
+black_rightwards_arrowhead:
+- object
+black_scissors:
+- object
+black_sea:
+- object
+black_small_square:
+- object
+black_spade_suit:
+- object
+black_square_button:
+- symbol
+black_telephone:
+- object
+black_white_circle:
+- object
+blackball:
+- object
+blackcurrant:
+- object
+blacksmith:
+- object
+blade:
+- object
+blade_bite:
+- object
+blade_drag:
+- object
+blade_fall:
+- object
+blast:
+- object
+blaster:
+- object
+bleeding_eye:
+- object
+bleeding_heart:
+- object
+bleeding_wound:
+- object
+blender:
+- object
+blender_phone:
+- technology
+blind:
+- object
+blindfold:
+- object
+block_house:
+- building
+blog:
+- object
+blond_hair:
+- object
+blood:
+- object
+bloody_stash:
+- object
+bloody_sword:
+- object
+blossom:
+- object
+blowfish:
+- object
+blue_book:
+- object
+blue_circle:
+- object
+blue_heart:
+- object
+blue_poison_dart_frog:
+- animal
+blue_square:
+- object
+blue_tit:
+- object
+blueberries:
+- object
+blunderbuss:
+- object
+bo:
+- object
+boar:
+- animal
+boar_ensign:
+- animal
+boar_tusks:
+- animal
+boat_engine:
+- object
+boat_fishing:
+- object
+boat_horizon:
+- object
+boat_propeller:
+- object
+bob:
+- object
+body_balance:
+- object
+body_height:
+- object
+body_swapping:
+- object
+boiling_bubbles:
+- object
+bolas:
+- object
+bold:
+- object
+bolivia:
+- object
+bolt:
+- object
+bolt_bomb:
+- object
+bolt_cutter:
+- object
+bolt_eye:
+- object
+bolt_lightning:
+- object
+bolt_saw:
+- tool
+bolt_shield:
+- object
+bolt_spell_cast:
+- object
+bolter_gun:
+- object
+bomb:
+- object
+bomber:
+- object
+bombing_run:
+- object
+bona:
+- object
+bone:
+- object
+bone_gnawer:
+- object
+bone_knife:
+- tool
+bone_knife_2:
+- tool
+bone_mace:
+- object
+bong:
+- object
+bonsai_tree:
+- plant
+book:
+- object
+book_atlas:
+- object
+book_aura:
+- object
+book_bible:
+- object
+book_bookmark:
+- object
+book_cover:
+- object
+book_cover_2:
+- object
+book_dead:
+- object
+book_journal_whills:
+- object
+book_medical:
+- object
+book_open:
+- object
+book_open_reader:
+- object
+book_pile:
+- object
+book_quran:
+- object
+book_reader:
+- object
+book_skull:
+- object
+book_storm:
+- object
+book_tanakh:
+- object
+bookmark:
+- object
+bookmark_tabs:
+- object
+bookmarklet:
+- object
+books:
+- object
+bookshelf:
+- object
+boomerang:
+- object
+boomerang_cross:
+- object
+boomerang_sun:
+- nature
+boot_kick:
+- object
+boot_prints:
+- object
+boot_stomp:
+- object
+booth:
+- object
+boots:
+- object
+booze:
+- object
+border_all:
+- object
+border_none:
+- object
+border_style:
+- object
+border_top_left:
+- object
+bordered_shield:
+- object
+bore_hole:
+- object
+boss_key:
+- object
+bottle_cap:
+- food
+bottle_droplet:
+- food
+bottle_vapors:
+- food
+bottle_water:
+- food
+bottle_with_popping_cork:
+- food
+bottled_bolt:
+- object
+bottled_shadow:
+- object
+bottom_right_3d_arrow:
+- object
+boudica:
+- object
+boulder_dash:
+- object
+bouncing_ball:
+- object
+bouncing_spring:
+- object
+bouncing_sword:
+- object
+bouquet:
+- object
+bow_and_arrow:
+- object
+bow_arrow:
+- object
+bow_tie:
+- accessory
+bow_tie_ribbon:
+- accessory
+bowels:
+- object
+bowen_knot:
+- object
+bowie_knife:
+- tool
+bowie_knife_2:
+- tool
+bowing:
+- object
+bowl_food:
+- object
+bowl_rice:
+- object
+bowl_spiral:
+- object
+bowl_with_spoon:
+- object
+bowling:
+- object
+bowling_ball:
+- object
+bowling_pin:
+- object
+bowling_propulsion:
+- object
+bowling_strike:
+- object
+bowman:
+- object
+box:
+- object
+box_archive:
+- object
+box_cutter:
+- object
+box_open:
+- object
+box_tissue:
+- object
+box_trap:
+- object
+boxers:
+- object
+boxes:
+- object
+boxes_packing:
+- object
+boxes_stacked:
+- object
+boxing_glove:
+- object
+boxing_glove_surprise:
+- object
+boxing_ring:
+- object
+boy:
+- person
+bracer:
+- object
+bracers:
+- object
+braille:
+- object
+brain:
+- object
+brain_freeze:
+- object
+brain_leak:
+- object
+brain_stem:
+- object
+brain_tentacle:
+- object
+brainstorm:
+- object
+branch_arrow:
+- object
+brandenburg_gate:
+- object
+brandy_bottle:
+- food
+brasero:
+- object
+brass_eye:
+- object
+brass_knuckles:
+- object
+brazil:
+- object
+brazil_flag:
+- symbol
+brazilian_real_sign:
+- symbol
+bread:
+- food
+bread_slice:
+- food
+breaking_chain:
+- object
+breast_feeding:
+- object
+breastplate:
+- object
+brewery:
+- object
+brick:
+- object
+brick_pile:
+- object
+brick_wall:
+- object
+bridge:
+- object
+bridge_at_night:
+- object
+bridge_circle_check:
+- object
+bridge_circle_exclamation:
+- object
+bridge_circle_xmark:
+- object
+bridge_lock:
+- object
+bridge_water:
+- object
+briefcase:
+- object
+briefcase_medical:
+- object
+briefs:
+- object
+bright_button:
+- symbol
+bright_explosion:
+- object
+british_museum:
+- object
+british_shorthair:
+- object
+broad_dagger:
+- object
+broadcast_tower:
+- building
+broadhead_arrow:
+- object
+broadsword:
+- object
+broccoli:
+- object
+brodie_helmet:
+- object
+broken_arrow:
+- object
+broken_axe:
+- tool
+broken_bone:
+- object
+broken_bottle:
+- food
+broken_heart:
+- object
+broken_heart_zone:
+- object
+broken_pottery:
+- object
+broken_ribbon:
+- object
+broken_shield:
+- object
+broken_skull:
+- object
+broken_tablet:
+- object
+broken_wall:
+- object
+broom:
+- object
+broom_ball:
+- object
+brown_circle:
+- object
+brown_heart:
+- object
+brown_square:
+- object
+brush:
+- object
+brutal_helm:
+- object
+brute:
+- object
+bubble_field:
+- object
+bubble_tea:
+- object
+bubbles:
+- object
+bubbling_beam:
+- object
+bubbling_bowl:
+- object
+bubbling_flask:
+- object
+bucket:
+- object
+bud:
+- object
+buddha:
+- object
+buddy:
+- object
+buffalo:
+- animal
+buffalo_head:
+- animal
+bug:
+- object
+bug_slash:
+- object
+bugle_call:
+- object
+bugs:
+- object
+building:
+- building
+building_circle_arrow_right:
+- building
+building_circle_check:
+- building
+building_circle_exclamation:
+- building
+building_circle_xmark:
+- building
+building_columns:
+- building
+building_construction:
+- building
+building_flag:
+- building
+- symbol
+building_lock:
+- building
+building_ngo:
+- building
+building_shield:
+- building
+building_un:
+- building
+building_user:
+- building
+building_wheat:
+- building
+bulb:
+- object
+bull:
+- object
+bull_horns:
+- object
+bulldozer:
+- object
+bullet:
+- object
+bullet_impacts:
+- object
+bullet_train:
+- object
+bullets:
+- object
+bullhorn:
+- object
+bullseye:
+- object
+bully_minion:
+- object
+bumblebee:
+- object
+bundle_grenade:
+- object
+bunker:
+- object
+bunker_assault:
+- object
+bunny_ears:
+- object
+buoy:
+- object
+burger:
+- food
+burn:
+- object
+burning_blobs:
+- object
+burning_book:
+- object
+burning_dot:
+- object
+burning_embers:
+- object
+burning_eye:
+- object
+burning_forest:
+- object
+burning_meteor:
+- object
+burning_passion:
+- object
+burning_round_shot:
+- object
+burning_skull:
+- object
+burning_tree:
+- plant
+burrito:
+- object
+burst:
+- object
+burst_blob:
+- object
+bus:
+- object
+bus_alt:
+- object
+bus_simple:
+- object
+bus_stop:
+- object
+business_time:
+- object
+bust_in_silhouette:
+- object
+busts_in_silhouette:
+- object
+butter:
+- object
+butterfly:
+- object
+butterfly_knife:
+- tool
+butterfly_knife_2:
+- tool
+butterfly_warning:
+- object
+button_finger:
+- symbol
+buy_card:
+- card
+byzantin_temple:
+- building
+byzantine_arab_war:
+- object
+c96:
+- object
+cable_car:
+- object
+cable_stayed_bridge:
+- object
+cactus:
+- object
+cactus_pot:
+- object
+cadillac_helm:
+- object
+caduceus:
+- object
+caesar:
+- object
+cage:
+- object
+caged_ball:
+- object
+cake_candles:
+- food
+cake_slice:
+- food
+calavera:
+- object
+calculator:
+- object
+caldera:
+- object
+calendar:
+- object
+calendar_alt:
+- object
+calendar_check:
+- object
+calendar_day:
+- object
+calendar_days:
+- object
+calendar_minus:
+- object
+calendar_plus:
+- object
+calendar_times:
+- object
+calendar_week:
+- object
+calendar_xmark:
+- object
+call_me_hand:
+- gesture
+caltrops:
+- object
+camargue_cross:
+- object
+cambodia:
+- object
+camel:
+- animal
+camel_archer:
+- animal
+camel_head:
+- animal
+camera:
+- technology
+camera_retro:
+- technology
+camera_rotate:
+- technology
+camera_with_flash:
+- technology
+camp_cooking_pot:
+- object
+campfire:
+- object
+campground:
+- object
+camping:
+- object
+camping_tent:
+- building
+cancel:
+- object
+cancer:
+- object
+candle:
+- object
+candle_flame:
+- object
+candle_holder:
+- object
+candle_light:
+- object
+candle_skull:
+- object
+candlebright:
+- object
+candles:
+- object
+candlestick_phone:
+- technology
+candy:
+- object
+candy_cane:
+- object
+candy_canes:
+- object
+cannabis:
+- object
+canned_food:
+- object
+cannister:
+- object
+cannon:
+- object
+cannon_ball:
+- object
+cannon_shot:
+- object
+canoe:
+- object
+cape:
+- clothing
+cape_of_good_hope:
+- clothing
+capitol:
+- object
+capricorn:
+- object
+capsules:
+- object
+captain_hat_profile:
+- accessory
+capybara:
+- object
+car:
+- object
+car_alt:
+- object
+car_battery:
+- object
+car_burst:
+- object
+car_crash:
+- object
+car_door:
+- object
+car_key:
+- object
+car_on:
+- object
+car_rear:
+- object
+car_seat:
+- object
+car_side:
+- object
+car_tunnel:
+- object
+car_wheel:
+- object
+carambola:
+- object
+caravan:
+- object
+caravel:
+- object
+card_10_clubs:
+- card
+card_10_diamonds:
+- card
+card_10_hearts:
+- card
+card_10_spades:
+- card
+card_2_clubs:
+- card
+card_2_diamonds:
+- card
+card_2_hearts:
+- card
+card_2_spades:
+- card
+card_3_clubs:
+- card
+card_3_diamonds:
+- card
+card_3_hearts:
+- card
+card_3_spades:
+- card
+card_4_clubs:
+- card
+card_4_diamonds:
+- card
+card_4_hearts:
+- card
+card_4_spades:
+- card
+card_5_clubs:
+- card
+card_5_diamonds:
+- card
+card_5_hearts:
+- card
+card_5_spades:
+- card
+card_6_clubs:
+- card
+card_6_diamonds:
+- card
+card_6_hearts:
+- card
+card_6_spades:
+- card
+card_7_clubs:
+- card
+card_7_diamonds:
+- card
+card_7_hearts:
+- card
+card_7_spades:
+- card
+card_8_clubs:
+- card
+card_8_diamonds:
+- card
+card_8_hearts:
+- card
+card_8_spades:
+- card
+card_9_clubs:
+- card
+card_9_diamonds:
+- card
+card_9_hearts:
+- card
+card_9_spades:
+- card
+card_ace_clubs:
+- card
+card_ace_diamonds:
+- card
+card_ace_hearts:
+- card
+card_ace_spades:
+- card
+card_burn:
+- card
+card_discard:
+- card
+card_draw:
+- card
+card_exchange:
+- card
+card_file_box:
+- card
+card_index:
+- card
+card_index_dividers:
+- card
+card_jack_clubs:
+- card
+card_jack_diamonds:
+- card
+card_jack_hearts:
+- card
+card_jack_spades:
+- card
+card_joker:
+- card
+card_king_clubs:
+- card
+- role
+card_king_diamonds:
+- card
+- role
+card_king_hearts:
+- card
+- role
+card_king_spades:
+- card
+- role
+card_pick:
+- card
+card_pickup:
+- card
+card_play:
+- card
+card_queen_clubs:
+- card
+- role
+card_queen_diamonds:
+- card
+- role
+card_queen_hearts:
+- card
+- role
+card_queen_spades:
+- card
+- role
+card_random:
+- card
+cardboard_box:
+- object
+caret_down:
+- object
+caret_left:
+- object
+caret_right:
+- object
+caret_square_down:
+- object
+caret_square_left:
+- object
+caret_square_right:
+- object
+caret_square_up:
+- object
+caret_up:
+- object
+cargo_crane:
+- object
+cargo_crate:
+- object
+cargo_ship:
+- object
+carillon:
+- object
+carmen:
+- object
+carnival_mask:
+- object
+carnivore_mouth:
+- object
+carnivorous_plant:
+- plant
+carnyx:
+- object
+carolus_linneaus:
+- object
+carousel:
+- object
+carousel_horse:
+- animal
+carp_streamer:
+- object
+carpentry_saw:
+- tool
+carpet_bombing:
+- object
+carrier:
+- object
+carrion:
+- object
+carrot:
+- object
+cart_arrow_down:
+- object
+cart_flatbed:
+- object
+cart_flatbed_suitcase:
+- object
+cart_plus:
+- object
+cart_shopping:
+- object
+cartwheel:
+- object
+cartwheeling:
+- object
+cash:
+- object
+cash_register:
+- object
+cassandra:
+- object
+cassowary_head:
+- object
+castle:
+- building
+castle_2:
+- building
+castle_ruins:
+- building
+cat:
+- animal
+cat31:
+- object
+cat32:
+- object
+cat_face:
+- animal
+- emotion
+cat_with_tears_of_joy:
+- animal
+- emotion
+cat_with_wry_smile:
+- animal
+- emotion
+cataphract:
+- object
+catapult:
+- object
+catch:
+- object
+caterpillar:
+- object
+cathedral:
+- object
+cattle_egret:
+- object
+cauldron:
+- object
+cauldron_2:
+- object
+cavalry:
+- object
+cave_entrance:
+- object
+caveman:
+- object
+cctv_camera:
+- technology
+cedi_sign:
+- symbol
+ceiling:
+- object
+ceiling_barnacle:
+- object
+ceiling_light:
+- object
+celebration_fire:
+- object
+cement_shoes:
+- clothing
+cent_sign:
+- symbol
+centaur:
+- object
+centipede:
+- object
+ceremonial_mask:
+- object
+certificate:
+- object
+chain_lightning:
+- object
+chain_mail:
+- object
+chained_arrow_heads:
+- object
+chained_heart:
+- object
+chaingun:
+- object
+chains:
+- object
+chainsaw:
+- object
+chair:
+- object
+chalice_drops:
+- object
+chalk_outline_murder:
+- object
+chalkboard:
+- object
+chalkboard_teacher:
+- object
+chalkboard_user:
+- object
+chameleon:
+- animal
+chameleon_glyph:
+- animal
+champagne_glasses:
+- accessory
+champions:
+- object
+chanterelles:
+- object
+charged_arrow:
+- object
+charging:
+- object
+charging_bull:
+- object
+charging_station:
+- object
+chariot:
+- object
+charlene:
+- user
+charm:
+- object
+chart:
+- object
+chart_area:
+- object
+chart_bar:
+- object
+chart_column:
+- object
+chart_decreasing:
+- object
+chart_gantt:
+- object
+chart_increasing:
+- object
+chart_increasing_with_yen:
+- object
+chart_line:
+- object
+chart_pie:
+- object
+chart_simple:
+- object
+chat_bubble:
+- object
+chateau:
+- object
+check:
+- object
+check_box_with_check:
+- object
+check_circle:
+- object
+check_double:
+- object
+check_mark:
+- symbol
+check_mark_button:
+- symbol
+check_mark_uni:
+- symbol
+check_square:
+- object
+check_to_slot:
+- object
+checkbox_tree:
+- plant
+checked_shield:
+- object
+checkered_diamond:
+- object
+checkered_flag:
+- symbol
+checklist:
+- object
+cheerful:
+- object
+cheese:
+- object
+cheese_wedge:
+- object
+cheetah:
+- object
+chef_toque:
+- object
+chelsea_boot:
+- object
+chemical_arrow:
+- object
+chemical_bolt:
+- object
+chemical_drop:
+- object
+chemical_tank:
+- object
+chequered_flag:
+- symbol
+cherish:
+- object
+cherries:
+- object
+cherry:
+- object
+cherry_blossom:
+- object
+chess:
+- game
+chess_bishop:
+- game
+chess_board:
+- game
+chess_king:
+- game
+- role
+chess_knight:
+- game
+chess_pawn:
+- game
+chess_queen:
+- game
+- role
+chess_rook:
+- game
+chest:
+- object
+chest_armor:
+- object
+chestnut:
+- object
+chestnut_leaf:
+- plant
+chevron_circle_down:
+- object
+chevron_circle_left:
+- object
+chevron_circle_right:
+- object
+chevron_circle_up:
+- object
+chevron_down:
+- object
+chevron_left:
+- object
+chevron_right:
+- object
+chevron_up:
+- object
+chewed_heart:
+- object
+chewed_skull:
+- object
+chichen_itza:
+- object
+chicken:
+- animal
+chicken_leg:
+- animal
+chicken_oven:
+- animal
+child:
+- person
+child_combatant:
+- person
+child_dress:
+- clothing
+- person
+child_reaching:
+- person
+children:
+- object
+children_crossing:
+- object
+chili_pepper:
+- object
+chimney:
+- object
+chimpanzee:
+- object
+chinese_cap:
+- object
+chipmunk:
+- object
+chips_bag:
+- object
+chisel:
+- object
+cho_ko_nu:
+- object
+chocolate_bar:
+- object
+choice:
+- object
+chopped_skull:
+- object
+chopsticks:
+- object
+christmas_tree:
+- plant
+church:
+- building
+cigale:
+- object
+cigar:
+- object
+cigarette:
+- object
+cinema:
+- object
+circle:
+- object
+circle_arrow_down:
+- object
+circle_arrow_left:
+- object
+circle_arrow_right:
+- object
+circle_arrow_up:
+- object
+circle_cage:
+- object
+circle_check:
+- object
+circle_chevron_down:
+- object
+circle_chevron_left:
+- object
+circle_chevron_right:
+- object
+circle_chevron_up:
+- object
+circle_claws:
+- object
+circle_dollar_to_slot:
+- object
+circle_dot:
+- object
+circle_down:
+- object
+circle_exclamation:
+- object
+circle_h:
+- object
+circle_half_stroke:
+- object
+circle_info:
+- object
+circle_left:
+- object
+circle_minus:
+- object
+circle_nodes:
+- object
+circle_notch:
+- object
+circle_pause:
+- object
+circle_play:
+- object
+circle_plus:
+- object
+circle_question:
+- object
+circle_radiation:
+- object
+circle_right:
+- object
+circle_sparks:
+- object
+circle_stop:
+- object
+circle_up:
+- object
+circle_user:
+- object
+circle_xmark:
+- object
+circled_m:
+- object
+circuitry:
+- object
+circular_saw:
+- tool
+circular_sawblade:
+- object
+circumscribed_multiplication:
+- object
+circumscribed_plus:
+- object
+circus_tent:
+- building
+city:
+- location
+city_car:
+- location
+city_wall:
+- location
+cityscape:
+- object
+cityscape_at_dusk:
+- object
+cl_button:
+- symbol
+clamp:
+- object
+clapper_board:
+- game
+clapperboard:
+- object
+clapping_hands:
+- object
+classical_building:
+- building
+claw:
+- object
+claw_hammer:
+- tool
+claw_slashes:
+- object
+claw_string:
+- object
+claws:
+- object
+clay_brick:
+- object
+claymore_explosive:
+- object
+cleaver:
+- object
+click:
+- object
+climbing:
+- object
+clinic_medical:
+- object
+clinking_beer_mugs:
+- food
+clinking_glasses:
+- accessory
+clipboard:
+- object
+clipboard_check:
+- object
+clipboard_list:
+- object
+clipboard_question:
+- object
+clipboard_user:
+- object
+cloak:
+- object
+cloak_dagger:
+- object
+clock:
+- object
+clock_rotate_left:
+- object
+clocks:
+- object
+clockwise_circle_arrow:
+- object
+clockwise_open_circle_arrow:
+- object
+clockwise_rotation:
+- object
+clockwise_vertical_arrows:
+- object
+clockwork:
+- object
+clone:
+- object
+closed_barbute:
+- object
+closed_book:
+- object
+closed_captioning:
+- object
+closed_doors:
+- object
+closed_mailbox_with_lowered_flag:
+- symbol
+closed_mailbox_with_raised_flag:
+- symbol
+closed_umbrella:
+- object
+cloth_jar:
+- object
+clothes:
+- object
+clothespin:
+- object
+cloud:
+- nature
+cloud_arrow_down:
+- nature
+cloud_arrow_up:
+- nature
+cloud_bolt:
+- nature
+cloud_download:
+- nature
+cloud_download_alt:
+- nature
+cloud_meatball:
+- nature
+cloud_moon:
+- nature
+cloud_moon_rain:
+- nature
+cloud_rain:
+- nature
+cloud_ring:
+- nature
+cloud_showers_heavy:
+- nature
+cloud_showers_water:
+- nature
+cloud_sun:
+- nature
+cloud_sun_rain:
+- nature
+cloud_uni:
+- nature
+cloud_upload:
+- nature
+cloud_upload_alt:
+- nature
+cloud_with_lightning:
+- nature
+cloud_with_lightning_and_rain:
+- nature
+cloud_with_rain:
+- nature
+cloud_with_snow:
+- nature
+cloudy_fork:
+- object
+clout:
+- object
+clover:
+- object
+clover_2:
+- object
+clover_spiked:
+- object
+clown:
+- object
+clown_face:
+- emotion
+clownfish:
+- object
+club_suit:
+- object
+clubs:
+- card
+cluster_bomb:
+- object
+clutch_bag:
+- object
+coal_mine:
+- object
+coal_wagon:
+- object
+coat:
+- object
+cobra:
+- object
+cobra_2:
+- object
+cobweb:
+- object
+cockroach:
+- object
+cocktail:
+- object
+cocktail_glass:
+- object
+coconut:
+- object
+coconuts:
+- object
+code:
+- object
+code_branch:
+- object
+code_commit:
+- object
+code_compare:
+- object
+code_fork:
+- object
+code_merge:
+- object
+code_pull_request:
+- object
+coffee:
+- object
+coffee_beans:
+- object
+coffee_cup:
+- object
+coffee_house:
+- building
+coffee_mug:
+- object
+coffee_pot:
+- object
+coffin:
+- object
+cog:
+- object
+cog_lock:
+- object
+cogs:
+- object
+cogsplosion:
+- object
+coiling_curl:
+- object
+coin:
+- object
+coinage:
+- object
+coins:
+- object
+coins_pile:
+- object
+cold_face:
+- emotion
+cold_heart:
+- object
+colibri:
+- object
+coliseum:
+- object
+collision:
+- object
+colombia:
+- object
+colombian_statue:
+- object
+colon_sign:
+- symbol
+colonial_trading:
+- object
+colony:
+- object
+colosseum:
+- object
+colt_m1911:
+- object
+columns:
+- object
+coma:
+- object
+comb:
+- object
+combination_lock:
+- object
+comet:
+- object
+comet_spark:
+- object
+comment:
+- object
+comment_alt:
+- object
+comment_dollar:
+- object
+comment_dots:
+- object
+comment_medical:
+- object
+comment_slash:
+- object
+comment_sms:
+- object
+comments:
+- object
+comments_dollar:
+- object
+compact_disc:
+- object
+companion_cube:
+- object
+compass:
+- object
+compass_drafting:
+- object
+complement:
+- object
+complementary:
+- object
+compress:
+- object
+compress_arrows_alt:
+- object
+computer:
+- technology
+computer_disk:
+- technology
+computer_fan:
+- technology
+computer_mouse:
+- animal
+- technology
+computing:
+- object
+concentration_orb:
+- object
+concentric_crescents:
+- object
+concierge_bell:
+- object
+concrete_bag:
+- object
+condor_emblem:
+- object
+condylura_skull:
+- object
+confetti_ball:
+- object
+confirmed:
+- object
+confounded_face:
+- emotion
+confrontation:
+- object
+confucian_academy:
+- object
+confused_face:
+- emotion
+congo:
+- object
+congress:
+- object
+conqueror:
+- object
+conquistador:
+- object
+conscript:
+- object
+console_controller:
+- object
+construction:
+- object
+construction_site:
+- object
+construction_worker:
+- person
+contains_as_member:
+- object
+contortionist:
+- object
+contour_integral:
+- object
+contract:
+- object
+control_knobs:
+- object
+control_tower:
+- building
+convenience_store:
+- object
+convergence_target:
+- object
+conversation:
+- object
+converse_shoe:
+- object
+convict:
+- object
+convince:
+- object
+conway_life_glider:
+- object
+cook:
+- object
+cooked_rice:
+- object
+cookie:
+- object
+cookie_bite:
+- object
+cooking:
+- object
+cooking_glove:
+- object
+cooking_pot:
+- object
+cool_button:
+- symbol
+cool_spices:
+- object
+copperband_butterflyfish:
+- object
+copy:
+- object
+copyright:
+- object
+copyright_uni:
+- object
+coral:
+- object
+corked_tube:
+- object
+corkscrew:
+- object
+corn:
+- object
+corner_explosion:
+- object
+corner_flag:
+- symbol
+cornucopia:
+- object
+coronation:
+- object
+corporal:
+- object
+corset:
+- object
+corsica:
+- object
+cortes_expedition:
+- object
+cossack:
+- object
+cotton_flower:
+- plant
+couch:
+- object
+couch_and_lamp:
+- object
+counterclockwise_arrows_button:
+- symbol
+couple_with_heart:
+- object
+couple_with_heart_man_man:
+- person
+couple_with_heart_woman_man:
+- person
+couple_with_heart_woman_woman:
+- person
+courthouse:
+- object
+covered_jar:
+- object
+cow:
+- animal
+cow_face:
+- animal
+- emotion
+cowboy_boot:
+- object
+cowboy_hat_face:
+- accessory
+- emotion
+cowboy_holster:
+- object
+cowled:
+- object
+cpu:
+- object
+cpu_shot:
+- object
+crab:
+- animal
+crab_claw:
+- animal
+cracked_alien_skull:
+- object
+cracked_ball_dunk:
+- object
+cracked_disc:
+- object
+cracked_glass:
+- object
+cracked_helm:
+- object
+cracked_mask:
+- object
+cracked_saber:
+- object
+cracked_shield:
+- object
+crafting:
+- object
+crags:
+- object
+crane:
+- object
+crayon:
+- object
+credit_card:
+- card
+credits_currency:
+- object
+crenel_crown:
+- object
+crenulated_shield:
+- object
+crescent_blade:
+- object
+crescent_blade_2:
+- object
+crescent_moon:
+- nature
+crested_helmet:
+- object
+cricket:
+- sport
+cricket_bat:
+- animal
+- sport
+cricket_game:
+- game
+- sport
+crime_scene_tape:
+- object
+crimean_war:
+- object
+croc_jaws:
+- object
+croc_sword:
+- object
+crocodile:
+- animal
+croissant:
+- object
+croissants_pupil:
+- object
+crook_flail:
+- object
+crop:
+- object
+crop_alt:
+- object
+crop_simple:
+- object
+cross:
+- object
+cross_flare:
+- object
+cross_mark:
+- symbol
+cross_mark_button:
+- symbol
+cross_mark_red:
+- symbol
+cross_mark_uni:
+- symbol
+cross_product:
+- object
+cross_shield:
+- object
+crossbow:
+- object
+crosscut_saw:
+- tool
+crossed_air_flows:
+- object
+crossed_axes:
+- object
+crossed_bones:
+- object
+crossed_chains:
+- object
+crossed_claws:
+- object
+crossed_fingers:
+- object
+crossed_pistols:
+- object
+crossed_sabres:
+- object
+crossed_slashes:
+- object
+crossed_swords:
+- object
+crosshair:
+- object
+crosshair_arrow:
+- object
+crosshairs:
+- object
+crossing_the_alps:
+- object
+crow:
+- object
+crow_dive:
+- object
+crow_nest:
+- object
+crowbar:
+- object
+crown:
+- object
+crown_coin:
+- object
+crown_of_thorns:
+- object
+crown_uni:
+- object
+crowned_explosion:
+- object
+crowned_heart:
+- object
+crowned_skull:
+- object
+crucifix:
+- object
+cruiser:
+- object
+crumbling_ball:
+- object
+crusader_states:
+- object
+crush:
+- object
+crutch:
+- object
+cruzeiro_sign:
+- symbol
+crying_cat:
+- animal
+crying_face:
+- emotion
+cryo_chamber:
+- object
+crystal_ball:
+- object
+crystal_bars:
+- object
+crystal_cluster:
+- object
+crystal_earrings:
+- object
+crystal_eye:
+- object
+crystal_growth:
+- object
+crystal_shine:
+- object
+crystal_shrine:
+- object
+crystal_wand:
+- object
+crystalize:
+- object
+cuauhtli:
+- object
+cube:
+- object
+cubeforce:
+- object
+cubes:
+- object
+cubes_stacked:
+- object
+cucumber:
+- object
+cultist:
+- object
+cultist_2:
+- object
+cup_with_straw:
+- object
+cupcake:
+- object
+cupidon_arrow:
+- object
+curled_leaf:
+- plant
+curled_tentacle:
+- object
+curling_stone:
+- object
+curling_vines:
+- object
+curly_hair:
+- object
+curly_loop:
+- object
+curly_mask:
+- object
+curly_wing:
+- object
+currency:
+- object
+currency_exchange:
+- object
+curry_rice:
+- object
+cursed_star:
+- object
+cursor:
+- object
+curvy_knife:
+- tool
+custard:
+- object
+custodian_helmet:
+- object
+customs:
+- object
+cut:
+- object
+cut_diamond:
+- object
+cut_lemon:
+- object
+cut_of_meat:
+- food
+cut_palm:
+- object
+cyber_eye:
+- object
+cyborg_face:
+- emotion
+cycle:
+- object
+cycling:
+- object
+cyclone:
+- object
+cyclops:
+- object
+cyrus_the_great:
+- object
+cz_skorpion:
+- object
+d10:
+- object
+d12:
+- object
+d4:
+- object
+daemon_pull:
+- object
+daemon_skull:
+- object
+dagger:
+- object
+dagger_rose:
+- object
+daggers:
+- object
+daisy:
+- object
+dam:
+- object
+damaged_house:
+- building
+dancing:
+- object
+dandelion_flower:
+- plant
+dango:
+- object
+dark_squad:
+- object
+dart:
+- object
+darwins_voyage:
+- object
+das:
+- object
+dashed_rightwards_arrow:
+- object
+dashing_away:
+- object
+database:
+- object
+david:
+- object
+dead_eye:
+- object
+dead_head:
+- object
+dead_wood:
+- object
+deadly_strike:
+- object
+deaf:
+- object
+deaf_man:
+- person
+deaf_person:
+- person
+deaf_woman:
+- person
+death_juice:
+- object
+death_note:
+- object
+death_skull:
+- object
+death_zone:
+- object
+deathcab:
+- object
+decapitation:
+- object
+deciduous_tree:
+- plant
+deer:
+- animal
+defense_satellite:
+- object
+defensive_wall:
+- object
+defibrillate:
+- object
+degree:
+- object
+delete_left:
+- object
+delighted:
+- object
+delivery_drone:
+- object
+delivery_truck:
+- object
+delta:
+- object
+democrat:
+- object
+demolish:
+- object
+department_store:
+- object
+derelict_house:
+- building
+dervish_swords:
+- object
+desert:
+- object
+desert_eagle:
+- animal
+desert_island:
+- location
+desert_skull:
+- object
+deshret_red_crown:
+- object
+desk:
+- object
+desk_lamp:
+- object
+desktop:
+- object
+desktop_computer:
+- technology
+despair:
+- object
+detective:
+- object
+detour:
+- object
+devil_mask:
+- object
+dew:
+- object
+dharmachakra:
+- object
+diablo_skull:
+- object
+diagnoses:
+- object
+diagram:
+- object
+diagram_next:
+- object
+diagram_predecessor:
+- object
+diagram_project:
+- object
+diagram_successor:
+- object
+diamond:
+- object
+diamond_hard:
+- object
+diamond_hilt:
+- object
+diamond_operator:
+- object
+diamond_ring:
+- object
+diamond_suit:
+- object
+diamond_turn_right:
+- object
+diamond_with_a_dot:
+- object
+diamonds:
+- card
+diamonds_black:
+- card
+diamonds_smile:
+- card
+- emotion
+diamonds_white:
+- card
+dice:
+- game
+dice_d20:
+- game
+dice_d6:
+- game
+dice_eight_faces_eight:
+- game
+dice_fire:
+- game
+dice_five:
+- game
+dice_four:
+- game
+dice_one:
+- game
+dice_shield:
+- game
+dice_six:
+- game
+dice_six_faces_five:
+- game
+dice_six_faces_four:
+- game
+dice_six_faces_one:
+- game
+dice_six_faces_six:
+- game
+dice_six_faces_three:
+- game
+dice_six_faces_two:
+- game
+dice_target:
+- game
+dice_three:
+- game
+dice_twenty_faces_one:
+- game
+dice_twenty_faces_twenty:
+- game
+dice_two:
+- game
+dig_dug:
+- object
+dig_hole:
+- object
+digit_eight:
+- math
+digit_five:
+- math
+digit_four:
+- math
+digit_nine:
+- math
+digit_one:
+- math
+digit_seven:
+- math
+digit_six:
+- math
+digit_three:
+- math
+digit_two:
+- math
+digit_zero:
+- math
+digital_tachograph:
+- object
+digital_trace:
+- object
+dike:
+- object
+dim_button:
+- symbol
+dimetrodon:
+- object
+dinosaur_bones:
+- animal
+dinosaur_egg:
+- animal
+dinosaur_rex:
+- animal
+diplodocus:
+- object
+diploma:
+- object
+direct_hit:
+- object
+direction:
+- object
+direction_sign:
+- symbol
+direction_signs:
+- object
+directions:
+- object
+director_chair:
+- object
+direwolf:
+- object
+disappointed_face:
+- emotion
+disc:
+- object
+disc_golf_bag:
+- sport
+disc_golf_basket:
+- sport
+discussion:
+- object
+disease:
+- object
+disguised_face:
+- emotion
+disintegrate:
+- object
+display:
+- object
+distraction:
+- object
+distraction_2:
+- object
+distress_signal:
+- object
+divergence:
+- object
+divert:
+- object
+divide:
+- object
+divided_spiral:
+- object
+divided_square:
+- object
+divina_commedia:
+- object
+diving_dagger:
+- object
+diving_helmet:
+- object
+diving_mask:
+- object
+division_sign:
+- symbol
+diya_lamp:
+- object
+dizzy:
+- object
+dizzy_face:
+- emotion
+djinn:
+- object
+dna:
+- object
+dna1:
+- object
+dna2:
+- object
+doctor_face:
+- emotion
+dodge:
+- object
+dodging:
+- object
+dodo:
+- object
+does_not_contain_as_member:
+- object
+dog:
+- animal
+dog_bowl:
+- animal
+dog_face:
+- animal
+- emotion
+dog_house:
+- animal
+- building
+dollar_banknote:
+- object
+dollar_sign:
+- symbol
+dolly:
+- object
+dolly_flatbed:
+- object
+dolmen:
+- object
+dolphin:
+- animal
+domino_mask:
+- game
+domino_tiles:
+- game
+don_quixote:
+- object
+donald:
+- user
+donate:
+- object
+dong_sign:
+- symbol
+donkey:
+- animal
+donut:
+- object
+door:
+- object
+door_closed:
+- object
+door_handle:
+- object
+door_open:
+- object
+door_ring_handle:
+- object
+doorway:
+- object
+dorsal_scales:
+- object
+dot_circle:
+- object
+dotted_line_face:
+- emotion
+dotted_six_pointed_star:
+- object
+double_curly_loop:
+- object
+double_diaphragm:
+- object
+double_dragon:
+- object
+double_exclamation_mark:
+- symbol
+double_face_mask:
+- emotion
+double_quaver:
+- object
+double_ringed_orb:
+- object
+double_shot:
+- object
+doubled:
+- object
+dough_roller:
+- object
+doughnut:
+- object
+dove:
+- object
+down_arrow:
+- object
+down_left_90deg_arrow:
+- object
+down_left_and_up_right_to_center:
+- object
+down_left_arrow:
+- object
+down_long:
+- object
+down_right_90deg_arrow:
+- object
+down_right_arrow:
+- object
+downcast_face_with_sweat:
+- emotion
+download:
+- object
+downwards_arrow:
+- object
+downwards_button:
+- symbol
+downwards_zigzag_arrow:
+- object
+dozen:
+- object
+drafting_compass:
+- object
+dragon:
+- object
+dragon_balls:
+- object
+dragon_breath:
+- object
+dragon_face:
+- emotion
+dragon_head:
+- object
+dragon_head_2:
+- object
+dragon_orb:
+- object
+dragon_spiral:
+- object
+dragonfly:
+- object
+drakkar:
+- object
+drakkar_dragon:
+- object
+drama_masks:
+- object
+draw_polygon:
+- object
+drawbridge:
+- object
+dread:
+- object
+dread_skull:
+- object
+dreadnought:
+- object
+dream_catcher:
+- object
+dress:
+- clothing
+drill:
+- tool
+drill_2:
+- tool
+drink_me:
+- food
+drinking:
+- object
+dripping_blade:
+- object
+dripping_goo:
+- object
+dripping_honey:
+- object
+dripping_knife:
+- tool
+dripping_star:
+- object
+dripping_stone:
+- object
+dripping_sword:
+- object
+dripping_tube:
+- object
+drooling_face:
+- emotion
+drop:
+- object
+drop_earrings:
+- object
+drop_of_blood:
+- object
+drop_weapon:
+- object
+droplet:
+- object
+droplet_slash:
+- object
+droplet_splash:
+- object
+droplets:
+- object
+drowning:
+- object
+drum:
+- music
+drum_steelpan:
+- music
+drumstick_bite:
+- object
+duality:
+- object
+duality_mask:
+- object
+duck:
+- animal
+duck_palm:
+- animal
+duel:
+- object
+duffel_bag:
+- object
+dumbbell:
+- object
+dumpling:
+- object
+dumpster:
+- object
+dumpster_fire:
+- object
+dunce_cap:
+- object
+dung_beetle:
+- object
+dungeon:
+- object
+dungeon_gate:
+- object
+dungeon_light:
+- object
+duration:
+- object
+dust_cloud:
+- nature
+dutch_bike:
+- object
+dutch_liberation_war:
+- object
+dvd:
+- object
+dwarf_face:
+- emotion
+dwarf_helmet:
+- object
+dwarf_king:
+- role
+dwennimmen:
+- object
+dynamite:
+- object
+e_mail:
+- object
+eagle:
+- animal
+eagle_emblem:
+- animal
+eagle_head:
+- animal
+ear:
+- object
+ear_deaf:
+- object
+ear_listen:
+- object
+ear_of_corn:
+- object
+ear_with_hearing_aid:
+- object
+earrings:
+- object
+earth_africa:
+- nature
+earth_africa_europe:
+- nature
+earth_america:
+- nature
+earth_americas:
+- nature
+earth_asia:
+- nature
+earth_asia_oceania:
+- nature
+earth_crack:
+- nature
+earth_europe:
+- nature
+earth_oceania:
+- nature
+earth_spit:
+- nature
+earth_worm:
+- nature
+earwig:
+- object
+easter_egg:
+- object
+eastern_rosella:
+- object
+eating:
+- object
+eating_pelican:
+- animal
+echo_ripples:
+- object
+eclipse:
+- object
+eclipse_flare:
+- object
+eclipse_saw:
+- tool
+ecology:
+- object
+edge_crack:
+- object
+edged_shield:
+- object
+edit:
+- object
+eel:
+- object
+egg:
+- object
+egg_clutch:
+- object
+egg_defense:
+- object
+egg_pod:
+- object
+eggplant:
+- object
+egypt:
+- object
+egyptian_bird:
+- object
+egyptian_profile:
+- object
+egyptian_pyramids:
+- object
+egyptian_sphinx:
+- object
+egyptian_temple:
+- building
+egyptian_urns:
+- object
+egyptian_walk:
+- object
+eight_ball:
+- object
+eight_note:
+- object
+eight_oclock:
+- object
+eight_pointed_star:
+- object
+eight_spoked_asterisk:
+- object
+eight_thirty:
+- object
+eject:
+- object
+eject_button:
+- symbol
+elbow_pad:
+- object
+elderberry:
+- object
+eleanor_of_aquitaine:
+- object
+electric:
+- object
+electric_plug:
+- object
+electric_whip:
+- object
+electrical_crescent:
+- object
+electrical_resistance:
+- object
+electrical_socket:
+- object
+element_of:
+- object
+elephant:
+- animal
+elephant_head:
+- animal
+elevator:
+- object
+eleven_o'clock:
+- object
+eleven_oclock:
+- object
+eleven_thirty:
+- object
+elf:
+- object
+elf_ear:
+- object
+elf_face:
+- emotion
+elf_helmet:
+- object
+elizabeth:
+- user
+ellipsis:
+- object
+ellipsis_h:
+- object
+ellipsis_v:
+- object
+ellipsis_vertical:
+- object
+elven_castle:
+- building
+ember_shot:
+- object
+embrassed_energy:
+- object
+embryo:
+- object
+emerald:
+- object
+emerald_necklace:
+- accessory
+empty_chessboard:
+- object
+empty_hourglass:
+- object
+empty_metal_bucket:
+- object
+empty_metal_bucket_handle:
+- object
+empty_nest:
+- object
+empty_wood_bucket:
+- object
+empty_wood_bucket_handle:
+- object
+encirclement:
+- object
+end_arrow:
+- object
+energise:
+- object
+energy_arrow:
+- object
+energy_breath:
+- object
+energy_shield:
+- object
+energy_sword:
+- object
+energy_tank:
+- object
+engagement_ring:
+- object
+engineering_school:
+- object
+england:
+- object
+enlightenment:
+- object
+enrage:
+- object
+ent_mouth:
+- object
+entangled_typhoon:
+- object
+entry_door:
+- object
+envelope:
+- object
+envelope_circle_check:
+- object
+envelope_open:
+- object
+envelope_open_text:
+- object
+envelope_square:
+- object
+envelope_uni:
+- object
+envelope_with_arrow:
+- object
+envelopes_bulk:
+- object
+epsilon:
+- object
+epsilon_alt:
+- object
+equals:
+- object
+equivalent_to:
+- object
+eraser:
+- object
+erlenmeyer:
+- object
+ermine:
+- object
+eruption:
+- object
+escalator:
+- object
+eskimo:
+- object
+estimated:
+- object
+eternal_love:
+- object
+ethernet:
+- object
+euro_banknote:
+- object
+euro_sign:
+- symbol
+european_flag:
+- symbol
+evasion:
+- object
+event:
+- event
+evergreen_tree:
+- plant
+evil_bat:
+- animal
+evil_book:
+- object
+evil_bud:
+- object
+evil_comet:
+- object
+evil_eyes:
+- object
+evil_fork:
+- object
+evil_hand:
+- gesture
+evil_minion:
+- object
+evil_moon:
+- nature
+evil_tower:
+- building
+evil_tree:
+- plant
+evil_wings:
+- object
+ewe:
+- object
+excess:
+- object
+exchange_alt:
+- object
+exclamation:
+- object
+exclamation_circle:
+- object
+exclamation_mark:
+- symbol
+exclamation_question_mark:
+- symbol
+exclamation_triangle:
+- object
+executioner_hood:
+- object
+exit_door:
+- object
+expand:
+- object
+expand_arrows_alt:
+- object
+expanded_rays:
+- object
+expander:
+- object
+expense:
+- object
+exploding_head:
+- object
+exploding_planet:
+- object
+explosion:
+- object
+explosion_rays:
+- object
+explosive_materials:
+- object
+explosive_meeting:
+- object
+expressionless_face:
+- emotion
+external_link_alt:
+- object
+external_link_square_alt:
+- object
+extra_lucid:
+- object
+extra_time:
+- object
+extraction_orb:
+- object
+eye:
+- object
+eye_dropper:
+- object
+eye_in_speech_bubble:
+- object
+eye_low_vision:
+- object
+eye_of_horus:
+- object
+eye_shield:
+- object
+eye_slash:
+- object
+eye_target:
+- object
+eyeball:
+- object
+eyedropper:
+- object
+eyelashes:
+- object
+eyepatch:
+- object
+eyes:
+- object
+eyestalk:
+- object
+f1_car:
+- object
+f_clef:
+- object
+face_angry:
+- emotion
+face_blowing_a_kiss:
+- emotion
+face_dizzy:
+- emotion
+face_exhaling:
+- emotion
+face_flushed:
+- emotion
+face_frown:
+- emotion
+face_frown_open:
+- emotion
+face_grimace:
+- emotion
+face_grin:
+- emotion
+face_grin_beam:
+- emotion
+face_grin_beam_sweat:
+- emotion
+face_grin_hearts:
+- card
+- emotion
+face_grin_squint:
+- emotion
+face_grin_squint_tears:
+- emotion
+face_grin_stars:
+- emotion
+face_grin_tears:
+- emotion
+face_grin_tongue:
+- emotion
+face_grin_tongue_squint:
+- emotion
+face_grin_tongue_wink:
+- emotion
+face_grin_wide:
+- emotion
+face_grin_wink:
+- emotion
+face_holding_back_tears:
+- emotion
+face_in_clouds:
+- emotion
+face_kiss:
+- emotion
+face_kiss_beam:
+- emotion
+face_kiss_wink_heart:
+- emotion
+face_laugh:
+- emotion
+face_laugh_beam:
+- emotion
+face_laugh_squint:
+- emotion
+face_laugh_wink:
+- emotion
+face_meh:
+- emotion
+face_meh_blank:
+- emotion
+face_rolling_eyes:
+- emotion
+face_sad_cry:
+- emotion
+face_sad_tear:
+- emotion
+face_savoring_food:
+- emotion
+face_screaming_in_fear:
+- emotion
+face_smile:
+- emotion
+face_smile_beam:
+- emotion
+face_smile_wink:
+- emotion
+face_surprise:
+- emotion
+face_tired:
+- emotion
+face_to_face:
+- emotion
+face_vomiting:
+- emotion
+face_with_diagonal_mouth:
+- emotion
+face_with_hand_over_mouth:
+- emotion
+- gesture
+face_with_head_bandage:
+- emotion
+face_with_medical_mask:
+- emotion
+face_with_monocle:
+- emotion
+face_with_open_eyes_and_hand_over_mouth:
+- emotion
+- gesture
+face_with_open_mouth:
+- emotion
+face_with_peeking_eye:
+- emotion
+face_with_raised_eyebrow:
+- emotion
+face_with_rolling_eyes:
+- emotion
+face_with_spiral_eyes:
+- emotion
+face_with_steam_from_nose:
+- emotion
+face_with_symbols_on_mouth:
+- emotion
+face_with_tears_of_joy:
+- emotion
+face_with_thermometer:
+- emotion
+face_with_tongue:
+- emotion
+face_without_mouth:
+- emotion
+facepalming:
+- object
+factory:
+- object
+factory_arm:
+- object
+factory_worker:
+- person
+fairy:
+- object
+fairy_2:
+- object
+fairy_wand:
+- object
+fairy_wings:
+- object
+falafel:
+- object
+falcon_moon:
+- animal
+- nature
+fall_down:
+- object
+fall_of_constantinople:
+- object
+fall_of_louisburg:
+- object
+fallen_leaf:
+- plant
+falling:
+- object
+falling_blob:
+- object
+falling_bomb:
+- object
+falling_boulder:
+- object
+falling_eye:
+- object
+falling_leaf:
+- plant
+falling_ovoid:
+- object
+falling_rocks:
+- object
+falling_star:
+- object
+fallout_shelter:
+- object
+famas:
+- object
+family:
+- object
+family_house:
+- building
+family_man_boy:
+- person
+family_man_boy_boy:
+- person
+family_man_girl:
+- person
+family_man_girl_boy:
+- person
+family_man_girl_girl:
+- person
+family_man_man_boy:
+- person
+family_man_man_boy_boy:
+- person
+family_man_man_girl:
+- person
+family_man_man_girl_boy:
+- person
+family_man_man_girl_girl:
+- person
+family_man_woman_boy:
+- person
+family_man_woman_boy_boy:
+- person
+family_man_woman_girl:
+- person
+family_man_woman_girl_boy:
+- person
+family_man_woman_girl_girl:
+- person
+family_of_4:
+- object
+family_tree:
+- plant
+family_woman_boy:
+- person
+family_woman_boy_boy:
+- person
+family_woman_girl:
+- person
+family_woman_girl_boy:
+- person
+family_woman_girl_girl:
+- person
+family_woman_woman_boy:
+- person
+family_woman_woman_boy_boy:
+- person
+family_woman_woman_girl:
+- person
+family_woman_woman_girl_boy:
+- person
+family_woman_woman_girl_girl:
+- person
+fan:
+- object
+fanged_skull:
+- object
+fangs:
+- object
+fangs_circle:
+- object
+farm_tractor:
+- object
+farmer:
+- object
+fashoda_incident:
+- object
+fast_arrow:
+- object
+fast_backward:
+- object
+fast_backward_button:
+- symbol
+fast_down_button:
+- symbol
+fast_forward:
+- object
+fast_forward_button:
+- symbol
+fast_reverse_button:
+- symbol
+fast_up_button:
+- symbol
+fat:
+- object
+faucet:
+- object
+faucet_drip:
+- object
+fax:
+- object
+fax_machine:
+- object
+fearful_face:
+- emotion
+feather:
+- object
+feather_alt:
+- object
+feather_necklace:
+- accessory
+feather_pointed:
+- object
+feather_wound:
+- object
+feathered_wing:
+- object
+fedora:
+- object
+feeding_baby:
+- person
+feline:
+- object
+felix:
+- object
+female:
+- object
+female_legs:
+- object
+female_sign:
+- symbol
+female_vampire:
+- object
+fencer:
+- object
+fencing:
+- object
+fern:
+- object
+ferris_wheel:
+- object
+ferry:
+- object
+fertilizer_bag:
+- object
+fetus:
+- object
+fez:
+- object
+field:
+- object
+field_gun:
+- object
+field_hockey:
+- object
+fighter_jet:
+- object
+figurehead:
+- object
+file:
+- object
+file_alt:
+- object
+file_archive:
+- object
+file_arrow_down:
+- object
+file_arrow_up:
+- object
+file_audio:
+- object
+file_cabinet:
+- object
+file_circle_check:
+- object
+file_circle_exclamation:
+- object
+file_circle_minus:
+- object
+file_circle_plus:
+- object
+file_circle_question:
+- object
+file_circle_xmark:
+- object
+file_code:
+- object
+file_contract:
+- object
+file_csv:
+- object
+file_download:
+- object
+file_excel:
+- object
+file_export:
+- object
+file_folder:
+- object
+file_image:
+- object
+file_import:
+- object
+file_invoice:
+- object
+file_invoice_dollar:
+- object
+file_lines:
+- object
+file_medical:
+- object
+file_medical_alt:
+- object
+file_pdf:
+- object
+file_pen:
+- object
+file_powerpoint:
+- object
+file_prescription:
+- object
+file_shield:
+- object
+file_signature:
+- object
+file_upload:
+- object
+file_video:
+- object
+file_waveform:
+- object
+file_word:
+- object
+file_zipper:
+- object
+files:
+- object
+fill:
+- object
+fill_drip:
+- object
+film:
+- object
+film_frames:
+- object
+film_projector:
+- object
+film_spool:
+- object
+film_strip:
+- object
+filter:
+- object
+filter_circle_dollar:
+- object
+filter_circle_xmark:
+- object
+finch:
+- object
+finger_print:
+- object
+fingernail:
+- object
+fingerprint:
+- object
+fingers_crossed:
+- object
+finish_line:
+- object
+fire:
+- object
+fire_ace:
+- card
+fire_alt:
+- object
+fire_axe:
+- tool
+fire_bomb:
+- object
+fire_bottle:
+- food
+fire_bowl:
+- object
+fire_breath:
+- object
+fire_burner:
+- object
+fire_dash:
+- object
+fire_engine:
+- object
+fire_extinguisher:
+- object
+fire_flame_curved:
+- object
+fire_flame_simple:
+- object
+fire_flower:
+- plant
+fire_punch:
+- object
+fire_ray:
+- object
+fire_ring:
+- object
+fire_shield:
+- object
+fire_shrine:
+- object
+fire_silhouette:
+- object
+fire_spell_cast:
+- object
+fire_tail:
+- object
+fire_wave:
+- gesture
+fire_zone:
+- object
+fireball:
+- object
+firecracker:
+- object
+firefighter:
+- object
+fireflake:
+- object
+fireplace:
+- object
+firework_rocket:
+- object
+fireworks:
+- object
+first_aid:
+- object
+first_aid_kit:
+- object
+first_crusade:
+- object
+first_quarter_moon:
+- nature
+first_quarter_moon_face:
+- emotion
+- nature
+fish:
+- object
+fish_bucket:
+- object
+fish_cake_with_swirl:
+- food
+fish_cooked:
+- object
+fish_corpse:
+- object
+fish_eggs:
+- object
+fish_escape:
+- object
+fish_fins:
+- object
+fish_monster:
+- object
+fish_scales:
+- object
+fish_smoking:
+- object
+fishbone:
+- object
+fishhook_fork:
+- object
+fishing:
+- object
+fishing_boat:
+- object
+fishing_hook:
+- object
+fishing_jig:
+- object
+fishing_lure:
+- object
+fishing_net:
+- object
+fishing_pole:
+- object
+fishing_spoon:
+- object
+fission:
+- object
+fist:
+- gesture
+fist_2:
+- gesture
+fist_raised:
+- gesture
+five_eights:
+- object
+five_o'clock:
+- object
+five_oclock:
+- object
+five_thirty:
+- object
+fizzing_flask:
+- object
+flag:
+- symbol
+flag_checkered:
+- symbol
+flag_in_hole:
+- symbol
+flag_objective:
+- symbol
+flag_usa:
+- symbol
+flail:
+- object
+flake:
+- object
+flame:
+- object
+flame_claws:
+- object
+flame_spin:
+- object
+flame_tunnel:
+- object
+flamed_leaf:
+- plant
+flamer:
+- object
+flamethrower:
+- object
+flamethrower_soldier:
+- person
+flaming_arrow:
+- object
+flaming_claw:
+- object
+flaming_sheet:
+- object
+flaming_trident:
+- object
+flamingo:
+- animal
+flanged_mace:
+- object
+flash_grenade:
+- object
+flashlight:
+- object
+flask:
+- object
+flask_vial:
+- object
+flat_hammer:
+- tool
+flat_platform:
+- object
+flat_shoe:
+- object
+flat_star:
+- object
+flat_tire:
+- object
+flatbed:
+- object
+flatbed_covered:
+- object
+flatbread:
+- object
+flax:
+- object
+fleshy_mass:
+- object
+fleur_de_lis:
+- object
+fleur_de_lys:
+- object
+flexed_biceps:
+- object
+flexible_star:
+- object
+flint_spark:
+- object
+flip_flops:
+- object
+floating_crystal:
+- object
+floating_ghost:
+- object
+floating_platforms:
+- object
+floating_tentacles:
+- object
+flood:
+- object
+floor:
+- object
+floor_hatch:
+- object
+floor_polisher:
+- object
+floppy_disk:
+- object
+florence_nightingale:
+- object
+florin_sign:
+- symbol
+flower_emblem:
+- plant
+flower_hat:
+- accessory
+- plant
+flower_playing_cards:
+- plant
+flower_pot:
+- plant
+flower_star:
+- plant
+flower_twirl:
+- plant
+flowers:
+- object
+fluffy_cloud:
+- nature
+fluffy_flame:
+- object
+fluffy_swirl:
+- object
+fluffy_trefoil:
+- object
+fluffy_wing:
+- object
+flushed:
+- object
+flushed_face:
+- emotion
+flute:
+- music
+fly:
+- object
+flying_beetle:
+- object
+flying_dagger:
+- object
+flying_disc:
+- object
+flying_flag:
+- symbol
+flying_fox:
+- animal
+flying_saucer:
+- object
+flying_shuriken:
+- object
+flying_target:
+- object
+flying_trout:
+- object
+fn_fal:
+- object
+foam:
+- object
+foamy_disc:
+- object
+focused_lightning:
+- object
+fog:
+- object
+foggy:
+- object
+folded_hands:
+- object
+folded_paper:
+- object
+folder:
+- object
+folder_closed:
+- object
+folder_minus:
+- object
+folder_open:
+- object
+folder_plus:
+- object
+folder_tree:
+- plant
+folding_hand_fan:
+- gesture
+fomorian:
+- object
+fondue:
+- object
+font:
+- object
+font_awesome_logo_full:
+- object
+food:
+- object
+food_chain:
+- object
+food_truck:
+- object
+foot:
+- object
+foot_plaster:
+- object
+foot_trip:
+- object
+football:
+- sport
+football_ball:
+- sport
+footprint:
+- object
+footprints:
+- object
+footsteps:
+- object
+footy_field:
+- object
+for_all:
+- object
+forbidden_palace:
+- object
+ford_motor_company:
+- object
+forearm:
+- object
+forest:
+- object
+forest_camp:
+- object
+forge:
+- object
+fork_and_knife:
+- tool
+fork_and_knife_with_plate:
+- tool
+forklift:
+- object
+fortune_cookie:
+- object
+forum:
+- object
+forward:
+- object
+forward_fast:
+- object
+forward_field:
+- object
+forward_step:
+- object
+forward_sun:
+- nature
+fossil:
+- object
+foundry_bucket:
+- object
+fountain:
+- object
+fountain_pen:
+- object
+four_balloon_spoked_asterisk:
+- object
+four_leaf_clover:
+- plant
+four_o'clock:
+- object
+four_oclock:
+- object
+four_thirty:
+- object
+fox:
+- animal
+fox_head:
+- animal
+fox_tail:
+- animal
+fragmented_meteor:
+- object
+fragmented_sword:
+- object
+fragrance:
+- object
+framed_picture:
+- object
+franc_sign:
+- symbol
+france:
+- object
+franco_prussian_war:
+- object
+frankenstein_creature:
+- object
+frayed_arrow:
+- object
+frederic_chopin:
+- object
+frederick_the_great:
+- object
+free_button:
+- symbol
+freedom_dove:
+- object
+freemasonry:
+- object
+french_fries:
+- object
+fried_eggs:
+- object
+fried_fish:
+- object
+fried_shrimp:
+- object
+frigate:
+- object
+frisbee:
+- object
+frog:
+- animal
+frog_prince:
+- animal
+front_facing_baby_chick:
+- person
+front_teeth:
+- object
+frontal_lobe:
+- object
+frostfire:
+- object
+frown:
+- object
+frown_open:
+- object
+frowning:
+- object
+frowning_face:
+- emotion
+frowning_face_with_open_mouth:
+- emotion
+frozen_arrow:
+- object
+frozen_block:
+- object
+frozen_body:
+- object
+frozen_orb:
+- object
+frozen_ring:
+- object
+fruit_bowl:
+- food
+fruit_tree:
+- food
+- plant
+fruiting:
+- object
+fuel_pump:
+- object
+fuel_tank:
+- object
+fuji:
+- object
+fulguro_punch:
+- object
+full_folder:
+- object
+full_metal_bucket:
+- object
+full_metal_bucket_handle:
+- object
+full_moon:
+- nature
+full_moon_face:
+- emotion
+- nature
+full_motorcycle_helmet:
+- object
+full_wood_bucket:
+- object
+full_wood_bucket_handle:
+- object
+funeral_urn:
+- object
+funnel:
+- object
+funnel_dollar:
+- object
+fur_boot:
+- object
+fur_shirt:
+- clothing
+furnace:
+- object
+futbol:
+- object
+g_clef:
+- object
+galea:
+- object
+galileo_galilei:
+- object
+galleon:
+- object
+galley:
+- object
+game_console:
+- game
+game_die:
+- game
+gamepad:
+- object
+gamepad_cross:
+- object
+gamma:
+- object
+gargoyle:
+- object
+garlic:
+- object
+gas_mask:
+- object
+gas_mask_2:
+- object
+gas_pump:
+- object
+gate:
+- object
+gauge:
+- object
+gauge_high:
+- object
+gauge_simple:
+- object
+gauge_simple_high:
+- object
+gaul:
+- object
+gauls_helm:
+- object
+gauntlet:
+- object
+gavel:
+- object
+gaze:
+- object
+gear:
+- object
+gear_hammer:
+- tool
+gears:
+- object
+gecko:
+- object
+gem:
+- object
+gem_chain:
+- object
+gem_necklace:
+- accessory
+gem_pendant:
+- object
+gem_stone:
+- object
+gemini:
+- object
+gems:
+- object
+genderless:
+- object
+genghis_khan:
+- object
+genie:
+- object
+geographical_proportion:
+- object
+geometric_proportion:
+- object
+gesturing_no:
+- object
+gesturing_ok:
+- object
+getting_haircut:
+- object
+getting_massage:
+- object
+ghost:
+- object
+ghost_ally:
+- object
+giant:
+- object
+giant_squid:
+- animal
+gibbet:
+- object
+gift:
+- object
+gift_of_knowledge:
+- object
+gift_trap:
+- object
+gifts:
+- object
+gilbert:
+- user
+ginger_root:
+- object
+gingerbread_man:
+- person
+ginkgo_leaf:
+- plant
+giraffe:
+- animal
+girl:
+- person
+gladius:
+- object
+glaive:
+- object
+glass_ball:
+- object
+glass_celebration:
+- object
+glass_cheers:
+- object
+glass_heart:
+- object
+glass_martini:
+- object
+glass_martini_alt:
+- object
+glass_of_milk:
+- object
+glass_shot:
+- object
+glass_water:
+- object
+glass_water_droplet:
+- object
+glass_whiskey:
+- object
+glasses:
+- accessory
+glider:
+- object
+globe:
+- object
+globe_africa:
+- object
+globe_americas:
+- object
+globe_asia:
+- object
+globe_europe:
+- object
+globe_ring:
+- object
+globe_showing_americas:
+- object
+globe_showing_asia_australia:
+- object
+globe_showing_europe_africa:
+- object
+globe_with_meridians:
+- object
+glock:
+- object
+gloop:
+- object
+gloves:
+- object
+glowing_hands:
+- object
+glowing_star:
+- object
+gluttonous_smile:
+- emotion
+gluttony:
+- object
+gnome:
+- object
+goal_net:
+- object
+goat:
+- animal
+goblin:
+- object
+goblin_camp:
+- object
+goblin_head:
+- object
+goggles:
+- object
+gold:
+- object
+gold_bar:
+- object
+gold_mine:
+- object
+gold_nuggets:
+- object
+gold_scarab:
+- object
+gold_shell:
+- object
+gold_stack:
+- object
+goldenage:
+- object
+golem_head:
+- object
+golf_ball:
+- sport
+golf_ball_tee:
+- sport
+golf_flag:
+- sport
+- symbol
+golf_tee:
+- sport
+golfing:
+- object
+gong:
+- object
+goo_explosion:
+- object
+goo_skull:
+- object
+goo_spurt:
+- object
+gooey_daemon:
+- object
+gooey_eyed_sun:
+- nature
+gooey_impact:
+- object
+gooey_molecule:
+- object
+gooey_sword:
+- object
+goose:
+- animal
+gopuram:
+- object
+gorilla:
+- animal
+gothic_cross:
+- object
+gps:
+- object
+grab:
+- object
+graduate_cap:
+- object
+graduation_cap:
+- object
+grain:
+- object
+grain_bundle:
+- object
+granary:
+- object
+grand_banks:
+- object
+grand_canyon:
+- object
+grand_duchy_of_finland:
+- object
+grapes:
+- object
+grapple:
+- object
+grasping_claws:
+- object
+grasping_slug:
+- object
+grass:
+- plant
+grasshopper:
+- object
+grave_flowers:
+- object
+graveyard:
+- object
+grease_trap:
+- object
+great_barrier_reef:
+- object
+great_library:
+- object
+great_lighthouse:
+- object
+great_northern_war:
+- object
+great_plains:
+- object
+great_pyramid:
+- object
+great_wall:
+- object
+great_war_tank:
+- object
+greater_than:
+- object
+greater_than_equal:
+- object
+greater_than_or_equal_to:
+- object
+greater_than_or_equal_to2:
+- object
+greater_than_or_equivalent_to:
+- object
+greater_than_or_less_than:
+- object
+greaves:
+- object
+greek_fire_galley:
+- object
+greek_sphinx:
+- object
+greek_temple:
+- building
+green_apple:
+- object
+green_book:
+- object
+green_circle:
+- object
+green_heart:
+- object
+green_power:
+- object
+green_salad:
+- object
+green_square:
+- object
+greenhouse:
+- object
+greenland:
+- object
+grenade:
+- object
+grenade_2:
+- object
+grey_heart:
+- object
+griffin_shield:
+- object
+griffin_symbol:
+- object
+grim_reaper:
+- object
+grimace:
+- emotion
+grimacing_face:
+- emotion
+grin:
+- object
+grin_alt:
+- object
+grin_beam:
+- object
+grin_beam_sweat:
+- object
+grin_hearts:
+- card
+grin_squint:
+- object
+grin_squint_tears:
+- object
+grin_stars:
+- object
+grin_tears:
+- object
+grin_tongue:
+- object
+grin_tongue_squint:
+- object
+grin_tongue_wink:
+- object
+grin_wink:
+- object
+grinning_cat:
+- animal
+grinning_cat_with_smiling_eyes:
+- animal
+grinning_face:
+- emotion
+grinning_face_with_big_eyes:
+- emotion
+grinning_face_with_smiling_eyes:
+- emotion
+grinning_face_with_sweat:
+- emotion
+grinning_squinting_face:
+- emotion
+grip:
+- object
+grip_horizontal:
+- object
+grip_lines:
+- object
+grip_lines_vertical:
+- object
+grip_vertical:
+- object
+grizzly_bear:
+- object
+ground_sprout:
+- object
+groundbreaker:
+- object
+group_arrows_rotate:
+- object
+grouped_drops:
+- object
+growing_heart:
+- object
+growth:
+- object
+guarani_sign:
+- symbol
+guard:
+- object
+guarded_tower:
+- building
+guards:
+- object
+guest:
+- object
+guide_dog:
+- animal
+guild_hall:
+- object
+guillotine:
+- object
+guitar:
+- music
+gul:
+- object
+gun:
+- object
+gun_rose:
+- object
+gun_stock:
+- object
+gunpowder:
+- object
+gunshot:
+- object
+gutenberg_bible:
+- object
+gym_bag:
+- object
+h2o:
+- object
+h_square:
+- object
+habitat_dome:
+- object
+hagia_sophia:
+- object
+hair_pick:
+- object
+hair_strands:
+- object
+haircut:
+- object
+hakkapeliitta:
+- object
+halberd:
+- object
+halberd_shuriken:
+- object
+half_body_crawling:
+- object
+half_dead:
+- object
+half_heart:
+- object
+half_log:
+- object
+half_tornado:
+- object
+hallo:
+- object
+halt:
+- object
+ham_shank:
+- object
+hamburger:
+- object
+hamburger_menu:
+- object
+hammam:
+- object
+hammer:
+- tool
+hammer_and_pick:
+- tool
+hammer_and_wrench:
+- tool
+hammer_break:
+- tool
+hammer_drop:
+- tool
+hammer_nails:
+- tool
+hammer_sickle:
+- tool
+hamsa:
+- object
+hamster:
+- animal
+hand:
+- gesture
+hand_2:
+- gesture
+hand_back_fist:
+- gesture
+hand_bag:
+- gesture
+hand_bandage:
+- gesture
+hand_dots:
+- gesture
+hand_fist:
+- gesture
+hand_grip:
+- gesture
+hand_holding:
+- gesture
+hand_holding_dollar:
+- gesture
+hand_holding_droplet:
+- gesture
+hand_holding_hand:
+- gesture
+hand_holding_heart:
+- gesture
+hand_holding_medical:
+- gesture
+hand_holding_usd:
+- gesture
+hand_lizard:
+- gesture
+hand_middle_finger:
+- gesture
+hand_of_god:
+- gesture
+hand_ok:
+- gesture
+hand_paper:
+- gesture
+hand_peace:
+- gesture
+hand_point_down:
+- gesture
+hand_point_left:
+- gesture
+hand_point_right:
+- gesture
+hand_point_up:
+- gesture
+hand_pointer:
+- gesture
+hand_rock:
+- gesture
+hand_saw:
+- gesture
+- tool
+hand_scissors:
+- gesture
+hand_sparkles:
+- gesture
+hand_spock:
+- gesture
+hand_with_fingers_splayed:
+- gesture
+hand_with_index_finger_and_thumb_crossed:
+- gesture
+handbag:
+- object
+handball:
+- object
+handcuffed:
+- object
+handcuffs:
+- object
+handheld_fan:
+- object
+hands:
+- object
+hands_asl_interpreting:
+- object
+hands_bound:
+- object
+hands_bubbles:
+- object
+hands_clapping:
+- object
+hands_helping:
+- object
+hands_holding:
+- object
+hands_holding_child:
+- person
+hands_holding_circle:
+- object
+hands_praying:
+- object
+handshake:
+- object
+handshake_angle:
+- object
+handshake_simple:
+- object
+handshake_simple_slash:
+- object
+handshake_slash:
+- object
+hang_glider:
+- object
+hang_glider_2:
+- object
+hanger:
+- object
+hanging_gardens:
+- object
+hanging_sign:
+- symbol
+hanging_spider:
+- object
+hanna:
+- user
+hannibal:
+- object
+hansa:
+- object
+hanukiah:
+- object
+happy_skull:
+- emotion
+harald_hardrada:
+- object
+harbor_dock:
+- object
+hard_drive:
+- object
+hard_hat:
+- accessory
+hare:
+- animal
+harpoon_chain:
+- object
+harpoon_trident:
+- object
+harpy:
+- object
+harry_potter_skull:
+- object
+hashtag:
+- object
+hasty_grave:
+- object
+hat_cowboy:
+- accessory
+hat_cowboy_side:
+- accessory
+hat_wizard:
+- accessory
+hatchet:
+- object
+hatchets:
+- object
+hatching_chick:
+- object
+hatshepsut:
+- object
+haunting:
+- object
+hawaii:
+- object
+hawk_emblem:
+- animal
+haykal:
+- object
+hazard_sign:
+- symbol
+hazmat_suit:
+- object
+hdd:
+- object
+head_shot:
+- object
+head_side_cough:
+- object
+head_side_cough_slash:
+- object
+head_side_mask:
+- object
+head_side_virus:
+- object
+headband_knot:
+- object
+heading:
+- object
+headphone:
+- object
+headphones:
+- object
+headphones_alt:
+- object
+headphones_simple:
+- object
+headscarf:
+- object
+headset:
+- object
+headshot:
+- object
+headshot_2:
+- object
+headstone:
+- object
+healing:
+- object
+health_capsule:
+- object
+health_decrease:
+- object
+health_increase:
+- object
+health_normal:
+- object
+health_potion:
+- object
+health_worker:
+- person
+hear_no_evil_monkey:
+- animal
+hearing_disabled:
+- object
+heart:
+- object
+heart_armor:
+- object
+heart_battery:
+- object
+heart_beats:
+- object
+heart_bottle:
+- food
+heart_broken:
+- object
+heart_circle_bolt:
+- object
+heart_circle_check:
+- object
+heart_circle_exclamation:
+- object
+heart_circle_minus:
+- object
+heart_circle_plus:
+- object
+heart_circle_xmark:
+- object
+heart_crack:
+- object
+heart_decoration:
+- object
+heart_drop:
+- object
+heart_earrings:
+- object
+heart_exclamation:
+- object
+heart_hands:
+- object
+heart_inside:
+- object
+heart_minus:
+- object
+heart_necklace:
+- accessory
+heart_on_fire:
+- object
+heart_organ:
+- object
+heart_plus:
+- object
+heart_pulse:
+- object
+heart_stake:
+- object
+heart_suit:
+- object
+heart_tower:
+- building
+heart_wings:
+- object
+heart_with_arrow:
+- object
+heart_with_ribbon:
+- object
+heartbeat:
+- object
+heartburn:
+- object
+hearts:
+- card
+hearts_black:
+- card
+hearts_white:
+- card
+heat_haze:
+- object
+heavy_arrow:
+- object
+heavy_bullets:
+- object
+heavy_dollar_sign:
+- symbol
+heavy_equals_sign:
+- symbol
+heavy_fall:
+- object
+heavy_fighter:
+- object
+heavy_helm:
+- object
+heavy_lightning:
+- object
+heavy_multiplication_x:
+- object
+heavy_north_east_arrow:
+- object
+heavy_plough:
+- object
+heavy_rain:
+- nature
+heavy_rightwards_arrow:
+- object
+heavy_south_east_arrow:
+- object
+heavy_thorny_triskelion:
+- object
+heavy_timer:
+- object
+hedgehog:
+- animal
+hedjet_white_crown:
+- object
+helicoprion:
+- object
+helicopter:
+- object
+helicopter_symbol:
+- object
+helicopter_tail:
+- object
+hell_crosses:
+- object
+helmet:
+- object
+helmet_head_shot:
+- object
+helmet_safety:
+- object
+helmet_un:
+- object
+help:
+- object
+hemp:
+- object
+heptagram:
+- object
+herb:
+- object
+herbs_bundle:
+- object
+hexagonal_nut:
+- object
+hexes:
+- object
+hibiscus:
+- object
+hidden:
+- object
+hieroglyph_y:
+- object
+high_five:
+- object
+high_grass:
+- plant
+high_heel:
+- object
+high_heeled_shoe:
+- object
+high_kick:
+- object
+high_shot:
+- object
+high_speed_train:
+- object
+high_tide:
+- object
+high_voltage:
+- object
+highlighter:
+- object
+hiking:
+- object
+hiking_boot:
+- object
+hill_avalanche:
+- object
+hill_conquest:
+- object
+hill_fort:
+- object
+hill_rockslide:
+- object
+hills:
+- object
+himeji_castle:
+- building
+hindu_kush:
+- object
+hindu_temple:
+- building
+hippodrome:
+- object
+hippopotamus:
+- animal
+hispania:
+- object
+histogram:
+- object
+history:
+- object
+hive:
+- object
+hive_mind:
+- object
+hobbit_door:
+- object
+hobbit_dwelling:
+- object
+hockey:
+- object
+hockey_puck:
+- object
+holding_hands:
+- object
+hole:
+- object
+hole_ladder:
+- object
+hollow_cat:
+- animal
+hollow_red_circle:
+- object
+holly_berry:
+- object
+holosphere:
+- object
+holy_grail:
+- object
+holy_hand_grenade:
+- gesture
+holy_oak:
+- object
+holy_symbol:
+- object
+holy_water:
+- object
+home:
+- object
+home_garage:
+- object
+homothetic:
+- object
+honey_jar:
+- object
+honey_pot:
+- object
+honeybee:
+- object
+honeycomb:
+- object
+honeypot:
+- object
+hong_kong:
+- object
+hood:
+- object
+hooded_assassin:
+- object
+hooded_figure:
+- object
+hoodie:
+- object
+hoof:
+- object
+hook:
+- object
+hoplia:
+- object
+hoplite:
+- object
+hops:
+- object
+horizontal_flip:
+- object
+horizontal_traffic_light:
+- object
+horn_internal:
+- object
+horned_helm:
+- object
+horned_reptile:
+- object
+horned_skull:
+- object
+horse:
+- animal
+horse1:
+- object
+horse_archer:
+- animal
+horse_face:
+- animal
+- emotion
+horse_head:
+- animal
+horse_head_2:
+- animal
+horse_racing:
+- animal
+horseshoe:
+- object
+horus:
+- object
+hospital:
+- building
+hospital_alt:
+- building
+hospital_cross:
+- building
+hospital_symbol:
+- building
+hospital_user:
+- building
+hot_beverage:
+- object
+hot_dog:
+- animal
+hot_face:
+- emotion
+hot_meal:
+- object
+hot_pepper:
+- object
+hot_spices:
+- object
+hot_springs:
+- object
+hot_surface:
+- object
+hot_tub:
+- object
+hot_tub_person:
+- person
+hotdog:
+- object
+hotel:
+- object
+hound:
+- animal
+hourglass:
+- object
+hourglass_done:
+- object
+hourglass_end:
+- object
+hourglass_half:
+- object
+hourglass_not_done:
+- object
+hourglass_start:
+- object
+house:
+- building
+house_chimney:
+- building
+house_chimney_crack:
+- building
+house_chimney_medical:
+- building
+house_chimney_user:
+- building
+house_chimney_window:
+- building
+house_circle_check:
+- building
+house_circle_exclamation:
+- building
+house_circle_xmark:
+- building
+house_crack:
+- building
+house_damage:
+- building
+house_fire:
+- building
+house_flag:
+- building
+- symbol
+house_flood_water:
+- building
+house_flood_water_circle_arrow_right:
+- building
+house_keys:
+- building
+house_laptop:
+- building
+house_lock:
+- building
+house_medical:
+- building
+house_medical_circle_check:
+- building
+house_medical_circle_exclamation:
+- building
+house_medical_circle_xmark:
+- building
+house_medical_flag:
+- building
+- symbol
+house_signal:
+- building
+house_tsunami:
+- building
+house_user:
+- building
+house_with_garden:
+- building
+houses:
+- object
+hryvnia:
+- object
+hryvnia_sign:
+- symbol
+hugging_face:
+- emotion
+human_cannonball:
+- object
+human_ear:
+- object
+human_pyramid:
+- object
+human_target:
+- object
+hummingbird:
+- object
+hundred_points:
+- object
+hundred_years_war:
+- object
+hungary:
+- object
+hunnic_invasions:
+- object
+hunting_bolas:
+- object
+hunting_horn:
+- object
+hurricane:
+- object
+hushed_face:
+- emotion
+hussar:
+- object
+hut:
+- object
+huts_village:
+- object
+hyacinth:
+- object
+hydra:
+- object
+hydra_shot:
+- object
+hydro_plant:
+- plant
+hyksos_invasion:
+- object
+hypatia:
+- object
+hypersonic_bolt:
+- object
+hypersonic_melon:
+- object
+hypodermic_test:
+- object
+i:
+- object
+i_cursor:
+- object
+i_dotless:
+- object
+ibex:
+- object
+icarus:
+- object
+ice:
+- object
+ice_bolt:
+- object
+ice_bomb:
+- object
+ice_cream:
+- object
+ice_cream_cone:
+- object
+ice_cube:
+- object
+ice_cubes:
+- object
+ice_golem:
+- object
+ice_hockey:
+- object
+ice_pop:
+- object
+ice_shield:
+- object
+ice_skate:
+- object
+ice_spear:
+- object
+ice_spell_cast:
+- object
+iceberg:
+- object
+icebergs:
+- object
+iceland:
+- object
+icicles:
+- object
+icicles_aura:
+- object
+icicles_fence:
+- object
+icons:
+- object
+id_badge:
+- object
+id_button:
+- symbol
+id_card:
+- card
+id_card_alt:
+- card
+id_card_clip:
+- card
+idea:
+- object
+identical_to:
+- object
+identification_card:
+- card
+ifrit:
+- object
+igloo:
+- object
+image:
+- object
+image0:
+- object
+image1:
+- object
+image2:
+- object
+image3:
+- object
+image4:
+- object
+image5:
+- object
+image6:
+- object
+image_of:
+- object
+image_portrait:
+- object
+images:
+- object
+imbricated_arrows:
+- object
+imjin_war:
+- object
+immortal:
+- object
+imp:
+- object
+imp_laugh:
+- emotion
+impact_point:
+- object
+imperial_crown:
+- object
+implosion:
+- object
+imprisoned:
+- object
+in_bed:
+- object
+in_tuxedo:
+- object
+inbox:
+- object
+inbox_tray:
+- object
+incan_empire:
+- object
+incense:
+- object
+incisors:
+- object
+incoming_envelope:
+- object
+incoming_rocket:
+- object
+incubator:
+- object
+indent:
+- object
+index_pointing_at_the_viewer:
+- gesture
+index_pointing_up:
+- gesture
+india:
+- object
+indian_palace:
+- object
+indian_rupee_sign:
+- symbol
+industry:
+- object
+infested_mass:
+- object
+infinity:
+- object
+infinity_uni:
+- object
+info:
+- object
+info_circle:
+- object
+information:
+- object
+injustice:
+- object
+ink_swirl:
+- object
+inner_self:
+- object
+input_latin_letters:
+- object
+input_latin_lowercase:
+- object
+input_latin_uppercase:
+- object
+input_numbers:
+- object
+input_symbols:
+- object
+insect_jaws:
+- object
+inspiration:
+- object
+integral:
+- object
+integral_average:
+- object
+intellagama_lesueurii:
+- object
+interceptor_ship:
+- object
+interdiction:
+- object
+interlaced_tentacles:
+- object
+interleaved_arrows:
+- object
+interleaved_claws:
+- object
+internal_injury:
+- object
+internal_organ:
+- object
+intersection:
+- object
+interstellar_path:
+- object
+intricate_necklace:
+- accessory
+inverted_dice_1:
+- game
+inverted_dice_2:
+- game
+inverted_dice_3:
+- game
+inverted_dice_4:
+- game
+inverted_dice_5:
+- game
+inverted_dice_6:
+- game
+invisible:
+- object
+invisible_face:
+- emotion
+ion_cannon_blast:
+- object
+ionic_column:
+- object
+iron_cross:
+- object
+iron_hulled_warship:
+- object
+iron_mask:
+- object
+iron_working:
+- object
+is_congruent_to:
+- object
+is_definied_as:
+- object
+is_definied_as2:
+- object
+is_definied_as3:
+- object
+is_definied_as4:
+- object
+is_equal_to_by_definition:
+- object
+is_equal_to_by_definition2:
+- object
+is_equal_to_by_definition3:
+- object
+is_equal_to_by_definition4:
+- object
+is_greater_than:
+- object
+is_greater_than_or_equivalent_to:
+- object
+is_less_than:
+- object
+is_less_than_or_equal_to:
+- object
+is_less_than_or_equivalent_to:
+- object
+is_much_greater_than:
+- object
+is_much_less_than:
+- object
+is_similar_to:
+- object
+is_similar_to2:
+- object
+isabella:
+- object
+island:
+- location
+israel:
+- object
+italia:
+- object
+italic:
+- object
+ivory_tusks:
+- object
+j_brick:
+- object
+jack_o_lantern:
+- object
+jack_plug:
+- object
+jaguar_warrior:
+- animal
+james_bond_aperture:
+- object
+japan:
+- object
+japanese_acceptable_button:
+- symbol
+japanese_application_button:
+- symbol
+japanese_bargain_button:
+- symbol
+japanese_bridge:
+- object
+japanese_castle:
+- building
+japanese_congratulations_button:
+- symbol
+japanese_discount_button:
+- symbol
+japanese_dolls:
+- object
+japanese_free_of_charge_button:
+- symbol
+japanese_here_button:
+- symbol
+japanese_monthly_amount_button:
+- symbol
+japanese_no_vacancy_button:
+- symbol
+japanese_not_free_of_charge_button:
+- symbol
+japanese_open_for_business_button:
+- symbol
+japanese_passing_grade_button:
+- symbol
+japanese_post_office:
+- object
+japanese_prohibited_button:
+- symbol
+japanese_reserved_button:
+- symbol
+japanese_secret_button:
+- symbol
+japanese_service_charge_button:
+- symbol
+japanese_symbol_for_beginner:
+- object
+japanese_vacancy_button:
+- symbol
+jar:
+- object
+jar_wheat:
+- object
+jasmine:
+- object
+jason_mask:
+- user
+jawbone:
+- object
+jawless_cyclop:
+- object
+jeans:
+- object
+jedi:
+- object
+jeep:
+- object
+jeep_2:
+- object
+jellyfish:
+- object
+jerrycan:
+- object
+jerusalem_cross:
+- object
+jester_hat:
+- accessory
+jet_fighter:
+- object
+jet_fighter_up:
+- object
+jet_pack:
+- object
+jetpack:
+- object
+jewel_bug:
+- object
+jewel_crown:
+- object
+jeweled_chalice:
+- object
+jigsaw_box:
+- object
+jigsaw_piece:
+- object
+john:
+- user
+join:
+- object
+joint:
+- object
+joker:
+- card
+journal_whills:
+- object
+journey:
+- object
+joystick:
+- object
+judge:
+- object
+jug:
+- object
+jug_detergent:
+- object
+juggler:
+- object
+juggling:
+- object
+juggling_clubs:
+- card
+juggling_seal:
+- animal
+jump_across:
+- object
+jumping_dog:
+- animal
+jumping_rope:
+- object
+jungle:
+- object
+jupiter:
+- object
+justice_star:
+- object
+kaaba:
+- object
+kaleidoscope_pearls:
+- object
+kangaroo:
+- animal
+kappa:
+- object
+katana:
+- object
+katydid:
+- object
+kebab_spit:
+- object
+kenku_head:
+- object
+kenya:
+- object
+kevlar:
+- object
+kevlar_vest:
+- object
+key:
+- object
+key_2:
+- object
+key_card:
+- card
+key_lock:
+- object
+keyboard:
+- object
+keycap:
+- object
+keycap_#:
+- object
+keycap_*:
+- object
+keycap_0:
+- object
+keycap_1:
+- object
+keycap_10:
+- object
+keycap_2:
+- object
+keycap_3:
+- object
+keycap_4:
+- object
+keycap_5:
+- object
+keycap_6:
+- object
+keycap_7:
+- object
+keycap_8:
+- object
+keycap_9:
+- object
+keyring:
+- object
+khanda:
+- object
+khao_manee_cat:
+- animal
+kick_scooter:
+- object
+kidneys:
+- object
+kimono:
+- object
+kindle:
+- object
+king:
+- role
+king_black:
+- role
+king_ju_mask:
+- role
+king_white:
+- role
+kip_sign:
+- symbol
+kiss:
+- object
+kiss_beam:
+- object
+kiss_man_man:
+- person
+kiss_mark:
+- symbol
+kiss_wink_heart:
+- object
+kiss_woman_man:
+- person
+kiss_woman_woman:
+- person
+kissing_cat:
+- animal
+kissing_face:
+- emotion
+kissing_face_with_closed_eyes:
+- emotion
+kissing_face_with_smiling_eyes:
+- emotion
+kit_medical:
+- object
+kitchen_knife:
+- tool
+kitchen_knives:
+- object
+kitchen_scale:
+- object
+kitchen_set:
+- object
+kite:
+- object
+kiwi_bird:
+- object
+kiwi_fruit:
+- food
+klingon:
+- object
+knapsack:
+- object
+knee_cap:
+- object
+knee_pad:
+- object
+kneeling:
+- object
+knife_fork:
+- tool
+knife_thrust:
+- tool
+knight:
+- object
+knight_banner:
+- object
+knight_black:
+- object
+knight_white:
+- object
+knights_templar:
+- object
+knockout:
+- object
+knot:
+- object
+koala:
+- animal
+krak_des_chevaliers:
+- object
+kraken_tentacle:
+- object
+kremlin:
+- object
+kusarigama:
+- object
+l_brick:
+- object
+la_noche_triste:
+- object
+lab_coat:
+- object
+label:
+- object
+lacrosse:
+- object
+ladder:
+- object
+ladle:
+- object
+lady_beetle:
+- object
+ladybug:
+- object
+lambda:
+- object
+lamellar:
+- object
+lamprey_mouth:
+- object
+land_mine:
+- object
+land_mine_on:
+- object
+landmark:
+- object
+landmark_dome:
+- object
+landmark_flag:
+- symbol
+language:
+- object
+lantern:
+- object
+lantern_flame:
+- object
+laptop:
+- object
+laptop_code:
+- object
+laptop_computer:
+- technology
+laptop_file:
+- object
+laptop_medical:
+- object
+large_blue_diamond:
+- object
+large_dress:
+- clothing
+large_orange_diamond:
+- object
+large_paint_brush:
+- object
+large_wound:
+- object
+lari_sign:
+- symbol
+laser_blast:
+- object
+laser_burst:
+- object
+laser_gun:
+- object
+laser_precision:
+- object
+laser_sparks:
+- object
+laser_turret:
+- object
+laser_warning:
+- object
+laserburn:
+- object
+lasso:
+- object
+last_quarter_moon:
+- nature
+last_quarter_moon_face:
+- emotion
+- nature
+last_track_button:
+- symbol
+latin_cross:
+- object
+latvia:
+- object
+laugh:
+- emotion
+laugh_beam:
+- emotion
+laugh_squint:
+- emotion
+laugh_wink:
+- emotion
+laurel_crown:
+- object
+laurels:
+- object
+laurels_trophy:
+- symbol
+lauren:
+- user
+lava:
+- object
+law_star:
+- object
+layer_group:
+- object
+layered_armor:
+- object
+lead_pipe:
+- object
+leaf:
+- plant
+leaf_fluttering_in_wind:
+- nature
+- plant
+leaf_skeleton:
+- plant
+leaf_swirl:
+- plant
+leafy_green:
+- object
+leak:
+- object
+leaky_skull:
+- object
+leather_armor:
+- object
+leather_boot:
+- object
+leather_vest:
+- object
+led:
+- object
+ledger:
+- object
+lee_enfield:
+- object
+leeching_worm:
+- object
+leek:
+- object
+left_angle_quotation_mark:
+- symbol
+left_arrow:
+- object
+left_arrow_curving_right:
+- object
+left_black_pointer:
+- object
+left_facing_fist:
+- gesture
+left_long:
+- object
+left_luggage:
+- object
+left_right:
+- object
+left_right_arrow:
+- object
+left_right_arrow_uni:
+- object
+left_speech_bubble:
+- object
+left_white_pointer:
+- object
+leftwards_arrow:
+- object
+leftwards_arrow_to_bar:
+- object
+leftwards_hand:
+- gesture
+leftwards_pushing_hand:
+- gesture
+leftwards_white_arrow:
+- object
+leg:
+- object
+leg_armor:
+- object
+legionary:
+- object
+lemon:
+- object
+leo:
+- object
+leopard:
+- animal
+less_than:
+- object
+less_than_equal:
+- object
+less_than_or_equal_to:
+- object
+less_than_or_equal_to2:
+- object
+less_than_or_equivalent_to:
+- object
+less_than_or_greater_than:
+- object
+letter_bomb:
+- object
+level_crossing:
+- object
+level_down_alt:
+- object
+level_four:
+- object
+level_four_advanced:
+- object
+level_slider:
+- object
+level_three:
+- object
+level_three_advanced:
+- object
+level_two:
+- object
+level_two_advanced:
+- object
+level_up_alt:
+- object
+lever:
+- object
+levitating:
+- object
+liar:
+- object
+liberty_wing:
+- object
+libra:
+- object
+library:
+- object
+libya:
+- object
+life_bar:
+- object
+life_buoy:
+- object
+life_in_the_balance:
+- object
+life_jacket:
+- object
+life_ring:
+- object
+life_support:
+- object
+life_tap:
+- object
+lift:
+- object
+lifting_weights:
+- object
+light_backpack:
+- object
+light_blue_heart:
+- object
+light_bulb:
+- object
+light_fighter:
+- object
+light_helm:
+- object
+light_projector:
+- object
+light_rail:
+- object
+light_sabers:
+- object
+light_thorny_triskelion:
+- object
+lightbulb:
+- object
+lighter:
+- object
+lighthouse:
+- object
+lightning_arc:
+- object
+lightning_bow:
+- object
+lightning_branches:
+- object
+lightning_dissipation:
+- object
+lightning_dome:
+- object
+lightning_electron:
+- object
+lightning_frequency:
+- object
+lightning_helix:
+- object
+lightning_mask:
+- object
+lightning_saber:
+- object
+lightning_shadow:
+- object
+lightning_shield:
+- object
+lightning_shout:
+- object
+lightning_slashes:
+- object
+lightning_spanner:
+- object
+lightning_storm:
+- object
+lightning_tear:
+- object
+lightning_tree:
+- plant
+lightning_trio:
+- object
+lili:
+- user
+lily_pads:
+- object
+lin_zexu:
+- object
+linden_leaf:
+- plant
+lines_leaning:
+- object
+link:
+- object
+link_slash:
+- object
+linked_paperclips:
+- object
+linked_rings:
+- object
+lion:
+- animal
+lips:
+- object
+lipstick:
+- object
+lira:
+- object
+lira_sign:
+- symbol
+list:
+- object
+list_alt:
+- object
+list_check:
+- object
+list_ol:
+- object
+list_ul:
+- object
+lit_candelabra:
+- object
+litecoin_sign:
+- symbol
+litter_in_bin_sign:
+- symbol
+liver:
+- object
+lizard:
+- object
+lizard_tongue:
+- object
+lizardman:
+- object
+llama:
+- animal
+load:
+- object
+lob_arrow:
+- object
+lobster:
+- animal
+location_arrow:
+- location
+location_crosshairs:
+- location
+location_dot:
+- location
+location_pin:
+- location
+location_pin_lock:
+- location
+lock:
+- object
+lock_open:
+- object
+lock_picking:
+- object
+lock_spy:
+- object
+locked:
+- object
+locked_box:
+- object
+locked_chest:
+- object
+locked_door:
+- object
+locked_fortress:
+- object
+locked_heart:
+- object
+locked_with_key:
+- object
+locked_with_pen:
+- object
+lockpicks:
+- object
+locomotive:
+- object
+locust:
+- object
+log:
+- object
+logging:
+- object
+logic_gate_and:
+- object
+logic_gate_nand:
+- object
+logic_gate_nor:
+- object
+logic_gate_not:
+- object
+logic_gate_nxor:
+- object
+logic_gate_or:
+- object
+logic_gate_xor:
+- object
+logical_and:
+- object
+logical_and2:
+- object
+logical_or:
+- object
+loincloth:
+- object
+lollipop:
+- object
+lombardy:
+- object
+long_antennae_bug:
+- object
+long_arrow_alt_down:
+- object
+long_arrow_alt_left:
+- object
+long_arrow_alt_right:
+- object
+long_arrow_alt_up:
+- object
+long_drum:
+- music
+long_legged_spider:
+- object
+longboats:
+- object
+longbowman:
+- object
+look_at:
+- object
+lorgnette:
+- object
+lost_limb:
+- object
+lotion_bottle:
+- food
+lotus:
+- object
+lotus_flower:
+- plant
+lotus_position:
+- object
+loudly_crying_face:
+- emotion
+loudspeaker:
+- object
+louvre_pyramid:
+- object
+love_hotel:
+- object
+love_howl:
+- object
+love_injection:
+- object
+love_letter:
+- object
+love_mystery:
+- object
+love_song:
+- object
+love_you_gesture:
+- object
+lovers:
+- object
+low_battery:
+- object
+low_tide:
+- object
+low_vision:
+- object
+luchador:
+- object
+lucifer_cannon:
+- object
+lucky_fisherman:
+- object
+luger:
+- object
+luggage:
+- object
+luggage_cart:
+- object
+luis:
+- user
+lunar_module:
+- object
+lunar_wand:
+- object
+lungs:
+- object
+lungs_virus:
+- object
+lyceum:
+- object
+lying_face:
+- emotion
+lynx_head:
+- animal
+lyre:
+- object
+m3_grease_gun:
+- object
+mac:
+- object
+mac_10:
+- object
+macaw:
+- animal
+mace_head:
+- object
+macedonia:
+- object
+machete:
+- object
+machine_gun:
+- object
+machine_gun_magazine:
+- object
+machine_gunner:
+- object
+machu_picchu:
+- object
+mad_scientist:
+- role
+madrasa:
+- object
+mage:
+- object
+maggot:
+- object
+magic:
+- object
+magic_gate:
+- object
+magic_hat:
+- accessory
+magic_lamp:
+- object
+magic_palm:
+- object
+magic_portal:
+- object
+magic_potion:
+- object
+magic_shield:
+- object
+magic_swirl:
+- object
+magic_trident:
+- object
+magic_wand:
+- object
+magick_trick:
+- object
+magna_carta:
+- object
+magnet:
+- object
+magnet_blast:
+- object
+magnifying_glass:
+- object
+magnifying_glass_arrow_right:
+- object
+magnifying_glass_chart:
+- object
+magnifying_glass_dollar:
+- object
+magnifying_glass_location:
+- location
+magnifying_glass_minus:
+- object
+magnifying_glass_plus:
+- object
+magnifying_glass_tilted_left:
+- object
+magnifying_glass_tilted_right:
+- object
+mahabharata:
+- object
+mahjong_red_dragon:
+- object
+mail_bulk:
+- object
+mail_shirt:
+- clothing
+mailbox:
+- object
+mailed_fist:
+- gesture
+maine_coon_cat:
+- animal
+male:
+- object
+male_sign:
+- symbol
+malta:
+- object
+mammoth:
+- animal
+man:
+- person
+manacles:
+- object
+manat_sign:
+- symbol
+mandrill:
+- object
+mandrill_head:
+- object
+mango:
+- object
+mans_shoe:
+- object
+mansa_musa:
+- object
+manta_ray:
+- object
+mantelpiece_clock:
+- object
+mantis:
+- object
+mantrap:
+- object
+manual_juicer:
+- object
+manual_meat_grinder:
+- food
+manual_wheelchair:
+- object
+map:
+- object
+map_location:
+- location
+map_location_dot:
+- location
+map_making:
+- object
+map_marked:
+- object
+map_marked_alt:
+- object
+map_marker:
+- object
+map_marker_alt:
+- object
+map_of_japan:
+- object
+map_pin:
+- object
+map_signs:
+- object
+maple_leaf:
+- plant
+maracas:
+- object
+marbles:
+- object
+marco_polo:
+- object
+maria:
+- object
+marie_antoinette:
+- object
+marie_curie:
+- object
+marker:
+- object
+market:
+- object
+markus:
+- object
+marrow_drain:
+- object
+mars:
+- object
+mars_and_venus:
+- object
+mars_and_venus_burst:
+- object
+mars_curiosity:
+- object
+mars_double:
+- object
+mars_pathfinder:
+- object
+mars_stroke:
+- object
+mars_stroke_h:
+- object
+mars_stroke_right:
+- object
+mars_stroke_up:
+- object
+mars_stroke_v:
+- object
+marshmallows:
+- object
+martial_arts_uniform:
+- object
+martin_luther:
+- object
+martini:
+- object
+martini_glass:
+- object
+martini_glass_citrus:
+- object
+martini_glass_empty:
+- object
+mask:
+- object
+mask_face:
+- emotion
+mask_ventilator:
+- object
+masked_spider:
+- object
+masks_theater:
+- object
+mass_driver:
+- object
+massage:
+- object
+master_of_arms:
+- object
+match_head:
+- object
+match_tip:
+- object
+matchbox:
+- object
+mate:
+- object
+materials_science:
+- object
+matryoshka_dolls:
+- object
+matter_states:
+- object
+mattress_pillow:
+- object
+maurita:
+- object
+max:
+- object
+maximize:
+- object
+mayan_pyramid:
+- object
+maze:
+- object
+maze_cornea:
+- object
+maze_saw:
+- tool
+meal:
+- object
+measured_angle:
+- object
+meat:
+- food
+meat_cleaver:
+- food
+meat_hook:
+- food
+meat_on_bone:
+- food
+mecha_head:
+- object
+mecha_mask:
+- object
+mechanic:
+- object
+mechanic_garage:
+- object
+mechanical_arm:
+- object
+mechanical_leg:
+- object
+meckele:
+- object
+medal:
+- sport
+- symbol
+medal_skull:
+- sport
+- symbol
+medallist:
+- sport
+- symbol
+medical_pack:
+- object
+medical_pack_alt:
+- object
+medical_symbol:
+- object
+medical_thermometer:
+- object
+medicine_pills:
+- object
+medicines:
+- object
+medieval_gate:
+- object
+medieval_pavilion:
+- object
+meditation:
+- object
+medkit:
+- object
+medusa_head:
+- object
+meeple:
+- game
+meeple_group:
+- game
+meeple_king:
+- game
+- role
+meerkat:
+- animal
+megabot:
+- object
+megaphone:
+- object
+meh:
+- object
+meh_blank:
+- object
+meh_rolling_eyes:
+- object
+melon:
+- object
+melting_face:
+- emotion
+melting_ice_cube:
+- object
+melting_metal:
+- object
+memo:
+- object
+memory:
+- object
+men_holding_hands:
+- object
+men_with_bunny_ears:
+- object
+men_wrestling:
+- object
+mending_heart:
+- object
+menhir:
+- object
+menorah:
+- object
+mens_room:
+- object
+mercenary:
+- object
+mercury:
+- object
+mermaid:
+- object
+merman:
+- object
+merperson:
+- object
+mesh_ball:
+- object
+mesh_network:
+- object
+message:
+- object
+metal_bar:
+- object
+metal_disc:
+- object
+metal_hand:
+- gesture
+metal_plate:
+- object
+metal_scales:
+- object
+metal_skirt:
+- clothing
+meteor:
+- object
+meteor_impact:
+- object
+metro:
+- object
+metroid:
+- object
+metronome:
+- object
+mexico:
+- object
+microbe:
+- object
+microchip:
+- object
+microphone:
+- object
+microphone_alt:
+- object
+microphone_alt_slash:
+- object
+microphone_lines:
+- object
+microphone_lines_slash:
+- object
+microphone_slash:
+- object
+microscope:
+- object
+microscope_lens:
+- object
+middle_arrow:
+- object
+middle_dot:
+- object
+middle_finger:
+- object
+midnight_claw:
+- object
+mighty_boosh:
+- object
+mighty_force:
+- object
+mighty_spanner:
+- object
+mike:
+- object
+milda:
+- object
+military:
+- object
+militaryCard:
+- object
+military_ambulance:
+- object
+military_fort:
+- object
+military_helmet:
+- object
+military_medal:
+- sport
+- symbol
+milk_carton:
+- object
+milky_way:
+- object
+mill_sign:
+- symbol
+millenium_key:
+- object
+milvian_bridge:
+- object
+mimi:
+- object
+mimic_chest:
+- object
+mine:
+- object
+mine_explosion:
+- object
+mine_truck:
+- object
+mine_wagon:
+- object
+minefield:
+- object
+miner:
+- object
+mineral_heart:
+- object
+minerals:
+- object
+mini_submarine:
+- object
+minibus:
+- object
+minigun:
+- object
+minimize:
+- object
+mining:
+- object
+mining_helmet:
+- object
+minions:
+- object
+minna:
+- object
+minnow:
+- object
+minotaur:
+- object
+mint:
+- object
+minus:
+- object
+minus_circle:
+- object
+minus_sign:
+- symbol
+minus_square:
+- object
+miracle_medecine:
+- object
+mirror:
+- object
+mirror_ball:
+- object
+mirror_mirror:
+- object
+missile_launcher:
+- object
+missile_mech:
+- object
+missile_pod:
+- object
+missile_swarm:
+- object
+mit:
+- object
+mite:
+- object
+mite_alt:
+- object
+mitra:
+- object
+mitten:
+- object
+moai:
+- object
+moai_statues:
+- object
+mobile:
+- object
+mobile_alt:
+- object
+mobile_button:
+- symbol
+mobile_phone:
+- technology
+mobile_phone_off:
+- technology
+mobile_phone_with_arrow:
+- technology
+mobile_retro:
+- object
+mobile_screen:
+- technology
+mobile_screen_button:
+- symbol
+- technology
+modern_city:
+- location
+moebius_star:
+- object
+moebius_trefoil:
+- object
+moebius_triangle:
+- object
+moka_pot:
+- object
+moldova:
+- object
+molecule:
+- object
+molecule_2:
+- object
+molotov:
+- object
+mona_lisa:
+- object
+monastery:
+- object
+moncler_jacket:
+- object
+money_bag:
+- object
+money_bill:
+- object
+money_bill_1:
+- object
+money_bill_1_wave:
+- gesture
+money_bill_alt:
+- object
+money_bill_transfer:
+- object
+money_bill_trend_up:
+- object
+money_bill_wave:
+- gesture
+money_bill_wave_alt:
+- gesture
+money_bill_wheat:
+- object
+money_bills:
+- object
+money_check:
+- object
+money_check_alt:
+- object
+money_check_dollar:
+- object
+money_mouth_face:
+- emotion
+money_stack:
+- object
+money_with_wings:
+- object
+mongol_invasions:
+- object
+monk_face:
+- emotion
+monkey:
+- animal
+monkey_face:
+- animal
+- emotion
+monkey_wrench:
+- animal
+- tool
+mono_wheel_robot:
+- technology
+monorail:
+- object
+monster_grasp:
+- object
+monstera_leaf:
+- plant
+montezuma:
+- object
+monument:
+- object
+monument_valley:
+- object
+moon:
+- nature
+moon_bats:
+- nature
+moon_cake:
+- food
+- nature
+moon_claws:
+- nature
+moon_orbit:
+- nature
+moon_viewing_ceremony:
+- event
+- nature
+mooring_bollard:
+- object
+moose:
+- animal
+morbid_humour:
+- object
+morgue_feet:
+- object
+morph_ball:
+- object
+mortar:
+- object
+mortar_pestle:
+- object
+mosque:
+- object
+mosquito:
+- object
+mosquito_net:
+- object
+moth:
+- object
+motor_boat:
+- object
+motor_scooter:
+- object
+motorcycle:
+- object
+motorized_wheelchair:
+- object
+motorway:
+- object
+mound:
+- object
+mount_ararat:
+- object
+mount_fuji:
+- object
+mount_kailash:
+- object
+mountain:
+- object
+mountain_biking:
+- object
+mountain_cableway:
+- object
+mountain_cave:
+- object
+mountain_city:
+- location
+mountain_railway:
+- object
+mountain_sun:
+- nature
+mountains:
+- object
+mountaintop:
+- object
+mounted_knight:
+- object
+mouse:
+- animal
+mouse_2:
+- animal
+mouse_face:
+- animal
+- emotion
+mouse_pointer:
+- animal
+mouse_trap:
+- animal
+mouth:
+- object
+mouth_watering:
+- object
+move:
+- object
+movement_sensor:
+- object
+movie_camera:
+- technology
+mp5:
+- object
+mp5_2:
+- object
+mp5k:
+- object
+mp_40:
+- object
+mrs_claus:
+- object
+mu:
+- object
+much_greater_than:
+- object
+much_less_than:
+- object
+mucous_pillar:
+- object
+mug_hot:
+- object
+mug_saucer:
+- object
+mug_shot:
+- object
+mughal_invasion:
+- object
+mule:
+- animal
+multiple_targets:
+- object
+multiplication_sign:
+- symbol
+multiplication_x:
+- object
+multiply:
+- object
+mummy_head:
+- object
+muscle:
+- object
+muscle_fat:
+- object
+muscular_torso:
+- object
+mushroom:
+- plant
+mushroom_cloud:
+- nature
+- plant
+mushroom_gills:
+- plant
+mushroom_house:
+- building
+- plant
+mushrooms:
+- object
+mushrooms_cluster:
+- object
+music:
+- music
+music_spell:
+- music
+musical_keyboard:
+- object
+musical_note:
+- object
+musical_notes:
+- object
+musical_score:
+- object
+musket:
+- object
+mustache:
+- object
+mute:
+- object
+muted_speaker:
+- object
+mx_claus:
+- object
+n_ary_coproduct:
+- object
+n_ary_product:
+- object
+n_ary_summation:
+- object
+nachos:
+- object
+nail_polish:
+- object
+nailed_foot:
+- object
+nailed_head:
+- object
+nails:
+- object
+naira_sign:
+- symbol
+namaste:
+- object
+name_badge:
+- object
+napoleonic_war:
+- object
+nasi:
+- object
+national_park:
+- object
+nations_algeria:
+- object
+nations_aqueduct:
+- object
+nations_archer:
+- object
+nations_australia:
+- object
+nations_bank:
+- object
+nations_book:
+- object
+nations_brazil:
+- object
+nations_building:
+- building
+nations_castle:
+- building
+nations_cavalry:
+- object
+nations_chariot:
+- object
+nations_compass:
+- object
+nations_department_store:
+- object
+nations_dreadnought:
+- object
+nations_elephant:
+- animal
+nations_factory:
+- object
+nations_granary:
+- object
+nations_hospital:
+- building
+nations_libya:
+- object
+nations_lighthouse:
+- object
+nations_microscope:
+- object
+nations_mosque:
+- object
+nations_national_park:
+- object
+nations_observatory:
+- object
+nations_pagoda:
+- object
+nations_radio:
+- object
+nations_south_africa:
+- object
+nations_spectacles:
+- object
+nations_statue_of_liberty:
+- object
+nations_submarine:
+- object
+nations_synagogue:
+- object
+nations_telescope:
+- object
+nations_thermometer:
+- object
+nations_trireme:
+- object
+nations_uluru:
+- object
+nations_university:
+- object
+nations_windmill:
+- object
+nations_zeppelin:
+- object
+nauseated_face:
+- emotion
+nautilus_shell:
+- object
+nazar_amulet:
+- object
+neck_bite:
+- object
+necklace:
+- accessory
+necklace_display:
+- accessory
+necktie:
+- object
+needle_drill:
+- tool
+needle_jaws:
+- object
+nefertiti:
+- object
+negro:
+- object
+neither_greater_than_nor_equal_to:
+- object
+neither_greater_than_nor_equal_to2:
+- object
+neither_greater_than_nor_less_than:
+- object
+neither_less_than_nor_equal_to:
+- object
+neither_less_than_nor_equal_to2:
+- object
+neither_less_than_nor_greater_than:
+- object
+nerd_face:
+- emotion
+nest_birds:
+- object
+nest_eggs:
+- object
+nest_with_eggs:
+- object
+nested_eclipses:
+- object
+nested_hearts:
+- card
+nested_hexagons:
+- object
+nesting_dolls:
+- object
+network_bars:
+- object
+network_wired:
+- object
+neuter:
+- object
+neutral_face:
+- emotion
+new_born:
+- object
+new_button:
+- symbol
+new_moon:
+- nature
+new_moon_face:
+- emotion
+- nature
+new_shoot:
+- object
+newspaper:
+- object
+next_button:
+- symbol
+next_track_button:
+- symbol
+ng_button:
+- symbol
+niccolo_machiavelli:
+- object
+nigeria:
+- object
+night_sky:
+- nature
+night_sleep:
+- object
+night_vision:
+- object
+night_with_stars:
+- object
+nil:
+- object
+nimble:
+- object
+nine_o'clock:
+- object
+nine_oclock:
+- object
+nine_thirty:
+- object
+ninja:
+- object
+ninja_armor:
+- object
+ninja_head:
+- object
+ninja_heroic_stance:
+- object
+ninja_mask:
+- object
+ninja_star:
+- object
+ninja_velociraptor:
+- object
+no_bicycles:
+- object
+no_entry:
+- object
+no_littering:
+- object
+no_mobile_phones:
+- object
+no_one_under_eighteen:
+- object
+no_pedestrians:
+- object
+no_smoking:
+- object
+nodular:
+- object
+non_potable_water:
+- object
+nonna:
+- object
+noodle_ball:
+- object
+noodles:
+- object
+north_star_shuriken:
+- object
+northwest_passage:
+- object
+norwegian_forest_cat:
+- animal
+nose:
+- object
+nose_front:
+- object
+nose_side:
+- object
+not_almost_equal_to:
+- object
+not_an_element_of:
+- object
+not_an_element_of2:
+- object
+not_approximately_equal_to:
+- object
+not_asymptotically_equal_to:
+- object
+not_equal:
+- object
+not_equal_to:
+- object
+not_greater_than:
+- object
+not_identical_to:
+- object
+not_less_than:
+- object
+notdef:
+- object
+note_sticky:
+- object
+notebook:
+- object
+notebook_with_decorative_cover:
+- object
+notes_medical:
+- object
+nothing_to_say:
+- object
+notre_dame:
+- object
+nubia:
+- object
+nuclear:
+- object
+nuclear_bomb:
+- object
+nuclear_plant:
+- plant
+numero:
+- object
+nun_face:
+- emotion
+nunchaku:
+- object
+nurse_female:
+- object
+nurse_male:
+- object
+nut_and_bolt:
+- object
+o_brick:
+- object
+o_button_blood_type:
+- symbol
+oak:
+- object
+oak_leaf:
+- plant
+oasis:
+- object
+oat:
+- object
+obelisk:
+- object
+object_group:
+- object
+object_ungroup:
+- object
+observatory:
+- object
+ocarina:
+- object
+occupy:
+- object
+ocean_fishing:
+- nature
+octogonal_eye:
+- object
+octoman:
+- object
+octopus:
+- animal
+oden:
+- object
+office_building:
+- building
+office_chair:
+- object
+office_worker:
+- person
+offshore_platform:
+- object
+ogre:
+- object
+oil_can:
+- object
+oil_drum:
+- music
+oil_pump:
+- object
+oil_rig:
+- object
+oil_well:
+- object
+oily_spiral:
+- object
+ojos_azules_cat:
+- animal
+ok_button:
+- symbol
+ok_hand:
+- gesture
+old_key:
+- object
+old_king:
+- role
+old_lantern:
+- object
+old_man:
+- person
+old_microphone:
+- object
+old_wagon:
+- object
+old_woman:
+- person
+older_person:
+- person
+olive:
+- object
+om:
+- object
+omega:
+- object
+on!_arrow:
+- object
+on_arrow:
+- object
+on_sight:
+- object
+on_target:
+- object
+oncoming_automobile:
+- object
+oncoming_bus:
+- object
+oncoming_fist:
+- gesture
+oncoming_police_car:
+- object
+oncoming_taxi:
+- object
+one_eight:
+- object
+one_eyed:
+- object
+one_half:
+- object
+one_o'clock:
+- object
+one_oclock:
+- object
+one_piece_swimsuit:
+- object
+one_quarter:
+- object
+one_third:
+- object
+one_thirty:
+- object
+oni:
+- object
+onion:
+- object
+open_book:
+- object
+open_chest:
+- object
+open_file_folder:
+- object
+open_folder:
+- object
+open_gate:
+- object
+open_hands:
+- object
+open_mailbox_with_lowered_flag:
+- symbol
+open_mailbox_with_raised_flag:
+- symbol
+open_palm:
+- object
+open_treasure_chest:
+- object
+open_wound:
+- object
+opened_food_can:
+- object
+opening_shell:
+- object
+ophiuchus:
+- object
+opium_war:
+- object
+oppidum:
+- object
+opposite_hearts:
+- card
+oppression:
+- object
+optical_disk:
+- object
+orange:
+- object
+orange_book:
+- object
+orange_circle:
+- object
+orange_heart:
+- object
+orange_slice:
+- object
+orange_square:
+- object
+orangutan:
+- animal
+orb_direction:
+- object
+orb_wand:
+- object
+orbit:
+- object
+orbital:
+- object
+orbital_rays:
+- object
+orc_head:
+- object
+ore:
+- object
+oresund_dues:
+- object
+organigram:
+- object
+origin_of_species:
+- object
+orthodox_cross:
+- object
+ostafrika:
+- object
+ostrich:
+- animal
+otter:
+- animal
+ouroboros:
+- object
+outback_hat:
+- accessory
+outbox_tray:
+- object
+outdent:
+- object
+over_infinity:
+- object
+overdose:
+- object
+overdrive:
+- object
+overhead:
+- object
+overkill:
+- object
+overlord_helm:
+- object
+overmind:
+- object
+owl:
+- animal
+owl111:
+- object
+ox:
+- animal
+oyster:
+- object
+oyster_pearl:
+- object
+p90:
+- object
+p_button:
+- symbol
+package:
+- object
+packed_planks:
+- object
+paddles:
+- object
+padlock:
+- object
+padlock_open:
+- object
+page_facing_up:
+- object
+page_with_curl:
+- object
+pager:
+- object
+pagoda:
+- object
+paint_brush:
+- object
+paint_bucket:
+- object
+paint_roller:
+- object
+paintbrush:
+- object
+painted_pottery:
+- object
+palette:
+- object
+palisade:
+- object
+pallas_cat:
+- animal
+pallet:
+- object
+palm:
+- object
+palm_down_hand:
+- gesture
+palm_tree:
+- plant
+palm_up_hand:
+- gesture
+palms_up_together:
+- object
+pan_flute:
+- music
+pancakes:
+- object
+panda:
+- animal
+panorama:
+- object
+panther:
+- animal
+panzerfaust:
+- object
+paper:
+- object
+paper_arrow:
+- object
+paper_boat:
+- object
+paper_bomb:
+- object
+paper_clip:
+- object
+paper_lantern:
+- object
+paper_plane:
+- object
+paper_tray:
+- object
+paper_windmill:
+- object
+paperclip:
+- object
+papers:
+- object
+papyrus:
+- object
+parachute:
+- object
+parachute_box:
+- object
+paragraph:
+- object
+paraguay:
+- object
+parallel_to:
+- object
+paranoia:
+- object
+parasaurolophus:
+- object
+park_bench:
+- object
+parking:
+- object
+parliament:
+- object
+parmecia:
+- object
+parrot:
+- animal
+parrot_head:
+- animal
+part_alternation_mark:
+- symbol
+parthian_wars:
+- object
+party_flags:
+- event
+party_hat:
+- accessory
+- event
+party_popper:
+- event
+partying_face:
+- emotion
+passenger_ship:
+- object
+passport:
+- object
+passport_control:
+- object
+pastafarianism:
+- object
+paste:
+- object
+path_distance:
+- object
+path_tile:
+- object
+pauldrons:
+- object
+pause:
+- object
+pause_button:
+- symbol
+pause_circle:
+- object
+paw:
+- object
+paw_front:
+- object
+paw_heart:
+- object
+paw_print:
+- object
+paw_prints:
+- object
+pawn:
+- object
+pawprint:
+- object
+paws:
+- object
+pay_money:
+- object
+pc:
+- object
+pea_pod:
+- object
+peace:
+- object
+peace_dove:
+- object
+peace_symbol:
+- object
+peach:
+- object
+peacock:
+- animal
+peaks:
+- object
+peanut:
+- object
+peanuts:
+- object
+pear:
+- object
+pearl_earring:
+- object
+pearl_necklace:
+- accessory
+peas:
+- object
+pegasus:
+- object
+pelopponesian_war:
+- object
+pelvis_bone:
+- object
+pen:
+- object
+pen_alt:
+- object
+pen_clip:
+- object
+pen_fancy:
+- object
+pen_nib:
+- object
+pen_ruler:
+- object
+pen_square:
+- object
+pen_to_square:
+- object
+penal_colony:
+- object
+pencil:
+- object
+pencil_alt:
+- object
+pencil_brush:
+- object
+pencil_ruler:
+- object
+pencil_uni:
+- object
+pendulum_swing:
+- object
+penguin:
+- animal
+pensive_face:
+- emotion
+pentacle:
+- object
+pentagram_rose:
+- object
+pentarrows_tornado:
+- object
+people_arrows:
+- object
+people_carry:
+- object
+people_carry_box:
+- object
+people_group:
+- object
+people_holding_hands:
+- object
+people_hugging:
+- object
+people_line:
+- object
+people_pulling:
+- object
+people_robbery:
+- object
+people_roof:
+- object
+people_with_bunny_ears:
+- object
+people_wrestling:
+- object
+pepper_hot:
+- object
+percent:
+- object
+percentage:
+- object
+performing_arts:
+- object
+perfume_bottle:
+- food
+periscope:
+- object
+perpendicular:
+- object
+perpendicular_rings:
+- object
+persevering_face:
+- emotion
+persian_cat:
+- animal
+person:
+- person
+person_arrow_down_to_line:
+- person
+person_arrow_up_from_line:
+- person
+person_biking:
+- person
+person_booth:
+- person
+person_breastfeeding:
+- person
+person_burst:
+- person
+person_cane:
+- person
+person_chalkboard:
+- person
+person_circle_check:
+- person
+person_circle_exclamation:
+- person
+person_circle_minus:
+- person
+person_circle_plus:
+- person
+person_circle_question:
+- person
+person_circle_xmark:
+- person
+person_digging:
+- person
+person_dots_from_line:
+- person
+person_dress:
+- clothing
+- person
+person_dress_burst:
+- clothing
+- person
+person_drowning:
+- person
+person_falling:
+- person
+person_falling_burst:
+- person
+person_half_dress:
+- clothing
+- person
+person_harassing:
+- person
+person_hiking:
+- person
+person_military_pointing:
+- gesture
+- person
+person_military_rifle:
+- person
+person_military_to_person:
+- person
+person_praying:
+- person
+person_pregnant:
+- person
+person_rays:
+- person
+person_rifle:
+- person
+person_running:
+- person
+person_shelter:
+- person
+person_skating:
+- person
+person_skiing:
+- person
+person_skiing_nordic:
+- person
+person_snowboarding:
+- person
+person_swimming:
+- person
+person_through_window:
+- person
+person_walking:
+- person
+person_walking_arrow_loop_left:
+- person
+person_walking_arrow_right:
+- person
+person_walking_dashed_line_arrow_right:
+- person
+person_walking_luggage:
+- person
+person_walking_with_cane:
+- person
+perspective_dice_five:
+- game
+perspective_dice_four:
+- game
+perspective_dice_one:
+- game
+perspective_dice_six:
+- game
+perspective_dice_six_faces_five:
+- game
+perspective_dice_six_faces_four:
+- game
+perspective_dice_six_faces_one:
+- game
+perspective_dice_six_faces_random:
+- game
+perspective_dice_six_faces_six:
+- game
+perspective_dice_six_faces_three:
+- game
+perspective_dice_six_faces_two:
+- game
+perspective_dice_three:
+- game
+perspective_dice_two:
+- game
+peru:
+- object
+peseta_sign:
+- symbol
+peso_sign:
+- symbol
+pestle_mortar:
+- object
+peter:
+- object
+peter_the_great:
+- object
+petra:
+- object
+petri_dish:
+- object
+phalanx:
+- object
+pharoah:
+- object
+phi:
+- object
+philippines:
+- object
+phone:
+- technology
+phone_alt:
+- technology
+phone_flip:
+- technology
+phone_slash:
+- technology
+phone_square:
+- technology
+phone_square_alt:
+- technology
+phone_volume:
+- technology
+photo_camera:
+- technology
+photo_film:
+- object
+photo_video:
+- object
+phrygian_cap:
+- object
+piano_keys:
+- music
+piazza_san_marco:
+- object
+pick:
+- object
+pick_of_destiny:
+- object
+pickelhaube:
+- object
+pickup_truck:
+- object
+pie:
+- object
+pie_chart:
+- object
+pie_slice:
+- object
+pie_uni:
+- object
+piece_skull:
+- object
+pierced_body:
+- object
+pierced_heart:
+- object
+piercing_sword:
+- object
+pig:
+- animal
+pig_face:
+- animal
+- emotion
+pig_nose:
+- animal
+piggy_bank:
+- object
+pikeman:
+- object
+pile_of_poo:
+- object
+pilgrim_hat:
+- accessory
+pill:
+- object
+pill_drop:
+- object
+pillow:
+- object
+pills:
+- object
+pilot:
+- object
+pimiento:
+- object
+pin:
+- object
+pinata:
+- object
+pinball_flipper:
+- object
+pincers:
+- object
+pinched_fingers:
+- object
+pinching_hand:
+- gesture
+pine_decoration:
+- object
+pine_tree:
+- plant
+pineapple:
+- object
+ping_pong:
+- object
+ping_pong_bat:
+- animal
+pink_heart:
+- object
+pipes:
+- object
+piranha:
+- object
+pirate_cannon:
+- object
+pirate_captain:
+- object
+pirate_coat:
+- object
+pirate_flag:
+- symbol
+pirate_grave:
+- object
+pirate_hat:
+- accessory
+pirate_hook:
+- object
+pirate_skull:
+- object
+pisa_tower:
+- building
+pisces:
+- object
+pistol:
+- object
+pistol_gun:
+- object
+pitchfork:
+- object
+pizza:
+- food
+pizza_cutter:
+- food
+pizza_slice:
+- food
+placard:
+- object
+place_of_worship:
+- object
+plague_doctor_profile:
+- object
+plain_arrow:
+- object
+plain_circle:
+- object
+plain_dagger:
+- object
+plain_square:
+- object
+plane:
+- object
+plane_arrival:
+- object
+plane_circle_check:
+- object
+plane_circle_exclamation:
+- object
+plane_circle_xmark:
+- object
+plane_departure:
+- object
+plane_lock:
+- object
+plane_slash:
+- object
+plane_up:
+- object
+plane_wing:
+- object
+planet_conquest:
+- object
+planet_core:
+- object
+planks:
+- object
+plant_roots:
+- plant
+plant_wilt:
+- plant
+plants_and_animals:
+- object
+plasma_bolt:
+- object
+plastic_duck:
+- animal
+plastron:
+- object
+plate_claw:
+- object
+plate_wheat:
+- object
+platform:
+- object
+play:
+- object
+play_button:
+- symbol
+play_circle:
+- object
+play_or_pause_button:
+- symbol
+player_base:
+- object
+player_next:
+- object
+player_previous:
+- object
+player_time:
+- object
+playground_slide:
+- object
+playing_handball:
+- object
+pleading_face:
+- emotion
+plesiosaurus:
+- object
+plow:
+- object
+plug:
+- object
+plug_circle_bolt:
+- object
+plug_circle_check:
+- object
+plug_circle_exclamation:
+- object
+plug_circle_minus:
+- object
+plug_circle_plus:
+- object
+plug_circle_xmark:
+- object
+plunger:
+- object
+plus:
+- object
+plus_circle:
+- object
+plus_minus:
+- object
+plus_sign:
+- symbol
+plus_square:
+- object
+pocahontas:
+- object
+pocket_bow:
+- object
+pocket_radio:
+- object
+pocket_watch:
+- accessory
+podcast:
+- object
+podium:
+- object
+podium_second:
+- object
+podium_third:
+- object
+podium_winner:
+- object
+pointer_down_white:
+- object
+pointer_left_black:
+- object
+pointer_left_white:
+- object
+pointer_right_black:
+- object
+pointer_right_white:
+- object
+pointer_up_white:
+- object
+pointing:
+- gesture
+pointy_hat:
+- accessory
+pointy_sword:
+- object
+poison:
+- object
+poison_bottle:
+- food
+poison_cloud:
+- nature
+poison_gas:
+- object
+pokecog:
+- object
+poker_hand:
+- gesture
+polar_bear:
+- object
+police_badge:
+- object
+police_car:
+- object
+police_car_light:
+- object
+police_officer:
+- object
+police_officer_head:
+- object
+police_target:
+- object
+poll:
+- object
+poll_h:
+- object
+pollen_dust:
+- object
+polo_shirt:
+- clothing
+poncho:
+- object
+poo:
+- object
+poo_storm:
+- object
+poodle:
+- object
+pool_8_ball:
+- object
+pool_dive:
+- object
+poop:
+- object
+popcorn:
+- object
+pope_crown:
+- object
+poppa:
+- object
+poppy:
+- object
+porcelain_tower:
+- building
+porcelain_vase:
+- object
+porcupine:
+- animal
+portal:
+- object
+portculis:
+- object
+portrait:
+- object
+position_marker:
+- object
+post_office:
+- object
+post_stamp:
+- object
+postal_horn:
+- object
+postbox:
+- object
+pot_of_food:
+- object
+potable_water:
+- object
+potala_palace:
+- object
+potato:
+- object
+potion_ball:
+- object
+potion_of_madness:
+- object
+potosi:
+- object
+potted_plant:
+- plant
+poultry_leg:
+- object
+pounce:
+- object
+pound:
+- object
+pound_banknote:
+- object
+pound_sign:
+- symbol
+pound_symbol:
+- object
+pouring_chalice:
+- object
+pouring_liquid:
+- object
+pouting:
+- object
+pouting_cat:
+- animal
+pouting_face:
+- emotion
+powder:
+- object
+powder_bag:
+- object
+power_button:
+- symbol
+power_generator:
+- object
+power_lightning:
+- object
+power_off:
+- object
+power_ring:
+- object
+praetorian_guard:
+- object
+pray:
+- object
+prayer:
+- object
+prayer_beads:
+- object
+praying_hands:
+- object
+praying_mantis:
+- object
+pregnant_man:
+- person
+pregnant_person:
+- person
+pregnant_woman:
+- person
+prescription:
+- object
+prescription_bottle:
+- food
+prescription_bottle_alt:
+- food
+prescription_bottle_medical:
+- food
+present:
+- object
+pretty_fangs:
+- object
+pretzel:
+- object
+previous_button:
+- symbol
+price_tag:
+- object
+primitive_necklace:
+- accessory
+primitive_torch:
+- object
+prince:
+- object
+princess:
+- object
+principia:
+- object
+print:
+- object
+printer:
+- object
+printing_press:
+- object
+prisoner:
+- object
+private:
+- object
+private_first_class:
+- object
+privateer:
+- object
+probing_cane:
+- object
+procedures:
+- object
+processor:
+- object
+profit:
+- object
+prohibited:
+- object
+project_diagram:
+- object
+propeller_beanie:
+- object
+proportion:
+- object
+proportional_to:
+- object
+protection_glasses:
+- accessory
+prussia:
+- object
+pschent_double_crown:
+- object
+psi:
+- object
+psychic_waves:
+- object
+pterodactylus:
+- object
+pteruges:
+- object
+public_speaker:
+- object
+pull:
+- object
+pulley_hook:
+- object
+pulse:
+- object
+pummeled:
+- object
+pump_medical:
+- object
+pump_soap:
+- object
+pumpkin:
+- object
+pumpkin_lantern:
+- object
+pumpkin_mask:
+- object
+punch:
+- object
+punch_blast:
+- object
+punching_bag:
+- object
+punic_wars:
+- object
+puppet:
+- object
+purple_circle:
+- object
+purple_heart:
+- object
+purple_square:
+- object
+purple_tentacle:
+- object
+purse:
+- object
+push:
+- object
+pushpin:
+- object
+puzzle:
+- object
+puzzle_piece:
+- object
+pylon:
+- object
+pyramids:
+- object
+pyre:
+- object
+pyromaniac:
+- object
+qin_shi_huang:
+- object
+qrcode:
+- object
+quake_stomp:
+- object
+quebec:
+- object
+queen_crown:
+- role
+question:
+- object
+question_circle:
+- object
+question_mark:
+- symbol
+quick_slash:
+- object
+quicksand:
+- object
+quidditch:
+- object
+quill:
+- object
+quill_ink:
+- object
+quiver:
+- object
+quote_left:
+- object
+quote_right:
+- object
+quran:
+- object
+rabbit:
+- animal
+rabbit_face:
+- animal
+- emotion
+rabbit_head:
+- animal
+raccoon:
+- animal
+raccoon_head:
+- animal
+race_car:
+- object
+racing_car:
+- object
+radar_cross_section:
+- object
+radar_dish:
+- object
+radar_sweep:
+- object
+radial_balance:
+- object
+radiation:
+- object
+radiation_alt:
+- object
+radiations:
+- object
+radio:
+- object
+radio_button:
+- symbol
+radio_tower:
+- building
+radioactive:
+- object
+raft:
+- object
+ragged_wound:
+- object
+raid:
+- object
+railroad:
+- object
+railway:
+- object
+railway_car:
+- object
+railway_track:
+- object
+rainbow:
+- object
+rainbow_star:
+- object
+raining:
+- object
+raise_skeleton:
+- object
+raise_zombie:
+- object
+raised_back_of_hand:
+- gesture
+raised_fist:
+- gesture
+raised_hand:
+- gesture
+raising_hand:
+- gesture
+raising_hands:
+- object
+rake:
+- object
+rally_the_troops:
+- object
+ram:
+- animal
+ram_2:
+- animal
+ram_profile:
+- animal
+ranch_gate:
+- object
+random:
+- object
+ranger:
+- object
+rank_1:
+- object
+rank_2:
+- object
+rank_3:
+- object
+ranking_star:
+- object
+rapidshare_arrow:
+- object
+raspberry:
+- object
+rat:
+- animal
+ratio:
+- object
+rattlesnake:
+- object
+raven:
+- animal
+raw_egg:
+- object
+ray_gun:
+- object
+razor:
+- object
+razor_blade:
+- object
+reactor:
+- object
+read:
+- object
+reaper_scythe:
+- object
+rear_aura:
+- object
+receipt:
+- object
+receive_money:
+- object
+reconquista:
+- object
+record_button:
+- symbol
+record_vinyl:
+- object
+rectangle_ad:
+- object
+rectangle_list:
+- object
+rectangle_xmark:
+- object
+recycle:
+- object
+recycling_symbol:
+- object
+red beetle:
+- object
+red_apple:
+- object
+red_circle:
+- object
+red_envelope:
+- object
+red_fort:
+- object
+red_hair:
+- object
+red_heart:
+- object
+red_panda:
+- animal
+red_paper_lantern:
+- object
+red_square:
+- object
+red_triangle_pointed_down:
+- object
+red_triangle_pointed_up:
+- object
+redcoat:
+- object
+redo:
+- object
+redo_alt:
+- object
+reed:
+- object
+refinery:
+- object
+regeneration:
+- object
+registered:
+- object
+registered_uni:
+- object
+relationship_bounds:
+- object
+relic_blade:
+- object
+relieved_face:
+- emotion
+reload_gun_barrel:
+- object
+remedy:
+- object
+reminder_ribbon:
+- object
+remove_format:
+- object
+rempart:
+- object
+repeat:
+- object
+repeat_button:
+- symbol
+repeat_single_button:
+- symbol
+reply:
+- object
+reply_all:
+- object
+reptile_tail:
+- object
+republican:
+- object
+rescue_workers_helmet:
+- object
+rescue_worker’s_helmet:
+- object
+resize:
+- object
+resonance:
+- object
+resting:
+- object
+resting_vampire:
+- object
+restroom:
+- object
+reticule:
+- object
+retro_controller:
+- object
+return_arrow:
+- object
+retweet:
+- object
+reverse_button:
+- symbol
+revolt:
+- object
+revolt_2:
+- object
+revolver:
+- object
+revolver_2:
+- object
+revolving_hearts:
+- card
+rhi:
+- object
+rhino:
+- object
+rhino_beetle:
+- object
+rhinoceros:
+- animal
+rhinoceros_beetle:
+- animal
+rhinoceros_horn:
+- animal
+rialto_bridge:
+- object
+ribbon:
+- object
+ribbon_medal:
+- sport
+- symbol
+ribbon_shield:
+- object
+ribcage:
+- object
+rice_ball:
+- object
+rice_cracker:
+- object
+rickshaw:
+- object
+rifle:
+- object
+rifleman:
+- object
+right_anger_bubble:
+- object
+right_angle_quotation_mark:
+- symbol
+right_arrow:
+- object
+right_arrow_curving_down:
+- object
+right_arrow_curving_left:
+- object
+right_arrow_curving_up:
+- object
+right_black_pointer:
+- object
+right_facing_fist:
+- gesture
+right_from_bracket:
+- object
+right_left:
+- object
+right_long:
+- object
+right_to_bracket:
+- object
+right_white_pointer:
+- object
+rightwards_arrow:
+- object
+rightwards_hand:
+- gesture
+rightwards_pushing_hand:
+- gesture
+rightwards_white_arrow:
+- object
+ring:
+- object
+ring_buoy:
+- object
+ring_mould:
+- object
+ringed_beam:
+- object
+ringed_planet:
+- object
+ringing_alarm:
+- object
+ringing_bell:
+- object
+ringmaster:
+- object
+riot_shield:
+- object
+river:
+- object
+road:
+- object
+road_barrier:
+- object
+road_bridge:
+- object
+road_circle_check:
+- object
+road_circle_exclamation:
+- object
+road_circle_xmark:
+- object
+road_lock:
+- object
+road_spikes:
+- object
+roast_chicken:
+- animal
+roasted_sweet_potato:
+- object
+robber:
+- object
+robber_hand:
+- gesture
+robber_mask:
+- object
+robe:
+- object
+robert:
+- object
+robin_hood_hat:
+- accessory
+robot:
+- technology
+robot_antennas:
+- technology
+robot_golem:
+- technology
+robot_helmet:
+- technology
+robot_leg:
+- technology
+rock:
+- object
+rock_2:
+- object
+rock_golem:
+- object
+rocket:
+- object
+rocket_flight:
+- object
+rocket_thruster:
+- object
+rocking_chair:
+- object
+rod_of_asclepius:
+- object
+rogue:
+- object
+roll_of_paper:
+- object
+rolled_cloth:
+- object
+rolled_up_newspaper:
+- object
+roller_coaster:
+- object
+roller_skate:
+- object
+rolling_bomb:
+- object
+rolling_dice_cup:
+- game
+rolling_dices:
+- object
+rolling_energy:
+- object
+rolling_on_the_floor_laughing:
+- object
+roman_shield:
+- object
+roman_toga:
+- object
+romeo_and_juliet:
+- object
+rook_black:
+- object
+rook_white:
+- object
+rooster:
+- animal
+root_tip:
+- object
+rope_bridge:
+- object
+rope_coil:
+- object
+rope_dart:
+- object
+ropeway:
+- object
+rosa_shield:
+- object
+rose:
+- object
+rosette:
+- object
+rotate:
+- object
+rotate_left:
+- object
+rotate_right:
+- object
+rough_wound:
+- object
+round_bottom_flask:
+- object
+round_knob:
+- object
+round_pushpin:
+- object
+round_shield:
+- object
+round_silo:
+- object
+round_star:
+- object
+round_straw_bale:
+- object
+round_struck:
+- object
+round_table:
+- object
+route:
+- object
+rowing_boat:
+- object
+royal_love:
+- object
+royal_society:
+- object
+rss:
+- object
+rss_2:
+- object
+rss_square:
+- object
+rubber_boot:
+- object
+ruble_sign:
+- symbol
+rug:
+- object
+rugby_conversion:
+- object
+rugby_football:
+- sport
+rule_book:
+- object
+ruler:
+- object
+ruler_combined:
+- object
+ruler_horizontal:
+- object
+ruler_vertical:
+- object
+run:
+- object
+rune_stone:
+- object
+rune_sword:
+- object
+running:
+- object
+running_ninja:
+- object
+running_shirt:
+- clothing
+running_shoe:
+- object
+rupee:
+- object
+rupee_sign:
+- symbol
+rupiah_sign:
+- symbol
+rusty_sword:
+- object
+s_brick:
+- object
+saber_and_pistol:
+- object
+saber_slash:
+- object
+saber_tooth:
+- object
+saber_toothed_cat_head:
+- animal
+sabers_choc:
+- object
+sack_dollar:
+- object
+sack_xmark:
+- object
+sacrificial_altar:
+- object
+sacrificial_dagger:
+- object
+sad_but_relieved_face:
+- emotion
+sad_crab:
+- animal
+- emotion
+sad_cry:
+- emotion
+sad_tear:
+- emotion
+saddle:
+- object
+safety_pin:
+- object
+safety_vest:
+- object
+sagittarius:
+- object
+sahara:
+- object
+saharan_trade:
+- object
+sai:
+- object
+sail:
+- object
+sailboat:
+- object
+saint_augustine:
+- object
+saint_basil_cathedral:
+- object
+saiyan_suit:
+- object
+sake:
+- object
+salamander:
+- animal
+salmon:
+- object
+saloon:
+- object
+saloon_doors:
+- object
+salt:
+- object
+salt_shaker:
+- object
+saluting_face:
+- emotion
+samurai:
+- object
+samurai_helmet:
+- object
+samus_helmet:
+- object
+sand_castle:
+- building
+sand_snake:
+- animal
+sands_of_time:
+- object
+sandstorm:
+- object
+sandwich:
+- object
+sankore_university:
+- object
+santa_claus:
+- object
+saphir:
+- object
+sarah:
+- object
+sarcophagus:
+- object
+sari:
+- object
+sasquatch:
+- object
+satellite:
+- object
+satellite_antenna:
+- object
+satellite_communication:
+- object
+satellite_dish:
+- object
+sattelite:
+- object
+sauropod:
+- object
+sauropod_head:
+- object
+sausage:
+- object
+sausages_ribbon:
+- object
+save:
+- object
+save_arrow:
+- object
+saw_claw:
+- tool
+sawed_off_shotgun:
+- object
+sawmill:
+- object
+saxophone:
+- object
+scabbard:
+- object
+scale_balanced:
+- object
+scale_mail:
+- object
+scale_unbalanced:
+- object
+scale_unbalanced_flip:
+- object
+scales:
+- object
+scallop:
+- object
+scalpel:
+- object
+scalpel_strike:
+- object
+scar_wound:
+- object
+scarab_beetle:
+- object
+scarecrow:
+- object
+scarf:
+- object
+scarlet_tanager:
+- object
+school:
+- object
+school_bag:
+- object
+school_circle_check:
+- object
+school_circle_exclamation:
+- object
+school_circle_xmark:
+- object
+school_flag:
+- symbol
+school_lock:
+- object
+school_of_fish:
+- object
+scientist:
+- role
+scissors:
+- object
+scissors_2:
+- object
+scooter:
+- object
+scorpio:
+- object
+scorpion:
+- object
+scorpion_tail:
+- object
+scout_ship:
+- object
+screaming:
+- object
+screen_impact:
+- technology
+screw:
+- object
+screw_2:
+- object
+screwdriver:
+- tool
+screwdriver_wrench:
+- tool
+scroll:
+- object
+scroll_torah:
+- object
+scroll_unfurled:
+- object
+scuba_mask:
+- object
+scuba_tanks:
+- object
+scythe:
+- object
+sd_card:
+- card
+sea_creature:
+- object
+sea_dragon:
+- object
+sea_serpent:
+- object
+sea_star:
+- object
+seagull:
+- object
+seahorse:
+- object
+seal:
+- animal
+search:
+- object
+search_dollar:
+- object
+search_location:
+- location
+search_minus:
+- object
+search_plus:
+- object
+seat:
+- object
+seated_mouse:
+- animal
+sebastian:
+- object
+second_boer_war:
+- object
+secret_book:
+- object
+secret_door:
+- object
+section:
+- object
+security_gate:
+- object
+see_no_evil_monkey:
+- animal
+seedling:
+- object
+sejong_the_great:
+- object
+select:
+- object
+self_love:
+- object
+selfie:
+- object
+sell_card:
+- card
+semi_closed_eye:
+- object
+sensuousness:
+- object
+sentry_gun:
+- object
+sergeant:
+- object
+serrated_slash:
+- object
+server:
+- object
+service_dog:
+- animal
+sesame:
+- object
+settings_knobs:
+- object
+settlement:
+- object
+seven_o'clock:
+- object
+seven_oclock:
+- object
+seven_pointed_star:
+- object
+seven_thirty:
+- object
+severed_hand:
+- gesture
+sewed_shell:
+- object
+sewer_system:
+- object
+sewing_needle:
+- object
+sewing_string:
+- object
+sextant:
+- object
+shadow_follower:
+- object
+shadow_grasp:
+- object
+shaka_zulu:
+- object
+shaking_face:
+- emotion
+shaking_hands:
+- object
+shallow_pan_of_food:
+- object
+shambling_mound:
+- object
+shambling_zombie:
+- object
+shamrock:
+- object
+shantytown:
+- object
+shapes:
+- object
+shard_sword:
+- object
+share:
+- object
+share_alt:
+- object
+share_alt_square:
+- object
+share_from_square:
+- object
+share_nodes:
+- object
+share_square:
+- object
+shark:
+- animal
+shark_bite:
+- animal
+shark_fin:
+- animal
+shark_jaws:
+- animal
+sharp_axe:
+- tool
+sharp_crown:
+- object
+sharp_halberd:
+- object
+sharp_lips:
+- object
+sharp_shuriken:
+- object
+sharp_smile:
+- emotion
+sharped_teeth_skull:
+- object
+shatter:
+- object
+shattered_glass:
+- object
+shattered_heart:
+- object
+shattered_sword:
+- object
+shaved_ice:
+- object
+sheaf_of_rice:
+- object
+sheeba:
+- object
+sheep:
+- animal
+sheet_plastic:
+- object
+sheikah_eye:
+- object
+shekel_sign:
+- symbol
+shepherds_crook:
+- object
+sherlock_holmes:
+- object
+shield:
+- object
+shield_alt:
+- object
+shield_bash:
+- object
+shield_bounces:
+- object
+shield_cat:
+- animal
+shield_disabled:
+- object
+shield_dog:
+- animal
+shield_echoes:
+- object
+shield_halved:
+- object
+shield_heart:
+- object
+shield_reflect:
+- object
+shield_virus:
+- object
+shieldcomb:
+- object
+shining_claw:
+- object
+shining_heart:
+- object
+shining_sword:
+- object
+shinto_shrine:
+- object
+shinto_shrine_mirror:
+- object
+shiny_apple:
+- object
+shiny_entrance:
+- object
+shiny_iris:
+- object
+shiny_omega:
+- object
+shiny_purse:
+- object
+ship:
+- object
+ship_bow:
+- object
+ship_wheel:
+- object
+ship_wreck:
+- object
+shipping_fast:
+- object
+shipyard:
+- object
+shirt:
+- clothing
+shoe_prints:
+- object
+shooting_star:
+- object
+shop:
+- object
+shop_lock:
+- object
+shop_slash:
+- object
+shopping_bag:
+- object
+shopping_bags:
+- object
+shopping_basket:
+- object
+shopping_cart:
+- object
+shortcake:
+- object
+shorts:
+- object
+shotgun:
+- object
+shotgun_rounds:
+- object
+shoulder_armor:
+- object
+shoulder_bag:
+- object
+shoulder_scales:
+- object
+shouting:
+- object
+shower:
+- object
+shrimp:
+- object
+shrug:
+- object
+shrugging:
+- object
+shuffle:
+- object
+shuffle_tracks_button:
+- symbol
+shuriken:
+- object
+shuriken_2:
+- object
+shuriken_aperture:
+- object
+shushing_face:
+- emotion
+shut_rose:
+- object
+shuttle_space:
+- object
+shuttle_van:
+- object
+shuttlecock:
+- object
+shwedagon_pagoda:
+- object
+siberia:
+- object
+siberian_cat:
+- animal
+sicily:
+- object
+sickle:
+- object
+sideswipe:
+- object
+siege_of_alesia:
+- object
+siege_of_constantinople:
+- object
+siege_of_rhodes:
+- object
+siege_of_troy:
+- object
+siege_of_vienna:
+- object
+siege_ram:
+- animal
+siege_tower:
+- building
+sight_disabled:
+- object
+sign:
+- symbol
+sign_hanging:
+- symbol
+sign_in_alt:
+- symbol
+sign_language:
+- symbol
+sign_of_the_horns:
+- symbol
+sign_out_alt:
+- symbol
+signal:
+- object
+signature:
+- object
+signs_post:
+- object
+silence:
+- object
+silenced:
+- object
+silex:
+- object
+silk:
+- object
+silk_road:
+- object
+silver_bullet:
+- object
+sim_card:
+- card
+simon_bolivar:
+- object
+sinagot:
+- object
+sing:
+- object
+singer:
+- object
+sink:
+- object
+sinking_ship:
+- object
+sinking_trap:
+- object
+sinusoidal_beam:
+- object
+siren:
+- object
+sistine_chapel:
+- object
+sitemap:
+- object
+sitting_dog:
+- animal
+siwa_oasis:
+- object
+six_eyes:
+- object
+six_o'clock:
+- object
+six_oclock:
+- object
+six_thirty:
+- object
+skateboard:
+- object
+skating:
+- object
+skeletal_hand:
+- gesture
+skeleton:
+- object
+skeleton_inside:
+- object
+skeleton_key:
+- object
+ski_boot:
+- object
+skid_mark:
+- symbol
+skier:
+- object
+skiing:
+- object
+skiing_nordic:
+- object
+skills:
+- object
+skirt:
+- clothing
+skis:
+- object
+skull:
+- object
+skull_and_crossbones:
+- object
+skull_bolt:
+- object
+skull_crack:
+- object
+skull_crossbones:
+- object
+skull_crossed_bones:
+- object
+skull_in_jar:
+- object
+skull_mask:
+- object
+skull_ring:
+- object
+skull_sabertooth:
+- object
+skull_shield:
+- object
+skull_signet:
+- object
+skull_slices:
+- object
+skull_staff:
+- object
+skull_with_syringe:
+- object
+skullcap:
+- object
+skunk:
+- animal
+slalom:
+- object
+slap:
+- object
+slash:
+- object
+slashed_shield:
+- object
+slavery_whip:
+- object
+sled:
+- object
+sleeping_face:
+- emotion
+sleepy:
+- object
+sleepy_face:
+- emotion
+sleeveless_jacket:
+- object
+sleeveless_top:
+- object
+sleigh:
+- object
+sliced_bread:
+- food
+sliced_mushroom:
+- plant
+sliced_sausage:
+- object
+slicing_arrow:
+- object
+sliders:
+- object
+sliders_h:
+- object
+slightly_frowning_face:
+- emotion
+slightly_smiling_face:
+- emotion
+slime:
+- object
+sling:
+- object
+slingshot:
+- object
+slot_machine:
+- object
+sloth:
+- animal
+slow_blob:
+- object
+slumbering_sanctuary:
+- object
+sly:
+- object
+small_airplane:
+- object
+small_blue_diamond:
+- object
+small_fire:
+- object
+small_orange_diamond:
+- object
+smart:
+- object
+smartphone:
+- object
+smartphone_2:
+- object
+smash_arrows:
+- object
+smile:
+- emotion
+smile_beam:
+- emotion
+smile_wink:
+- emotion
+smiling_cat_with_heart_eyes:
+- animal
+smiling_face:
+- emotion
+smiling_face_with_halo:
+- emotion
+smiling_face_with_heart_eyes:
+- emotion
+smiling_face_with_hearts:
+- card
+- emotion
+smiling_face_with_horns:
+- emotion
+smiling_face_with_smiling_eyes:
+- emotion
+smiling_face_with_sunglasses:
+- emotion
+smiling_face_with_tear:
+- emotion
+smirking_face:
+- emotion
+smitten:
+- object
+smog:
+- object
+smoke_bomb:
+- object
+smoking:
+- object
+smoking_ban:
+- object
+smoking_finger:
+- object
+smoking_orb:
+- object
+smoking_pipe:
+- object
+smoking_volcano:
+- object
+sms:
+- object
+snail:
+- animal
+snail_eyes:
+- animal
+snake:
+- animal
+snake_bite:
+- animal
+snake_egg:
+- animal
+snake_spiral:
+- animal
+snake_tongue:
+- animal
+snake_totem:
+- animal
+snatch:
+- object
+sneezing_face:
+- emotion
+sniffing_dog:
+- animal
+snitch_quidditch_ball:
+- object
+snorkel:
+- object
+snout:
+- object
+snow_bottle:
+- food
+snow_capped_mountain:
+- object
+snowboarder:
+- object
+snowboarding:
+- object
+snowflake:
+- object
+snowflake_1:
+- object
+snowflake_2:
+- object
+snowing:
+- object
+snowman:
+- object
+snowman_without_snow:
+- object
+snowplow:
+- object
+soap:
+- object
+soap_experiment:
+- object
+soccer_ball:
+- sport
+soccer_field:
+- sport
+socks:
+- object
+soda_can:
+- object
+sofa:
+- object
+soft_ice_cream:
+- object
+softball:
+- object
+solar_panel:
+- object
+solar_power:
+- object
+solar_system:
+- object
+solar_time:
+- object
+solid_leaf:
+- plant
+solomons_temple:
+- building
+sombrero:
+- object
+sonic_boom:
+- object
+sonic_lightning:
+- object
+sonic_screech:
+- object
+sonic_shoes:
+- clothing
+sonic_shout:
+- object
+soon_arrow:
+- object
+sort:
+- object
+sort_alpha_down:
+- object
+sort_alpha_down_alt:
+- object
+sort_alpha_up:
+- object
+sort_alpha_up_alt:
+- object
+sort_amount_down:
+- object
+sort_amount_down_alt:
+- object
+sort_amount_up:
+- object
+sort_amount_up_alt:
+- object
+sort_down:
+- object
+sort_numeric_down:
+- object
+sort_numeric_down_alt:
+- object
+sort_numeric_up:
+- object
+sort_numeric_up_alt:
+- object
+sort_up:
+- object
+sos_button:
+- symbol
+sound_off:
+- object
+sound_on:
+- object
+sound_waves:
+- object
+south_africa:
+- object
+south_africa_flag:
+- symbol
+south_america:
+- object
+south_korea:
+- object
+south_pole_expedition:
+- object
+spa:
+- object
+space_shuttle:
+- object
+space_suit:
+- object
+spaceship:
+- object
+spade:
+- object
+spade_skull:
+- object
+spade_suit:
+- object
+spades:
+- card
+spaghetti:
+- object
+spaghetti_monster_flying:
+- object
+spain:
+- object
+spanner:
+- object
+spark_spirit:
+- object
+sparkle:
+- object
+sparkler:
+- object
+sparkles:
+- object
+sparkling_heart:
+- object
+sparkling_sabre:
+- object
+sparky_bomb:
+- object
+sparrow:
+- animal
+spartan:
+- object
+spartan_helmet:
+- object
+spatter:
+- object
+spawn_node:
+- object
+speak_no_evil_monkey:
+- animal
+speaker:
+- object
+speaker_high_volume:
+- object
+speaker_low_volume:
+- object
+speaker_medium_volume:
+- object
+speaker_off:
+- object
+speaking_head:
+- object
+spear_feather:
+- object
+spear_hook:
+- object
+spearfishing:
+- object
+spears:
+- object
+spectacle_lenses:
+- object
+spectacles:
+- object
+spectre:
+- object
+spectre_m4:
+- object
+speech_balloon:
+- object
+speed_boat:
+- object
+speedboat:
+- object
+speedometer:
+- object
+spell_book:
+- object
+spell_check:
+- object
+sperm_whale:
+- animal
+spherical_angle:
+- object
+sphinx:
+- object
+sphynx_cat:
+- animal
+spice_islands:
+- object
+spider:
+- object
+spider_alt:
+- object
+spider_bot:
+- object
+spider_eye:
+- object
+spider_face:
+- emotion
+spider_mask:
+- object
+spider_web:
+- object
+spikeball:
+- object
+spiked_armor:
+- object
+spiked_ball:
+- object
+spiked_bat:
+- animal
+spiked_collar:
+- object
+spiked_dragon_head:
+- object
+spiked_fence:
+- object
+spiked_halo:
+- object
+spiked_mace:
+- object
+spiked_shell:
+- object
+spiked_shoulder_armor:
+- object
+spiked_snail:
+- animal
+spiked_tail:
+- object
+spiked_tentacle:
+- object
+spiked_trunk:
+- object
+spikes:
+- object
+spikes_full:
+- object
+spikes_half:
+- object
+spikes_init:
+- object
+spiky_eclipse:
+- object
+spiky_explosion:
+- object
+spiky_field:
+- object
+spiky_pit:
+- object
+spiky_wing:
+- object
+spill:
+- object
+spinal_coil:
+- object
+spine_arrow:
+- object
+spinner:
+- object
+spinning_blades:
+- object
+spinning_jenny:
+- object
+spinning_ribbons:
+- object
+spinning_sword:
+- object
+spinning_top:
+- object
+spiral_arrow:
+- object
+spiral_bloom:
+- object
+spiral_bottle:
+- food
+spiral_calendar:
+- object
+spiral_hilt:
+- object
+spiral_lollipop:
+- object
+spiral_notepad:
+- object
+spiral_shell:
+- object
+spiral_tentacle:
+- object
+spiral_thrust:
+- object
+splash:
+- object
+splash_2:
+- object
+splashy_stream:
+- object
+split_arrows:
+- object
+split_body:
+- object
+split_cross:
+- object
+splotch:
+- object
+splurt:
+- object
+sponge:
+- object
+spooky_house:
+- building
+spoon:
+- object
+sport_medal:
+- sport
+- symbol
+sport_utility_vehicle:
+- object
+sports_medal:
+- sport
+- symbol
+spoted_flower:
+- plant
+spotted_arrowhead:
+- object
+spotted_bug:
+- object
+spotted_mushroom:
+- plant
+spotted_wound:
+- object
+spouting_whale:
+- animal
+spoutnik:
+- object
+spray:
+- object
+spray_can:
+- object
+spray_can_sparkles:
+- object
+spring:
+- object
+sprint:
+- object
+sprout:
+- object
+sprout_disc:
+- object
+spy:
+- object
+spyglass:
+- object
+square:
+- object
+square_arrow_up_right:
+- object
+square_bottle:
+- food
+square_caret_down:
+- object
+square_caret_left:
+- object
+square_caret_right:
+- object
+square_caret_up:
+- object
+square_check:
+- object
+square_envelope:
+- object
+square_full:
+- object
+square_h:
+- object
+square_minus:
+- object
+square_nfi:
+- object
+square_parking:
+- object
+square_pen:
+- object
+square_person_confined:
+- person
+square_phone:
+- technology
+square_phone_flip:
+- technology
+square_plus:
+- object
+square_poll_horizontal:
+- object
+square_poll_vertical:
+- object
+square_root:
+- object
+square_root_alt:
+- object
+square_root_variable:
+- object
+square_rss:
+- object
+square_share_nodes:
+- object
+square_up_right:
+- object
+square_virus:
+- object
+square_xmark:
+- object
+squib:
+- object
+squid:
+- animal
+squid_head:
+- animal
+squinting_face_with_tongue:
+- emotion
+squirrel:
+- animal
+sri_lanka:
+- object
+stabbed_note:
+- object
+stability:
+- object
+stack:
+- object
+stadium:
+- object
+staff_snake:
+- animal
+stag_beetle:
+- object
+stag_head:
+- object
+stahlhelm:
+- object
+stairs:
+- object
+stairs_cake:
+- food
+stairs_goal:
+- object
+stake_hammer:
+- tool
+stakes_fence:
+- object
+stalactites:
+- object
+stalagtite:
+- object
+stamp:
+- object
+stamper:
+- object
+standing:
+- object
+standing_potion:
+- object
+stapler:
+- object
+star:
+- object
+star_altar:
+- object
+star_and_crescent:
+- object
+star_cycle:
+- object
+star_flag:
+- symbol
+star_formation:
+- object
+star_gate:
+- object
+star_half:
+- object
+star_half_alt:
+- object
+star_half_stroke:
+- object
+star_of_david:
+- object
+star_of_life:
+- object
+star_prominences:
+- object
+star_pupil:
+- object
+star_sattelites:
+- object
+star_shuriken:
+- object
+star_skull:
+- object
+star_struck:
+- object
+star_swirl:
+- object
+starfighter:
+- object
+starfish:
+- animal
+stars_stack:
+- object
+staryu:
+- object
+static:
+- object
+static_guard:
+- object
+static_waves:
+- object
+station:
+- object
+statue_of_liberty:
+- object
+steak:
+- object
+stealth_bomber:
+- object
+steam:
+- object
+steam_blast:
+- object
+steam_locomotive:
+- object
+steaming_bowl:
+- object
+steampunk_goggles:
+- object
+steamy_room:
+- object
+steel_claws:
+- object
+steel_claws_2:
+- object
+steel_door:
+- object
+steeltoe_boots:
+- object
+steelwing_emblem:
+- object
+steering_wheel:
+- object
+stegosaurus_scales:
+- object
+stellers_jay:
+- object
+step_backward:
+- object
+step_forward:
+- object
+sterling_sign:
+- symbol
+stethoscope:
+- object
+steyr_aug:
+- object
+stick_frame:
+- object
+stick_grenade:
+- object
+stick_splitting:
+- object
+sticking_plaster:
+- object
+sticky_boot:
+- object
+sticky_note:
+- object
+stigmata:
+- object
+stiletto:
+- object
+stiletto_2:
+- object
+stitch:
+- object
+stitched_wound:
+- object
+stock_exchange:
+- object
+stockpiles:
+- object
+stomach:
+- object
+stomp:
+- object
+stomp_tornado:
+- object
+stone:
+- object
+stone_axe:
+- tool
+stone_block:
+- object
+stone_bridge:
+- object
+stone_bust:
+- object
+stone_crafting:
+- object
+stone_path:
+- object
+stone_pile:
+- object
+stone_spear:
+- object
+stone_sphere:
+- object
+stone_stack:
+- object
+stone_tablet:
+- object
+stone_throne:
+- object
+stone_tower:
+- building
+stone_wall:
+- object
+stone_wheel:
+- object
+stoned_skull:
+- object
+stonehenge:
+- object
+stop:
+- object
+stop_button:
+- symbol
+stop_circle:
+- object
+stop_sign:
+- symbol
+stopwatch:
+- object
+stopwatch_2:
+- object
+stopwatch_20:
+- object
+store:
+- object
+store_alt:
+- object
+store_slash:
+- object
+stork_delivery:
+- animal
+strafe:
+- object
+straight_pipe:
+- object
+straight_ruler:
+- object
+strawberry:
+- object
+stream:
+- object
+street_light:
+- object
+street_view:
+- object
+strikethrough:
+- object
+striking_arrows:
+- object
+striking_balls:
+- object
+striking_clamps:
+- object
+striking_diamonds:
+- card
+striking_splinter:
+- object
+striped_sun:
+- nature
+striped_sword:
+- object
+strong:
+- object
+strong_man:
+- person
+stroopwafel:
+- object
+student:
+- object
+studio_microphone:
+- object
+stuffed_flatbread:
+- object
+stump_regrowth:
+- object
+stun_grenade:
+- object
+submarine:
+- object
+submarine_missile:
+- object
+subscript:
+- object
+subway:
+- object
+suckered_tentacle:
+- object
+suez_canal:
+- object
+sugar_cane:
+- object
+suicide:
+- object
+suit_levitating:
+- object
+suitcase:
+- object
+suitcase_medical:
+- object
+suitcase_rolling:
+- object
+suits:
+- object
+suleiman:
+- object
+summits:
+- object
+sun:
+- nature
+sun_behind_cloud:
+- nature
+sun_behind_large_cloud:
+- nature
+sun_behind_rain_cloud:
+- nature
+sun_behind_small_cloud:
+- nature
+sun_cloud:
+- nature
+sun_plant_wilt:
+- nature
+- plant
+sun_radiations:
+- nature
+sun_spear:
+- nature
+sun_tzu:
+- nature
+sun_with_face:
+- emotion
+- nature
+sunbeams:
+- object
+sundial:
+- object
+sunflower:
+- object
+sunglasses:
+- object
+sunken_eye:
+- object
+sunrise:
+- object
+sunrise_2:
+- object
+sunrise_over_mountains:
+- object
+sunset:
+- object
+super_mushroom:
+- plant
+superhero:
+- object
+superscript:
+- object
+supersonic_arrow:
+- object
+supersonic_bullet:
+- object
+supervillain:
+- object
+surface_integral:
+- object
+surfing:
+- object
+surprise:
+- object
+surprised:
+- object
+surprised_skull:
+- object
+surrender_at_yorktown:
+- object
+surrounded_eye:
+- object
+surrounded_shield:
+- object
+sushi:
+- object
+sushis:
+- object
+suspension_bridge:
+- object
+suspension_railway:
+- object
+suspicious:
+- object
+sverd_i_fjell:
+- object
+swallow:
+- object
+swallow_2:
+- object
+swallower:
+- object
+swamp:
+- object
+swamp_bat:
+- animal
+swan:
+- animal
+swan_breeze:
+- animal
+swap_bag:
+- object
+swatchbook:
+- object
+sweat_droplets:
+- object
+sweetie:
+- object
+swimfins:
+- object
+swimmer:
+- object
+swimming:
+- object
+swimming_pool:
+- object
+swirl_ring:
+- object
+swirl_string:
+- object
+swirled_shell:
+- object
+swiss_army_knife:
+- tool
+switch_weapon:
+- object
+switchblade:
+- object
+switzerland:
+- object
+sword_altar:
+- object
+sword_array:
+- object
+sword_brandish:
+- object
+sword_break:
+- object
+sword_clash:
+- object
+sword_hilt:
+- object
+sword_in_stone:
+- object
+sword_mold:
+- object
+sword_slice:
+- object
+sword_smithing:
+- object
+sword_spade:
+- object
+sword_spin:
+- object
+sword_tie:
+- accessory
+sword_wound:
+- object
+swordman:
+- object
+swords_emblem:
+- object
+swords_power:
+- object
+swordwoman:
+- object
+synagogue:
+- object
+sync:
+- object
+sync_alt:
+- object
+syringe:
+- object
+syringe_2:
+- object
+t_brick:
+- object
+t_rex:
+- object
+t_shirt:
+- clothing
+tabby_cat:
+- animal
+tabi_boot:
+- object
+table:
+- object
+table_cells:
+- object
+table_cells_large:
+- object
+table_columns:
+- object
+table_list:
+- object
+table_tennis:
+- sport
+table_tennis_paddle_ball:
+- sport
+tablet:
+- object
+tablet_alt:
+- object
+tablet_button:
+- symbol
+tablet_screen_button:
+- symbol
+- technology
+tabletop_players:
+- object
+tablets:
+- object
+tachograph_digital:
+- object
+tachometer_alt:
+- object
+taco:
+- object
+tacos:
+- object
+tadpole:
+- object
+tag:
+- object
+tags:
+- object
+taj_mahal:
+- object
+take_my_money:
+- object
+takeout_box:
+- object
+taking_bath:
+- object
+talk:
+- object
+tall_bridge:
+- object
+tamale:
+- object
+tanabata_tree:
+- plant
+tangerine:
+- object
+tank:
+- object
+tank_tread:
+- object
+tap:
+- object
+tape:
+- object
+tapir:
+- object
+target_arrows:
+- object
+target_dummy:
+- object
+target_laser:
+- object
+target_shot:
+- object
+targeted:
+- object
+targeting:
+- object
+tarp:
+- object
+tarp_droplet:
+- object
+tasks:
+- object
+tattered_banner:
+- object
+taurus:
+- object
+taxi:
+- object
+teacher:
+- object
+teacup_without_handle:
+- object
+team_downgrade:
+- object
+team_idea:
+- object
+team_upgrade:
+- object
+teapot:
+- object
+teapot_leaves:
+- object
+tear_off_calendar:
+- object
+tear_tracks:
+- object
+tearing:
+- object
+tec_9:
+- object
+techno_heart:
+- object
+technologist:
+- object
+teddy_bear:
+- object
+tee_pipe:
+- object
+teeth:
+- object
+teeth_open:
+- object
+telefrag:
+- object
+telepathy:
+- object
+telephone:
+- object
+telephone_receiver:
+- object
+teleport:
+- object
+telescope:
+- object
+telescopic_baton:
+- object
+television:
+- object
+teller_mine:
+- object
+temperature_arrow_down:
+- object
+temperature_arrow_up:
+- object
+temperature_empty:
+- object
+temperature_full:
+- object
+temperature_half:
+- object
+temperature_high:
+- object
+temperature_low:
+- object
+temperature_quarter:
+- object
+temperature_three_quarters:
+- object
+templar_eye:
+- object
+templar_heart:
+- object
+templar_shield:
+- object
+temple_door:
+- building
+temporary_shield:
+- object
+temptation:
+- object
+ten_o'clock:
+- object
+ten_oclock:
+- object
+ten_thirty:
+- object
+tenge:
+- object
+tenge_sign:
+- symbol
+tennis:
+- sport
+tennis_ball:
+- sport
+tennis_court:
+- sport
+tennis_racket:
+- sport
+tension_snowflake:
+- object
+tent:
+- building
+tent_arrow_down_to_line:
+- building
+tent_arrow_left_right:
+- building
+tent_arrow_turn_left:
+- building
+tent_arrows_down:
+- building
+tentacle_heart:
+- object
+tentacle_strike:
+- object
+tentacles_skull:
+- object
+tentacurl:
+- object
+tents:
+- object
+terminal:
+- object
+terrace_farming:
+- object
+terracotta_army:
+- object
+terror:
+- object
+tesla:
+- object
+tesla_coil:
+- object
+tesla_turret:
+- object
+test_tube:
+- object
+test_tubes:
+- object
+texas:
+- object
+text_height:
+- object
+text_slash:
+- object
+text_width:
+- object
+th:
+- object
+th_large:
+- object
+th_list:
+- object
+the_bible:
+- object
+the_caribbean:
+- object
+the_horns_of_hattin:
+- object
+the_odyssey:
+- object
+the_oracle:
+- object
+the_pillar_of_hercules:
+- object
+the_quoran:
+- object
+theater_curtains:
+- object
+theater_masks:
+- object
+theatre:
+- object
+there_does_not_exist:
+- object
+there_exists:
+- object
+therefore:
+- object
+thermometer:
+- object
+thermometer_cold:
+- object
+thermometer_empty:
+- object
+thermometer_full:
+- object
+thermometer_half:
+- object
+thermometer_hot:
+- object
+thermometer_quarter:
+- object
+thermometer_scale:
+- object
+thermometer_three_quarters:
+- object
+think:
+- object
+thinking_face:
+- emotion
+third_eye:
+- object
+thirty_years_war:
+- object
+thompson_m1:
+- object
+thompson_m1928:
+- object
+thong_sandal:
+- object
+thor_fist:
+- gesture
+thor_hammer:
+- tool
+thorn_helix:
+- object
+thorned_arrow:
+- object
+thorny_tentacle:
+- object
+thorny_vine:
+- object
+thought_balloon:
+- object
+thread:
+- object
+three_burning_balls:
+- object
+three_friends:
+- object
+three_keys:
+- object
+three_kingdoms:
+- object
+three_leaves:
+- object
+three_o'clock:
+- object
+three_oclock:
+- object
+three_pointed_shuriken:
+- object
+three_thirty:
+- object
+throne_king:
+- role
+throwing_ball:
+- object
+thrown_charcoal:
+- object
+thrown_daggers:
+- object
+thrown_knife:
+- tool
+thrown_spear:
+- object
+thrust:
+- object
+thrust_bend:
+- object
+thumb_down:
+- gesture
+thumb_up:
+- gesture
+thumbs_down:
+- object
+thumbs_up:
+- object
+thumbtack:
+- object
+thunder_blade:
+- object
+thunder_skull:
+- object
+thunder_struck:
+- object
+thunderball:
+- object
+thwomp:
+- object
+tiara:
+- object
+tibet:
+- object
+tic_tac_toe:
+- object
+tick:
+- object
+ticket:
+- object
+ticket_alt:
+- object
+ticket_simple:
+- object
+tie:
+- accessory
+tied_scroll:
+- object
+tiger:
+- animal
+tiger_face:
+- animal
+- emotion
+tiger_head:
+- animal
+tightrope:
+- object
+tilde_operator:
+- object
+time_bomb:
+- object
+time_trap:
+- object
+timeline:
+- object
+timer_clock:
+- object
+times:
+- object
+times_circle:
+- object
+tinker:
+- object
+tint:
+- object
+tint_slash:
+- object
+tipi:
+- object
+tipping_hand:
+- gesture
+tire_tracks:
+- object
+tired:
+- object
+tired_face:
+- emotion
+titanic:
+- object
+titusville:
+- object
+toad_teeth:
+- animal
+toaster:
+- object
+toggle_off:
+- object
+toggle_on:
+- object
+toggles:
+- object
+toilet:
+- object
+toilet_paper:
+- object
+toilet_paper_slash:
+- object
+toilet_portable:
+- object
+toilets_portable:
+- object
+token:
+- object
+tokugawa:
+- object
+tokyo_tower:
+- building
+tom:
+- object
+tomahawk:
+- object
+tomato:
+- object
+tombstone:
+- object
+tombstone_2:
+- object
+tongue:
+- object
+toolbox:
+- object
+tools:
+- object
+tooth:
+- object
+toothbrush:
+- object
+top_arrow:
+- object
+top_hat:
+- accessory
+top_paw:
+- object
+topaz:
+- object
+torah:
+- object
+torc:
+- object
+torch:
+- object
+torii_gate:
+- object
+tornado:
+- object
+tornado_discs:
+- object
+torpedo:
+- object
+tortoise:
+- object
+totem:
+- object
+totem_head:
+- object
+totem_mask:
+- object
+toucan:
+- object
+tower_bridge:
+- building
+tower_broadcast:
+- building
+tower_cell:
+- building
+tower_fall:
+- building
+tower_flag:
+- building
+- symbol
+tower_observation:
+- building
+toy_mallet:
+- object
+trackball:
+- object
+tracked_robot:
+- technology
+tractor:
+- object
+trade:
+- object
+trade_mark:
+- symbol
+trademark:
+- object
+traffic_cone:
+- object
+traffic_light:
+- object
+traffic_lights_green:
+- object
+traffic_lights_orange:
+- object
+traffic_lights_ready_to_go:
+- object
+traffic_lights_red:
+- object
+trail:
+- object
+trailer:
+- object
+train:
+- object
+train_subway:
+- object
+train_tram:
+- object
+tram:
+- object
+tram_car:
+- object
+trample:
+- object
+transform:
+- object
+transfuse:
+- object
+transgender:
+- object
+transgender_alt:
+- object
+transgender_symbol:
+- object
+transparent_slime:
+- object
+transparent_tubes:
+- object
+transportation_rings:
+- object
+trap_mask:
+- object
+trash:
+- object
+trash_alt:
+- object
+trash_arrow_up:
+- object
+trash_can:
+- object
+trash_can_arrow_up:
+- object
+trash_restore:
+- object
+trash_restore_alt:
+- object
+tread:
+- object
+treasure_map:
+- object
+trebuchet:
+- object
+tree:
+- plant
+tree_beehive:
+- plant
+tree_branch:
+- plant
+tree_city:
+- location
+- plant
+tree_face:
+- emotion
+- plant
+tree_growth:
+- plant
+tree_roots:
+- plant
+tree_swing:
+- plant
+trefoil_lily:
+- object
+trefoil_shuriken:
+- object
+trench_assault:
+- object
+trench_body_armor:
+- object
+trench_knife:
+- tool
+trench_spade:
+- object
+triangle_exclamation:
+- object
+triangle_target:
+- object
+triangular_flag:
+- symbol
+triangular_ruler:
+- object
+tribal_mask:
+- object
+tribal_pendant:
+- object
+triceratops_head:
+- object
+trident:
+- object
+trident_emblem:
+- object
+trident_shield:
+- object
+triforce:
+- object
+trigger_hurt:
+- object
+trilobite:
+- object
+triorb:
+- object
+triple_beak:
+- object
+triple_claws:
+- object
+triple_corn:
+- object
+triple_gate:
+- object
+triple_integral:
+- object
+triple_lock:
+- object
+triple_needle:
+- object
+triple_plier:
+- object
+triple_scratches:
+- object
+triple_shells:
+- object
+triple_skulls:
+- object
+triple_yin:
+- object
+tripwire:
+- object
+triquetra:
+- object
+trireme:
+- object
+triton_head:
+- object
+troglodyte:
+- object
+trojan_horse:
+- animal
+troll:
+- object
+trolleybus:
+- object
+tron_arrow:
+- object
+trophy:
+- symbol
+trophy_cup:
+- symbol
+tropical_drink:
+- food
+tropical_fish:
+- object
+trousers:
+- object
+trousers_2:
+- object
+trowel:
+- object
+trowel_bricks:
+- object
+truck:
+- object
+truck_arrow_right:
+- object
+truck_droplet:
+- object
+truck_fast:
+- object
+truck_field:
+- object
+truck_field_un:
+- object
+truck_front:
+- object
+truck_loading:
+- object
+truck_medical:
+- object
+truck_monster:
+- object
+truck_moving:
+- object
+truck_pickup:
+- object
+truck_plane:
+- object
+truck_ramp_box:
+- object
+trumpet:
+- object
+trumpet_flag:
+- symbol
+trunk_mushroom:
+- plant
+tshirt:
+- object
+tty:
+- object
+tulip:
+- object
+tumbler_glass:
+- object
+tumbleweed:
+- object
+tumor:
+- object
+tumulus:
+- object
+tune_pitch:
+- object
+turban:
+- object
+turbine:
+- object
+turd:
+- object
+turkey:
+- animal
+turkish_lira_sign:
+- symbol
+turn_down:
+- object
+turn_up:
+- object
+turret:
+- object
+turtle:
+- animal
+turtle_shell:
+- animal
+tusks_flag:
+- symbol
+tv:
+- object
+tv_remote:
+- object
+tv_tower:
+- building
+twelve_o'clock:
+- object
+twelve_oclock:
+- object
+twelve_thirty:
+- object
+twin_shell:
+- object
+twirl_center:
+- object
+twirly_flower:
+- plant
+twister:
+- object
+two_coins:
+- object
+two_feathers:
+- object
+two_handed_sword:
+- object
+two_hearts:
+- card
+two_hump_camel:
+- animal
+two_o'clock:
+- object
+two_oclock:
+- object
+two_shadows:
+- object
+two_thirty:
+- object
+tyre:
+- object
+ubisoft_sun:
+- nature
+udder:
+- object
+ufo:
+- object
+ultrasound:
+- object
+uluru:
+- object
+umbrella:
+- object
+umbrella_bayonet:
+- object
+umbrella_beach:
+- object
+umbrella_on_ground:
+- object
+umbrella_with_rain_drops:
+- nature
+unamused_face:
+- emotion
+unbalanced:
+- object
+uncertainty:
+- object
+uncle_toms_cabin:
+- object
+underhand:
+- object
+underline:
+- object
+underwear:
+- object
+underwear_shorts:
+- object
+undo:
+- object
+undo_alt:
+- object
+unfriendly_fire:
+- object
+unicorn:
+- object
+unicycle:
+- object
+union:
+- object
+union_jack:
+- object
+universal_access:
+- object
+university:
+- object
+unknown_user:
+- object
+unlink:
+- object
+unlit_bomb:
+- object
+unlit_candelabra:
+- object
+unlock:
+- object
+unlock_alt:
+- object
+unlock_keyhole:
+- object
+unlocked:
+- object
+unlocking:
+- object
+unplugged:
+- object
+unstable_orb:
+- object
+unstable_projectile:
+- object
+up!_button:
+- symbol
+up_arrow:
+- object
+up_button:
+- symbol
+up_card:
+- card
+up_down:
+- object
+up_down_arrow:
+- object
+up_down_left_right:
+- object
+up_left_arrow:
+- object
+up_long:
+- object
+up_right_and_down_left_from_center:
+- object
+up_right_arrow:
+- object
+up_right_from_square:
+- object
+upgrade:
+- object
+upload:
+- object
+uprising:
+- object
+upside_down_face:
+- emotion
+upwards_arrow:
+- object
+upwards_button:
+- symbol
+uraniborg:
+- object
+urban_center:
+- object
+ursa_major:
+- object
+uruguay:
+- object
+usa_flag:
+- symbol
+usable:
+- object
+usb_key:
+- object
+user:
+- object
+user_alt:
+- object
+user_alt_slash:
+- object
+user_astronaut:
+- object
+user_check:
+- object
+user_circle:
+- object
+user_clock:
+- object
+user_cog:
+- object
+user_doctor:
+- object
+user_edit:
+- object
+user_friends:
+- object
+user_gear:
+- object
+user_graduate:
+- object
+user_group:
+- object
+user_injured:
+- object
+user_large:
+- object
+user_large_slash:
+- object
+user_lock:
+- object
+user_md:
+- object
+user_minus:
+- object
+user_ninja:
+- object
+user_nurse:
+- object
+user_pen:
+- object
+user_plus:
+- object
+user_secret:
+- object
+user_shield:
+- object
+user_slash:
+- object
+user_tag:
+- object
+user_tie:
+- accessory
+user_times:
+- object
+user_xmark:
+- object
+users:
+- object
+users_between_lines:
+- object
+users_cog:
+- object
+users_gear:
+- object
+users_leo:
+- object
+users_line:
+- object
+users_rays:
+- object
+users_rectangle:
+- object
+users_slash:
+- object
+users_viewfinder:
+- object
+users_viola:
+- object
+users_wolf:
+- animal
+utensil_spoon:
+- object
+utensils:
+- object
+uzi:
+- object
+vaccine:
+- object
+vacuum_cleaner:
+- object
+valerie:
+- object
+valley:
+- object
+valve:
+- object
+vampire:
+- object
+vampire_cape:
+- clothing
+vampire_dracula:
+- object
+van_damme_split:
+- object
+van_shuttle:
+- object
+vandalic_war:
+- object
+vanilla_flower:
+- plant
+vatican:
+- object
+vault:
+- object
+vector_square:
+- object
+veil:
+- object
+velocipede:
+- object
+velociraptor:
+- object
+velociraptor_tracks:
+- object
+vending_machine:
+- object
+venezuela:
+- object
+venus:
+- object
+venus_double:
+- object
+venus_mars:
+- object
+venus_of_willendorf:
+- object
+versailles:
+- object
+vertical_banner:
+- object
+vertical_flip:
+- object
+vertical_traffic_light:
+- object
+vest:
+- object
+vest_patches:
+- object
+vesuvius:
+- object
+vial:
+- object
+vial_circle_check:
+- object
+vial_virus:
+- object
+vials:
+- object
+vibrating_ball:
+- object
+vibrating_shield:
+- object
+vibrating_smartphone:
+- object
+vibration_mode:
+- object
+victoria_falls:
+- object
+victory_hand:
+- gesture
+video:
+- object
+video_camera:
+- technology
+video_conference:
+- object
+video_game:
+- game
+video_slash:
+- object
+videocassette:
+- object
+vihara:
+- object
+viking_church:
+- building
+viking_head:
+- object
+viking_helmet:
+- object
+viking_longhouse:
+- object
+viking_raids:
+- object
+viking_shield:
+- object
+vile_fluid:
+- object
+village:
+- object
+vine_flower:
+- plant
+vine_leaf:
+- plant
+vine_whip:
+- object
+vintage_robot:
+- technology
+viola:
+- object
+violin:
+- music
+virginia:
+- object
+virgo:
+- object
+virtual_marker:
+- object
+virus:
+- object
+virus_covid:
+- object
+virus_covid_slash:
+- object
+virus_slash:
+- object
+viruses:
+- object
+visored_helm:
+- object
+vitruvian_man:
+- person
+vladimir:
+- object
+voicemail:
+- object
+volcano:
+- object
+volleyball:
+- object
+volleyball_ball:
+- object
+volume_down:
+- object
+volume_high:
+- object
+volume_integral:
+- object
+volume_low:
+- object
+volume_mute:
+- object
+volume_off:
+- object
+volume_up:
+- object
+volume_xmark:
+- object
+vomiting:
+- object
+voodoo_doll:
+- object
+voortrekker:
+- object
+vortex:
+- object
+vote:
+- object
+vote_yea:
+- object
+vr_cardboard:
+- object
+vr_headset:
+- object
+vs_button:
+- symbol
+vulcan_salute:
+- object
+vulture:
+- animal
+vuvuzelas:
+- object
+waffle:
+- object
+wala:
+- object
+walk:
+- object
+walkie_talkie:
+- object
+walking:
+- object
+walking_boot:
+- object
+walking_scout:
+- object
+walking_turret:
+- object
+wall_light:
+- object
+wallet:
+- object
+wallum_sedge_frog:
+- animal
+walrus:
+- animal
+walrus_head:
+- animal
+walther_ppk:
+- object
+wand_magic:
+- object
+wand_magic_sparkles:
+- object
+wand_sparkles:
+- object
+waning_crescent_moon:
+- nature
+waning_gibbous_moon:
+- nature
+wanted_reward:
+- object
+war:
+- object
+war_axe:
+- tool
+war_bonnet:
+- object
+war_of_cyprus:
+- object
+war_of_jenkins_ear:
+- object
+war_of_the_roses:
+- object
+war_pick:
+- object
+wardenclyffe_tower:
+- building
+warehouse:
+- object
+warlock_eye:
+- object
+warlock_hood:
+- object
+warning:
+- object
+warp_pipe:
+- object
+warring_states:
+- object
+wars_of_alexander:
+- object
+warthog:
+- animal
+wasp:
+- animal
+wasp_sting:
+- animal
+wastebasket:
+- object
+watch:
+- accessory
+watchtower:
+- object
+water:
+- object
+water_bolt:
+- object
+water_bottle:
+- food
+water_buffalo:
+- animal
+water_closet:
+- object
+water_diviner_stick:
+- object
+water_drop:
+- object
+water_flask:
+- object
+water_fountain:
+- object
+water_gallon:
+- object
+water_gun:
+- object
+water_ladder:
+- object
+water_polo:
+- object
+water_splash:
+- object
+water_tank:
+- object
+water_wave:
+- gesture
+waterball:
+- object
+waterfall:
+- object
+watering_can:
+- object
+watermelon:
+- object
+watermill:
+- object
+wave_crest:
+- gesture
+wave_square:
+- gesture
+wave_strike:
+- gesture
+wave_surfer:
+- gesture
+waves:
+- object
+waving_hand:
+- gesture
+wavy_chains:
+- object
+wavy_dash:
+- object
+wavy_itinerary:
+- object
+wax_seal:
+- animal
+wax_tablet:
+- object
+waxing_crescent_moon:
+- nature
+waxing_gibbous_moon:
+- nature
+wearing_turban:
+- object
+weary_cat:
+- animal
+weary_face:
+- emotion
+web_spit:
+- object
+wedding:
+- object
+weight:
+- object
+weight_crush:
+- object
+weight_hanging:
+- object
+weight_lifting_down:
+- object
+weight_lifting_up:
+- object
+weight_scale:
+- object
+well:
+- object
+werewolf:
+- object
+western_hat:
+- accessory
+whale:
+- animal
+whale_tail:
+- animal
+wheat:
+- object
+wheat_awn:
+- object
+wheat_awn_circle_exclamation:
+- object
+wheel:
+- object
+wheel_of_dharma:
+- object
+wheelbarrow:
+- object
+wheelchair:
+- object
+wheelchair_move:
+- object
+wheelchair_symbol:
+- object
+whip:
+- object
+whiplash:
+- object
+whirlpool_shuriken:
+- object
+whirlwind:
+- object
+whisk:
+- object
+whiskey_glass:
+- object
+whistle:
+- object
+white_book:
+- object
+white_cane:
+- object
+white_circle:
+- object
+white_club_suit:
+- object
+white_diamond_suit:
+- object
+white_exclamation_mark:
+- symbol
+white_flower:
+- plant
+white_hair:
+- object
+white_heart:
+- object
+white_heart_suit:
+- object
+white_large_square:
+- object
+white_medium_small_square:
+- object
+white_medium_square:
+- object
+white_peacock_butterfly:
+- animal
+white_question_mark:
+- symbol
+white_small_square:
+- object
+white_square:
+- object
+white_square_button:
+- symbol
+white_tower:
+- building
+wide_arrow_dunk:
+- object
+wifi:
+- object
+wildfires:
+- object
+william_tell:
+- object
+william_tell_skull:
+- object
+wilted_flower:
+- plant
+winchester_rifle:
+- object
+wind:
+- nature
+wind_chime:
+- nature
+wind_face:
+- emotion
+- nature
+wind_hole:
+- nature
+wind_slap:
+- nature
+wind_turbine:
+- nature
+windmill:
+- object
+window:
+- object
+window_bars:
+- object
+window_close:
+- object
+window_maximize:
+- object
+window_minimize:
+- object
+window_restore:
+- object
+windpump:
+- object
+windsock:
+- object
+windy_stripes:
+- object
+wine_bottle:
+- food
+wine_glass:
+- food
+wine_glass_alt:
+- food
+wine_glass_empty:
+- food
+wing:
+- object
+wing_cloak:
+- object
+winged_arrow:
+- object
+winged_emblem:
+- object
+winged_leg:
+- object
+winged_scepter:
+- object
+winged_shield:
+- object
+winged_sword:
+- object
+wingfoot:
+- object
+winking_face:
+- emotion
+winking_face_with_tongue:
+- emotion
+winter_gloves:
+- object
+winter_hat:
+- accessory
+wire_coil:
+- object
+wireframe_globe:
+- object
+wireless:
+- object
+wisdom:
+- object
+witch_face:
+- emotion
+witch_flight:
+- object
+with:
+- object
+wizard:
+- object
+wizard_face:
+- emotion
+wizard_staff:
+- object
+wolf:
+- animal
+wolf_head:
+- animal
+wolf_howl:
+- animal
+wolf_trap:
+- animal
+wolfgang:
+- object
+wolverine_claws:
+- animal
+woman:
+- person
+womans_boot:
+- object
+womans_clothes:
+- object
+womans_hat:
+- accessory
+womans_sandal:
+- object
+women_holding_hands:
+- object
+women_with_bunny_ears:
+- object
+women_wrestling:
+- object
+womens_room:
+- object
+won_sign:
+- symbol
+wonder:
+- object
+wood:
+- object
+wood_axe:
+- tool
+wood_beam:
+- object
+wood_cabin:
+- object
+wood_canoe:
+- object
+wood_club:
+- object
+wood_pile:
+- object
+wood_stick:
+- object
+wooden_chair:
+- object
+wooden_clogs:
+- object
+wooden_crate:
+- object
+wooden_door:
+- object
+wooden_fence:
+- object
+wooden_helmet:
+- object
+wooden_pegleg:
+- object
+wooden_pier:
+- object
+wooden_sign:
+- symbol
+wool:
+- object
+woozy_face:
+- emotion
+worker:
+- person
+world:
+- object
+world_map:
+- object
+worm:
+- object
+worm_mouth:
+- object
+worms:
+- object
+worried_eyes:
+- object
+worried_face:
+- emotion
+wrapped_gift:
+- object
+wrapped_heart:
+- object
+wrapped_sweet:
+- object
+wrapping_star:
+- object
+wrecking_ball:
+- object
+wrench:
+- tool
+wrestling:
+- object
+writing_hand:
+- gesture
+wyvern:
+- object
+x_ray:
+- object
+xmark:
+- object
+xmarks_lines:
+- object
+xylophone:
+- object
+yarn:
+- object
+yawning_face:
+- emotion
+yellow_circle:
+- object
+yellow_heart:
+- object
+yellow_square:
+- object
+yellow_tang:
+- object
+yen_banknote:
+- object
+yen_sign:
+- symbol
+yin_yang:
+- object
+yo_yo:
+- object
+yummy:
+- object
+z_brick:
+- object
+zany_face:
+- emotion
+zat_gun:
+- object
+zebra:
+- animal
+zebra_shield:
+- animal
+zeppelin:
+- object
+zeus_sword:
+- object
+zhu_xi:
+- object
+zig_arrow:
+- object
+ziggurat:
+- object
+zigzag_cage:
+- object
+zigzag_hieroglyph:
+- object
+zigzag_leaf:
+- plant
+zigzag_tune:
+- object
+zipper:
+- object
+zipper_mouth_face:
+- emotion
+zombie:
+- object
+zzz:
+- object
