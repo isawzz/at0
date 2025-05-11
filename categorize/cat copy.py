@@ -4,19 +4,10 @@ import yaml
 with open("keys.txt", "r", encoding="utf-8") as f:
     keys = sorted([line.strip() for line in f if line.strip()])  # Sort keys alphabetically
 
-# Load the superdi.yaml file and create a dictionary
-with open("superdi.yaml", "r", encoding="utf-8") as f:
-    superdi_data = yaml.safe_load(f)
-
-# Create a dictionary to map keys to their categories from superdi.yaml
-superdi_categories = {key: value.get("cats", []) for key, value in superdi_data.items()}
-
 # Define categorization logic
 def categorize(key):
-    # Start with categories from superdi.yaml if available
-    categories = set(superdi_categories.get(key, []))
-
     words = key.lower().split("_")
+    categories = set()
 
     # Specific rules
     if key.lower().startswith("amanda"):
@@ -32,7 +23,7 @@ def categorize(key):
         categories.add("symbol")
 
     animal_keywords = [
-        "aardvark", "badger", "beaver", "bison", "boar", "buffalo", "camel", "cat", "chameleon", "chicken",
+        "aardvark", "badger", "bat", "beaver", "bison", "boar", "buffalo", "camel", "cat", "chameleon", "chicken",
         "cow", "crab", "crocodile", "deer", "dinosaur", "dog", "dolphin", "donkey", "duck", "eagle", "elephant",
         "falcon", "ferret", "flamingo", "fox", "frog", "giraffe", "goat", "goose", "gorilla", "hamster", "hare",
         "hawk", "hedgehog", "hippopotamus", "horse", "hound", "hyena", "ibis", "iguana", "jaguar", "kangaroo", "koala",
@@ -77,8 +68,7 @@ def categorize(key):
     if any(word in animal_keywords for word in words):
         categories.add("animal")
     if any(word in known_first_names for word in words):
-        if not('_' in key):
-            categories.add("user")
+        categories.add("user")
 
     # Add from category_map
     for cat, terms in category_map.items():
@@ -86,8 +76,8 @@ def categorize(key):
             categories.add(cat)
 
     # Fallback if empty
-    # if not categories:
-    #     categories.add("object")
+    if not categories:
+        categories.add("object")
 
     return sorted(list(categories))  # Sort categories alphabetically
 
