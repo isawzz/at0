@@ -12,8 +12,8 @@ def index():
 @app.route('/tessellate', methods=['GET'])
 def tessellate():
     try:
-        u = int(request.args.get('u', 10))
-        v = int(request.args.get('v', 10))
+        u = int(request.args.get('u', 4))
+        v = int(request.args.get('v', 4))
         svg = generate_svg_tessellation(u, v)
         return Response(svg, mimetype='image/svg+xml')
     except Exception as e:
