@@ -1,7 +1,11 @@
 
+___ https://github.com/cwant/tessagon/tree/main
+
 source /home3/moxitoon/virtualenv/at0/3.11/bin/activate && cd /home3/moxitoon/at0
 
 ___ make a python venv
+
+
 1. goto project dir
 2. python -m venv venv (fc: python3)
 3. venv\Scripts\activate
