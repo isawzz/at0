@@ -1,0 +1,1 @@
+{"gamename": "tictactoe", "players": ["Alice", "Bob"], "options": {}, "state": {"board": [[0, 1, 0], [0, 2, 0], [0, 0, 0]], "current_player": 1, "game_over": false, "winner": null}}

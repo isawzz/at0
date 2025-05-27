@@ -14,8 +14,11 @@ def tessellate():
     try:
         u = int(request.args.get('u', 4))
         v = int(request.args.get('v', 4))
-        svg = generate_svg_tessellation(u, v)
-        return Response(svg, mimetype='image/svg+xml')
+        shape = request.args.get('shape', 'Hexagon')
+        # svg = generate_svg_tessellation(u, v, shape)
+        # return Response(svg, mimetype='image/svg+xml')
+        res = generate_svg_tessellation(u, v, shape)
+        return jsonify(res) 
     except Exception as e:
         return jsonify({'error': str(e)}), 400
 
