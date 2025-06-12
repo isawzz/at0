@@ -183,7 +183,11 @@ def games_list():
 
 @app.route("/")
 def index():
-    return "game server running!"; #render_template("index.html")
+    return "flask game server running!"; #render_template("index.html")
+
+@app.route("/flask")
+def test_flask():
+    return "flask game server running!"; #render_template("index.html")
 
 @app.route("/save_game/<game_id>", methods=["POST"])
 def save_game(game_id):
