@@ -4,7 +4,7 @@ eventlet.monkey_patch()  # Ensures that socketio works with eventlet
 
 from flask import Flask, render_template, request, jsonify
 from flask_socketio import SocketIO, emit
-import os, sys, json, uuid, random, strPing
+import os, sys, json, uuid, random, string
 from itertools import product
 from importlib import import_module
 
