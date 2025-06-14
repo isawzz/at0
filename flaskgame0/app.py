@@ -5,6 +5,7 @@ eventlet.monkey_patch()  # Ensures that socketio works with eventlet
 from flask import Flask, render_template, request, jsonify
 from flask_socketio import SocketIO, emit
 import os, sys, json, uuid, random, string
+from flask_cors import CORS
 from itertools import product
 from importlib import import_module
 
@@ -13,6 +14,7 @@ SAVED_GAMES_DIR = "saved_games"
 os.makedirs(SAVED_GAMES_DIR, exist_ok=True)
 
 app = Flask(__name__, static_folder="templates")
+CORS(app)
 app.config["SECRET_KEY"] = "secret!"
 socketio = SocketIO(app, cors_allowed_origins="*")
 
