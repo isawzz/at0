@@ -191,6 +191,18 @@ def index():
 def test_flask():
     return "flask game server running!"; #render_template("index.html")
 
+@app.route('/routes')
+def list_routes():
+    output = []
+    for rule in app.url_map.iter_rules():
+        methods = ','.join(rule.methods - {'HEAD', 'OPTIONS'})
+        output.append({
+            'endpoint': rule.endpoint,
+            'methods': methods,
+            'rule': str(rule)
+        })
+    return jsonify(output)
+
 @app.route("/save_game/<game_id>", methods=["POST"])
 def save_game(game_id):
     data = request.get_json()
